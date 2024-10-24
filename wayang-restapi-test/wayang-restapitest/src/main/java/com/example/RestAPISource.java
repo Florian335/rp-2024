@@ -1,11 +1,11 @@
 package com.example;
 
-import com.fasterxml.jackson.databind.JsonNode;
-import com.fasterxml.jackson.databind.ObjectMapper;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.apache.wayang.core.plan.wayangplan.UnarySource;
 import org.apache.wayang.core.types.DataSetType;
+import org.json.JSONArray;
+import org.json.JSONException;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -13,15 +13,14 @@ import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
 
-public class RestAPISource extends UnarySource<JsonNode> {
+public class RestAPISource extends UnarySource<JSONArray> {
     private final Logger logger = LogManager.getLogger(this.getClass());
     private final String apiURL;
     private final String apiMethod;
     private final String headers;
-    private final ObjectMapper objectMapper = new ObjectMapper();
 
     public RestAPISource(String apiURL, String apiMethod, String headers){
-        super(DataSetType.createDefault(JsonNode.class));
+        super(DataSetType.createDefault(JSONArray.class));
         this.apiURL = apiURL;
         this.apiMethod = apiMethod;
         this.headers = headers;
@@ -39,7 +38,7 @@ public class RestAPISource extends UnarySource<JsonNode> {
         return this.headers;
     }
 
-    public JsonNode fetchDataFromAPI() {
+    public JSONArray fetchDataFromAPI() {
         HttpURLConnection connection = null;
         try {
             URL url = new URL(this.apiURL);
@@ -61,10 +60,10 @@ public class RestAPISource extends UnarySource<JsonNode> {
             }
             in.close();
 
-            // Convert the response to JsonNode using ObjectMapper
-            return objectMapper.readTree(content.toString());
+            // Parse the response into a JSONArray
+            return new JSONArray(content.toString());
 
-        } catch (IOException e) {
+        } catch (IOException | JSONException e) {
             this.logger.error("Unable to fetch data from REST API", e);
             return null;
         } finally {

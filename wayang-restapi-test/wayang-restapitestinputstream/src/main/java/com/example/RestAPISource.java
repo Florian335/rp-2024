@@ -5,10 +5,8 @@ import org.apache.logging.log4j.Logger;
 import org.apache.wayang.core.plan.wayangplan.UnarySource;
 import org.apache.wayang.core.types.DataSetType;
 
-import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
-import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
 
@@ -43,23 +41,29 @@ public class RestAPISource extends UnarySource<InputStream> {
             URL url = new URL(this.apiURL);
             connection = (HttpURLConnection) url.openConnection();
             connection.setRequestMethod(this.apiMethod);
-
+    
             if (this.headers != null) {
                 for (String header : this.headers.split(";")) {
                     String[] headerParts = header.split(":");
                     connection.setRequestProperty(headerParts[0].trim(), headerParts[1].trim());
                 }
             }
-
+    
+            int responseCode = connection.getResponseCode(); 
+            logger.info("Response Code: " + responseCode);
+    
+            if (responseCode != HttpURLConnection.HTTP_OK) {
+                logger.error("Failed to fetch data: HTTP response code " + responseCode);
+                return null;
+            }
+    
             logger.info("Successfully fetched data from REST API.");
+    
             return connection.getInputStream();
-
+    
         } catch (IOException e) {
             this.logger.error("Unable to fetch data from REST API", e);
             return null;
-        } finally {
-            if (connection != null) {
-                connection.disconnect();
-            }
+        } 
     }
-}
+}    

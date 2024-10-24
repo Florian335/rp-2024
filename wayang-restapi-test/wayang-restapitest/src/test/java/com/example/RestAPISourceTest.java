@@ -1,8 +1,9 @@
 package com.example;
 
-import com.fasterxml.jackson.databind.JsonNode;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.json.JSONArray;
+import org.json.JSONObject;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -14,8 +15,8 @@ public class RestAPISourceTest {
 
     @BeforeEach
     public void setup() {
-        // Replace with a valid API URL for testing purposes
-        String apiURL = "https://jsonplaceholder.typicode.com/posts/1";
+        // Use an API endpoint that returns a JSON array
+        String apiURL = "https://jsonplaceholder.typicode.com/posts";
         String apiMethod = "GET";
         String headers = null; // Optional headers if needed
 
@@ -24,18 +25,19 @@ public class RestAPISourceTest {
 
     @Test
     public void testFetchDataFromAPI() {
-        // Fetch the data from the API
-        JsonNode response = restAPISource.fetchDataFromAPI();
+        JSONArray response = restAPISource.fetchDataFromAPI();
         
-        // Assert that the response is not null
         Assertions.assertNotNull(response, "The response from the API should not be null");
 
-        // Log the response
         logger.info("API Response: " + response.toString());
 
-        // Add some validation depending on your expected JSON structure
-        Assertions.assertTrue(response.has("userId"), "The response should have a 'userId' field");
-        Assertions.assertTrue(response.has("id"), "The response should have an 'id' field");
-        Assertions.assertTrue(response.has("title"), "The response should have a 'title' field");
+        Assertions.assertTrue(response.length() > 0, "The response should not be empty");
+
+        JSONObject firstElement = response.getJSONObject(0);
+        logger.info("First API Response: " + firstElement.toString());
+
+        Assertions.assertTrue(firstElement.has("userId"), "The first element should have a 'userId' field");
+        Assertions.assertTrue(firstElement.has("id"), "The first element should have an 'id' field");
+        Assertions.assertTrue(firstElement.has("title"), "The first element should have a 'title' field");
     }
 }
