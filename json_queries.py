@@ -1,5 +1,4 @@
 import functions
-import pandas as pd
 import datetime
 import os
 import requests
@@ -20,7 +19,7 @@ month_2m = future_date.strftime("%Y-%m-%d")
 
 log_storage = []
 
-LOG_FILE_PATH = "pandas-queries-performance.json"
+LOG_FILE_PATH = "json-queries-performance.json"
 
 def write_logs_to_file():
     if os.path.exists(LOG_FILE_PATH):
@@ -42,11 +41,8 @@ def write_logs_to_file():
     log_storage.clear()
 
 def log_to_json(step_name, **kwargs):
-    """
-    Log a record ensuring all keys are present, with missing ones set to None (null in JSON).
-    """
     all_fields = [
-        "timestamp", "step", "cpu_usage", "memory_usage", 
+        "timestamp", "step", 
         "latency_seconds", "execution_time_seconds"
     ]
     
@@ -60,21 +56,15 @@ def log_to_json(step_name, **kwargs):
     log_storage.append(log_record)
     write_logs_to_file()
 
-def log_resource_usage(step_name):
-    cpu_usage = psutil.cpu_percent(interval=1)
-    memory_usage = psutil.virtual_memory().percent
-    log_to_json(step_name, cpu_usage=cpu_usage, memory_usage=memory_usage)
-
 def log_api_latency(start_time, end_time, step_name):
-    latency_seconds = round(end_time - start_time, 2)
+    latency_seconds = round(end_time - start_time, 4)
     log_to_json(step_name, latency_seconds=latency_seconds)
 
 def log_query_time(start_time, end_time, step_name):
-    execution_time_seconds = round(end_time - start_time, 2)
+    execution_time_seconds = round(end_time - start_time, 4)
     log_to_json(step_name, execution_time_seconds=execution_time_seconds)
 
-
-def forecast_pandas():
+def forecast_json():
     headers = {
         "User-Agent": os.getenv('Forecast_user_agent'),
         "Authorization": "Bearer "+os.getenv('Forecast'),
@@ -82,49 +72,58 @@ def forecast_pandas():
     }
 
     #### API monitoring
-    start_time = time.time()
-    log_resource_usage("Before Forecast Query")
-
-    api_start_time = time.time()
+    api_start_time = time.time() #### API START TIME
     url_forecast = f"https://api.forecastapp.com/aggregate/project_export?timeframe_type=monthly&timeframe=custom&starting={month_today}&ending={month_2m}"
-    forecast = pd.concat([pd.Series(x) for x in functions.forecast_api(url_forecast)], axis=1)
-    api_end_time = time.time()
+    
+    request = urllib.request.Request(url=url_forecast, headers=headers)
+    response = urllib.request.urlopen(request, timeout=10)
+    responseBody = response.read().decode("utf-8")
+    
+    api_end_time = time.time() #### API END TIME
     log_api_latency(api_start_time, api_end_time, "Forecast API")
 
-    forecast = forecast.T
-    forecast.columns = forecast.loc[0]
-    forecast = forecast.tail(-1)
-    forecast = forecast.dropna(thresh = 2)
-    try:
-        forecast.drop(columns = [np.nan],inplace = True)
-    except:
-        pass
-
+    start_time = time.time() #### QUERY START TIME
+    
     #### Query below
-    forecast_df = forecast[(forecast['Roles'].isin(['DK','US inc.']))]
-    capacity = len(set(forecast_df['Person']))
-    fte_values = sum(forecast_df['Jan 2025'].astype(float)/172.5)
+    lines = responseBody.strip().split('\n')
+    columns = lines[0].split(',')
+    data = []
+    for i in lines[1:]:
+        values = i.split(",")
+        record = dict(zip(columns,values))
+        data.append(record)
+    allowed_roles = ['DK','US inc.']
+    filtered_data = []
+    for item in data:
+        if item.get("Roles", "") in allowed_roles:
+            jan_2025_str = item.get("Jan 2025", "0")
+            try:
+                fte = float(jan_2025_str) / 172.5
+            except ValueError as e:
+                logger.error(f"Invalid number for January 2025: {jan_2025_str}", exc_info=e)
+                fte = 0.0
+            person = item.get("Person", "Unknown")
+            filtered_data.append((fte, person))
+    fte_values = sum([fte for fte, _ in filtered_data])
+    capacity = len(set([cap for _, cap in filtered_data]))
 
     #### Query monitoring
-    end_time = time.time()
+    end_time = time.time() #### QUERY END TIME
     log_query_time(start_time, end_time, "Forecast Query")
-    log_resource_usage("After Forecast Query")
 
     #### Return processed values
     return fte_values, capacity
 
-def hubspot_pandas():
+def hubspot_json():
     headers = {
     'accept': "application/json",
     'content-type': "application/json",
     'authorization': "Bearer " + os.getenv('Hubspot')
-    }
+        }
 
     #### API monitoring
-    start_time = time.time()
-    log_resource_usage("Before HubSpot Query")
+    api_start_time = time.time() #### API START TIME
 
-    api_start_time = time.time()
     deal_test = requests.get("https://api.hubapi.com/crm/v3/objects/deals?limit=100&properties=start_date,end_date,hs_deal_stage_probability,fte_s_",
     headers = headers)
 
@@ -136,49 +135,58 @@ def hubspot_pandas():
             deals_list.append(json.loads(deal_test.text)['results'])
         else:
             break
-    api_end_time = time.time()
+
+    api_end_time = time.time() #### API END TIME
     log_api_latency(api_start_time, api_end_time, "HubSpot API")
 
-
+    start_time = time.time() #### QUERY START TIME
+    
+    #### Query below
     deal_properties = []
     for i in range(len(functions.flatten(deals_list))):
         deal_properties.append(functions.flatten(deals_list)[i]['properties'])
 
-    #### Query below
-    deals_df = pd.DataFrame(deal_properties)
-    deals_df['fte_s_'] = deals_df['fte_s_'].astype(float)
-    deals_df['start_date'] = pd.to_datetime(deals_df['start_date'],format = '%Y-%m-%d')
-    deals_df['end_date'] = pd.to_datetime(deals_df['end_date'],format = '%Y-%m-%d')
-    deals_df["months_between"] = (
-        ((deals_df["end_date"].dt.year - deals_df["start_date"].dt.year) * 12 + 
-        (deals_df["end_date"].dt.month - deals_df["start_date"].dt.month))
-        .where((deals_df["start_date"].dt.year == today.year) & (deals_df["start_date"].dt.month == today.month), None)
-    )
-    deals_df["months_between"] = deals_df["months_between"].clip(lower=1)
-    deals_jan_df = deals_df[(deals_df['start_date'].dt.year == today.year) & (deals_df['start_date'].dt.month == today.month)].copy()
-    deals_jan_df.loc[:, 'ftes_norm'] = deals_jan_df['fte_s_'] / deals_jan_df['months_between']
-    total_ftes = deals_jan_df['ftes_norm'].sum()
+    fte_collection = []
+    for i in deal_properties:
+        try:
+            if all(key in i and i[key] is not None for key in ["start_date", "end_date", "fte_s_"]):
+                start_date = datetime.datetime.strptime(i["start_date"], "%Y-%m-%d")
+                end_date = datetime.datetime.strptime(i["end_date"], "%Y-%m-%d")
+                fte_value = float(i["fte_s_"])
+
+                if start_date.year == today.year and start_date.month == today.month:
+                    months_between = max(1, (end_date.year - start_date.year) * 12 + (end_date.month - start_date.month))
+                    fte_collection.append(fte_value / months_between)
+        except Exception as e:
+            pass
+
+    total_ftes = sum(fte_collection) if fte_collection else 0.0
 
     #### Query monitoring
-    end_time = time.time()
+    end_time = time.time() #### QUERY END TIME
     log_query_time(start_time, end_time, "HubSpot Query")
-    log_resource_usage("After HubSpot Query")
-
 
     #### Return processed values
     return total_ftes
 
-overall_start_time = time.time()
-forecast_ftes, forecast_capacity = forecast_pandas()
-hubspot_ftes = hubspot_pandas()
-overall_end_time = time.time()
-log_query_time(overall_start_time, overall_end_time, "Entire Query Process")
 
-logging.info(f'Pipeline FTEs: {hubspot_ftes}')
-logging.info(f'Capacity: {forecast_capacity}')
-logging.info(f'Committed FTEs: {forecast_ftes}')
-remaining_capacity = forecast_capacity - (hubspot_ftes + forecast_ftes)
-if remaining_capacity < 0:
-    logging.warning(f"Over capacity! Remaining capacity: {remaining_capacity}")
-else:
-    logging.info(f"Enough capacity. Remaining capacity: {remaining_capacity}")
+def main():
+    forecast_overall_start_time = time.time()
+    forecast_ftes, forecast_capacity = forecast_json()
+    forecast_overall_end_time = time.time()
+    log_query_time(forecast_overall_start_time, forecast_overall_end_time, "Forecast Entire Query Process")
+
+    hubspot_overall_start_time = time.time()
+    hubspot_ftes = hubspot_json()
+    hubspot_overall_end_time = time.time()
+    log_query_time(hubspot_overall_start_time, hubspot_overall_end_time, "HubSpot Entire Query Process")
+
+    remaining_capacity = forecast_capacity - (hubspot_ftes + forecast_ftes)
+    if remaining_capacity < 0:
+        logging.warning(f"Over capacity! Remaining capacity: {remaining_capacity}")
+    else:
+        logging.warning(f"Enough capacity. Remaining capacity: {remaining_capacity}")
+
+if __name__ == "__main__":
+    main()
+

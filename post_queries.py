@@ -17,9 +17,14 @@ month_today = today.strftime("%Y-%m-%d")
 future_date = today + relativedelta(months=2)
 month_2m = future_date.strftime("%Y-%m-%d")
 
+def to_epoch_milliseconds(date_string):
+    date = datetime.datetime.strptime(date_string, "%Y-%m-%d")
+    epoch_milliseconds = int(date.replace(tzinfo=datetime.timezone.utc).timestamp() * 1000)
+    return epoch_milliseconds
+
 log_storage = []
 
-LOG_FILE_PATH = "json-queries-performance.json"
+LOG_FILE_PATH = "post-queries-performance.json"
 
 def write_logs_to_file():
     if os.path.exists(LOG_FILE_PATH):
@@ -41,11 +46,8 @@ def write_logs_to_file():
     log_storage.clear()
 
 def log_to_json(step_name, **kwargs):
-    """
-    Log a record ensuring all keys are present, with missing ones set to None (null in JSON).
-    """
     all_fields = [
-        "timestamp", "step", "cpu_usage", "memory_usage", 
+        "timestamp", "step", 
         "latency_seconds", "execution_time_seconds"
     ]
     
@@ -59,17 +61,12 @@ def log_to_json(step_name, **kwargs):
     log_storage.append(log_record)
     write_logs_to_file()
 
-def log_resource_usage(step_name):
-    cpu_usage = psutil.cpu_percent(interval=1)
-    memory_usage = psutil.virtual_memory().percent
-    log_to_json(step_name, cpu_usage=cpu_usage, memory_usage=memory_usage)
-
 def log_api_latency(start_time, end_time, step_name):
-    latency_seconds = round(end_time - start_time, 2)
+    latency_seconds = round(end_time - start_time, 4)
     log_to_json(step_name, latency_seconds=latency_seconds)
 
 def log_query_time(start_time, end_time, step_name):
-    execution_time_seconds = round(end_time - start_time, 2)
+    execution_time_seconds = round(end_time - start_time, 4)
     log_to_json(step_name, execution_time_seconds=execution_time_seconds)
 
 def forecast_json():
@@ -80,18 +77,19 @@ def forecast_json():
     }
 
     #### API monitoring
-    start_time = time.time()
-    log_resource_usage("Before Forecast Query")
+    api_start_time = time.time() #### API START TIME
     url_forecast = f"https://api.forecastapp.com/aggregate/project_export?timeframe_type=monthly&timeframe=custom&starting={month_today}&ending={month_2m}"
     
-    api_start_time = time.time()
     request = urllib.request.Request(url=url_forecast, headers=headers)
     response = urllib.request.urlopen(request, timeout=10)
-    api_end_time = time.time()
+    responseBody = response.read().decode("utf-8")
+    
+    api_end_time = time.time() #### API END TIME
     log_api_latency(api_start_time, api_end_time, "Forecast API")
 
+    start_time = time.time() #### QUERY START TIME
+
     #### Query below
-    responseBody = response.read().decode("utf-8")
     lines = responseBody.strip().split('\n')
     columns = lines[0].split(',')
     data = []
@@ -115,45 +113,86 @@ def forecast_json():
     capacity = len(set([cap for _, cap in filtered_data]))
 
     #### Query monitoring
-    end_time = time.time()
+    end_time = time.time() #### QUERY END TIME
     log_query_time(start_time, end_time, "Forecast Query")
-    log_resource_usage("After Forecast Query")
 
     #### Return processed values
     return fte_values, capacity
 
-def hubspot_json():
+def hubspot_post():
     headers = {
     'accept': "application/json",
     'content-type': "application/json",
     'authorization': "Bearer " + os.getenv('Hubspot')
-        }
+    }
 
     #### API monitoring
-    start_time = time.time()
-    log_resource_usage("Before HubSpot Query")
+    api_start_time = time.time() #### API START TIME
+
+    end_of_month = ((today.replace(day=28) + datetime.timedelta(days=4)).replace(day=1) - datetime.timedelta(days=1)).strftime("%Y-%m-%d")
+    after_value = ""
+    payload = f'''{{
+    "filterGroups": [
+        {{
+        "filters": [
+            {{
+            "propertyName": "start_date",
+            "operator": "BETWEEN",
+            "value": "{to_epoch_milliseconds(month_today)}",
+            "highValue": "{to_epoch_milliseconds(end_of_month)}"
+            }}
+        ]
+        }}
+    ],
+    "properties": ["start_date", "end_date", "fte_s_"],
+    "after": "{after_value}"
+    }}'''
+
+    deal_test = requests.post("https://api.hubapi.com/crm/v3/objects/deals/search",
+    headers = headers,data=payload)
+    
     deals_list = []
-
-    api_start_time = time.time()
-    deal_test = requests.get("https://api.hubapi.com/crm/v3/objects/deals?limit=100&properties=start_date,end_date,hs_deal_stage_probability,fte_s_",
-    headers = headers)
-
     deals_list.append(json.loads(deal_test.text)['results'])
     while True:
         if 'paging' in json.loads(deal_test.text):
-            deal_test = requests.get(json.loads(deal_test.text)['paging']['next']['link'],headers = headers)
-            deals_list.append(json.loads(deal_test.text)['results'])
+            after_value = json.loads(deal_test.text)['paging']['next']['after']
+            payload = json.dumps({
+                "filterGroups": [
+                    {
+                        "filters": [
+                            {
+                                "propertyName": "start_date",
+                                "operator": "BETWEEN",
+                                "value": str(to_epoch_milliseconds(month_today)),
+                                "highValue": str(to_epoch_milliseconds(end_of_month))
+                            }
+                        ]
+                    }
+                ],
+                "properties": ["start_date", "end_date", "fte_s_"],
+                "after": after_value
+            })
+            
+            deal_test = requests.post("https://api.hubapi.com/crm/v3/objects/deals/search", headers=headers, data=payload)
+
+            if deal_test.status_code == 200:
+                deals_list.append(json.loads(deal_test.text)['results'])
+            else:
+                print(f"Request failed with status code: {deal_test.status_code}")
+                break
         else:
             break
 
-    api_end_time = time.time()
-    log_api_latency(api_start_time, api_end_time, "HubSpot API")
+    api_end_time = time.time() #### API END TIME
+    log_api_latency(api_start_time, api_end_time, "HubSpot POST API")
 
+    start_time = time.time() #### QUERY START TIME
+    
+    #### Query below
     deal_properties = []
     for i in range(len(functions.flatten(deals_list))):
         deal_properties.append(functions.flatten(deals_list)[i]['properties'])
-
-    #### Query below
+    
     fte_collection = []
     for i in deal_properties:
         try:
@@ -171,25 +210,30 @@ def hubspot_json():
     total_ftes = sum(fte_collection) if fte_collection else 0.0
 
     #### Query monitoring
-    end_time = time.time()
+    end_time = time.time() #### QUERY END TIME
     log_query_time(start_time, end_time, "HubSpot Query")
-    log_resource_usage("After HubSpot Query")
 
     #### Return processed values
     return total_ftes
 
+def main():
+    forecast_overall_start_time = time.time()
+    forecast_ftes, forecast_capacity = forecast_json()
+    forecast_overall_end_time = time.time()
+    log_query_time(forecast_overall_start_time, forecast_overall_end_time, "Forecast Entire Query Process")
 
-overall_start_time = time.time()
-forecast_ftes, forecast_capacity = forecast_json()
-hubspot_ftes = hubspot_json()
-overall_end_time = time.time()
-log_query_time(overall_start_time, overall_end_time, "Entire Query Process")
+    hubspot_overall_start_time = time.time()
+    hubspot_ftes = hubspot_post()
+    hubspot_overall_end_time = time.time()
+    log_query_time(hubspot_overall_start_time, hubspot_overall_end_time, "HubSpot Entire Query Process")
 
-logging.info(f'Pipeline FTEs: {hubspot_ftes}')
-logging.info(f'Capacity: {forecast_capacity}')
-logging.info(f'Committed FTEs: {forecast_ftes}')
-remaining_capacity = forecast_capacity - (hubspot_ftes + forecast_ftes)
-if remaining_capacity < 0:
-    logging.warning(f"Over capacity! Remaining capacity: {remaining_capacity}")
-else:
-    logging.info(f"Enough capacity. Remaining capacity: {remaining_capacity}")
+    remaining_capacity = forecast_capacity - (hubspot_ftes + forecast_ftes)
+    if remaining_capacity < 0:
+        logging.warning(f"Over capacity! Remaining capacity: {remaining_capacity}")
+    else:
+        logging.warning(f"Enough capacity. Remaining capacity: {remaining_capacity}")
+
+if __name__ == "__main__":
+    main()
+
+
