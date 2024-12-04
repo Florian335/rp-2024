@@ -1,0 +1,1002 @@
+[
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 1.065,
+        "timestamp": "Wed Dec 04 17:22:53 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 2.676,
+        "timestamp": "Wed Dec 04 17:22:56 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.476,
+        "timestamp": "Wed Dec 04 17:22:56 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.915,
+        "timestamp": "Wed Dec 04 17:22:58 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 2.24,
+        "timestamp": "Wed Dec 04 17:23:01 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.876,
+        "timestamp": "Wed Dec 04 17:23:02 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 1.193,
+        "timestamp": "Wed Dec 04 17:23:04 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 2.063,
+        "timestamp": "Wed Dec 04 17:23:06 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.446,
+        "timestamp": "Wed Dec 04 17:23:07 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.761,
+        "timestamp": "Wed Dec 04 17:23:09 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.324,
+        "timestamp": "Wed Dec 04 17:23:09 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 2.635,
+        "timestamp": "Wed Dec 04 17:23:12 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.349,
+        "timestamp": "Wed Dec 04 17:23:13 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 2.408,
+        "timestamp": "Wed Dec 04 17:23:15 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.348,
+        "timestamp": "Wed Dec 04 17:23:16 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 2.52,
+        "timestamp": "Wed Dec 04 17:23:18 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.411,
+        "timestamp": "Wed Dec 04 17:23:19 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.808,
+        "timestamp": "Wed Dec 04 17:23:21 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.566,
+        "timestamp": "Wed Dec 04 17:23:21 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.587,
+        "timestamp": "Wed Dec 04 17:23:23 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.33,
+        "timestamp": "Wed Dec 04 17:23:24 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.872,
+        "timestamp": "Wed Dec 04 17:23:26 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.392,
+        "timestamp": "Wed Dec 04 17:23:26 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.653,
+        "timestamp": "Wed Dec 04 17:23:28 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.678,
+        "timestamp": "Wed Dec 04 17:23:29 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.811,
+        "timestamp": "Wed Dec 04 17:23:31 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.86,
+        "timestamp": "Wed Dec 04 17:23:32 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.636,
+        "timestamp": "Wed Dec 04 17:23:33 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.358,
+        "timestamp": "Wed Dec 04 17:23:34 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.637,
+        "timestamp": "Wed Dec 04 17:23:35 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.895,
+        "timestamp": "Wed Dec 04 17:23:36 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.567,
+        "timestamp": "Wed Dec 04 17:23:38 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.266,
+        "timestamp": "Wed Dec 04 17:23:38 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.509,
+        "timestamp": "Wed Dec 04 17:23:40 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.289,
+        "timestamp": "Wed Dec 04 17:23:40 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.475,
+        "timestamp": "Wed Dec 04 17:23:42 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.344,
+        "timestamp": "Wed Dec 04 17:23:42 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 2.496,
+        "timestamp": "Wed Dec 04 17:23:45 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.28,
+        "timestamp": "Wed Dec 04 17:23:45 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.747,
+        "timestamp": "Wed Dec 04 17:23:47 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.275,
+        "timestamp": "Wed Dec 04 17:23:48 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.565,
+        "timestamp": "Wed Dec 04 17:23:49 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.301,
+        "timestamp": "Wed Dec 04 17:23:50 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.51,
+        "timestamp": "Wed Dec 04 17:23:51 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.309,
+        "timestamp": "Wed Dec 04 17:23:52 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.548,
+        "timestamp": "Wed Dec 04 17:23:53 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.288,
+        "timestamp": "Wed Dec 04 17:23:54 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.996,
+        "timestamp": "Wed Dec 04 17:23:56 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.358,
+        "timestamp": "Wed Dec 04 17:23:56 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.595,
+        "timestamp": "Wed Dec 04 17:23:58 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.354,
+        "timestamp": "Wed Dec 04 17:23:58 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.649,
+        "timestamp": "Wed Dec 04 17:24:00 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.41,
+        "timestamp": "Wed Dec 04 17:24:01 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 2.073,
+        "timestamp": "Wed Dec 04 17:24:03 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.341,
+        "timestamp": "Wed Dec 04 17:24:03 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.553,
+        "timestamp": "Wed Dec 04 17:24:05 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.35,
+        "timestamp": "Wed Dec 04 17:24:05 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.878,
+        "timestamp": "Wed Dec 04 17:24:07 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.333,
+        "timestamp": "Wed Dec 04 17:24:08 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.512,
+        "timestamp": "Wed Dec 04 17:24:09 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.294,
+        "timestamp": "Wed Dec 04 17:24:10 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.68,
+        "timestamp": "Wed Dec 04 17:24:11 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.257,
+        "timestamp": "Wed Dec 04 17:24:12 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.577,
+        "timestamp": "Wed Dec 04 17:24:13 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.304,
+        "timestamp": "Wed Dec 04 17:24:14 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.636,
+        "timestamp": "Wed Dec 04 17:24:15 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.444,
+        "timestamp": "Wed Dec 04 17:24:16 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 2.697,
+        "timestamp": "Wed Dec 04 17:24:19 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.386,
+        "timestamp": "Wed Dec 04 17:24:19 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.962,
+        "timestamp": "Wed Dec 04 17:24:21 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.282,
+        "timestamp": "Wed Dec 04 17:24:22 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.586,
+        "timestamp": "Wed Dec 04 17:24:23 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.298,
+        "timestamp": "Wed Dec 04 17:24:24 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.476,
+        "timestamp": "Wed Dec 04 17:24:25 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.271,
+        "timestamp": "Wed Dec 04 17:24:26 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.65,
+        "timestamp": "Wed Dec 04 17:24:27 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.564,
+        "timestamp": "Wed Dec 04 17:24:28 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.714,
+        "timestamp": "Wed Dec 04 17:24:30 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.441,
+        "timestamp": "Wed Dec 04 17:24:30 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.643,
+        "timestamp": "Wed Dec 04 17:24:32 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.582,
+        "timestamp": "Wed Dec 04 17:24:33 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.569,
+        "timestamp": "Wed Dec 04 17:24:35 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.286,
+        "timestamp": "Wed Dec 04 17:24:35 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 2.659,
+        "timestamp": "Wed Dec 04 17:24:38 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.278,
+        "timestamp": "Wed Dec 04 17:24:38 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.952,
+        "timestamp": "Wed Dec 04 17:24:40 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.539,
+        "timestamp": "Wed Dec 04 17:24:41 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.733,
+        "timestamp": "Wed Dec 04 17:24:43 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.285,
+        "timestamp": "Wed Dec 04 17:24:43 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.694,
+        "timestamp": "Wed Dec 04 17:24:45 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.333,
+        "timestamp": "Wed Dec 04 17:24:45 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.873,
+        "timestamp": "Wed Dec 04 17:24:47 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.387,
+        "timestamp": "Wed Dec 04 17:24:48 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 3.085,
+        "timestamp": "Wed Dec 04 17:24:51 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.402,
+        "timestamp": "Wed Dec 04 17:24:52 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.64,
+        "timestamp": "Wed Dec 04 17:24:54 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.347,
+        "timestamp": "Wed Dec 04 17:24:54 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.512,
+        "timestamp": "Wed Dec 04 17:24:56 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.264,
+        "timestamp": "Wed Dec 04 17:24:56 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.58,
+        "timestamp": "Wed Dec 04 17:24:58 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.265,
+        "timestamp": "Wed Dec 04 17:24:58 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.518,
+        "timestamp": "Wed Dec 04 17:25:00 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.291,
+        "timestamp": "Wed Dec 04 17:25:00 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.569,
+        "timestamp": "Wed Dec 04 17:25:02 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.289,
+        "timestamp": "Wed Dec 04 17:25:02 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.719,
+        "timestamp": "Wed Dec 04 17:25:04 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.709,
+        "timestamp": "Wed Dec 04 17:25:05 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.784,
+        "timestamp": "Wed Dec 04 17:25:07 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.319,
+        "timestamp": "Wed Dec 04 17:25:07 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.887,
+        "timestamp": "Wed Dec 04 17:25:09 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.294,
+        "timestamp": "Wed Dec 04 17:25:10 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.875,
+        "timestamp": "Wed Dec 04 17:25:12 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.412,
+        "timestamp": "Wed Dec 04 17:25:12 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.717,
+        "timestamp": "Wed Dec 04 17:25:14 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.317,
+        "timestamp": "Wed Dec 04 17:25:15 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.656,
+        "timestamp": "Wed Dec 04 17:25:17 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.299,
+        "timestamp": "Wed Dec 04 17:25:17 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.718,
+        "timestamp": "Wed Dec 04 17:25:19 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.355,
+        "timestamp": "Wed Dec 04 17:25:19 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.676,
+        "timestamp": "Wed Dec 04 17:25:21 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.324,
+        "timestamp": "Wed Dec 04 17:25:22 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 2.515,
+        "timestamp": "Wed Dec 04 17:25:24 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.283,
+        "timestamp": "Wed Dec 04 17:25:25 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.806,
+        "timestamp": "Wed Dec 04 17:25:27 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.485,
+        "timestamp": "Wed Dec 04 17:25:27 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.666,
+        "timestamp": "Wed Dec 04 17:25:29 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.83,
+        "timestamp": "Wed Dec 04 17:25:30 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 2.354,
+        "timestamp": "Wed Dec 04 17:25:33 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.275,
+        "timestamp": "Wed Dec 04 17:25:33 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.762,
+        "timestamp": "Wed Dec 04 17:25:35 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.296,
+        "timestamp": "Wed Dec 04 17:25:36 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 2.057,
+        "timestamp": "Wed Dec 04 17:25:38 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.273,
+        "timestamp": "Wed Dec 04 17:25:38 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.443,
+        "timestamp": "Wed Dec 04 17:25:40 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.261,
+        "timestamp": "Wed Dec 04 17:25:40 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.616,
+        "timestamp": "Wed Dec 04 17:25:42 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.415,
+        "timestamp": "Wed Dec 04 17:25:42 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.976,
+        "timestamp": "Wed Dec 04 17:25:44 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.386,
+        "timestamp": "Wed Dec 04 17:25:45 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.709,
+        "timestamp": "Wed Dec 04 17:25:47 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.274,
+        "timestamp": "Wed Dec 04 17:25:47 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.754,
+        "timestamp": "Wed Dec 04 17:25:49 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.322,
+        "timestamp": "Wed Dec 04 17:25:50 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.657,
+        "timestamp": "Wed Dec 04 17:25:52 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.255,
+        "timestamp": "Wed Dec 04 17:25:52 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.713,
+        "timestamp": "Wed Dec 04 17:25:54 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.356,
+        "timestamp": "Wed Dec 04 17:25:54 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.633,
+        "timestamp": "Wed Dec 04 17:25:56 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 1.133,
+        "timestamp": "Wed Dec 04 17:25:57 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.753,
+        "timestamp": "Wed Dec 04 17:25:59 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.879,
+        "timestamp": "Wed Dec 04 17:26:00 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.834,
+        "timestamp": "Wed Dec 04 17:26:02 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.549,
+        "timestamp": "Wed Dec 04 17:26:03 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.555,
+        "timestamp": "Wed Dec 04 17:26:04 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.328,
+        "timestamp": "Wed Dec 04 17:26:05 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.84,
+        "timestamp": "Wed Dec 04 17:26:07 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.344,
+        "timestamp": "Wed Dec 04 17:26:07 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.723,
+        "timestamp": "Wed Dec 04 17:26:09 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.7,
+        "timestamp": "Wed Dec 04 17:26:10 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.861,
+        "timestamp": "Wed Dec 04 17:26:12 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.504,
+        "timestamp": "Wed Dec 04 17:26:13 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.997,
+        "timestamp": "Wed Dec 04 17:26:15 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.376,
+        "timestamp": "Wed Dec 04 17:26:16 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.671,
+        "timestamp": "Wed Dec 04 17:26:18 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.282,
+        "timestamp": "Wed Dec 04 17:26:18 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.763,
+        "timestamp": "Wed Dec 04 17:26:20 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.305,
+        "timestamp": "Wed Dec 04 17:26:21 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 2.03,
+        "timestamp": "Wed Dec 04 17:26:23 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.562,
+        "timestamp": "Wed Dec 04 17:26:24 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 2.675,
+        "timestamp": "Wed Dec 04 17:26:26 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.43,
+        "timestamp": "Wed Dec 04 17:26:27 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.692,
+        "timestamp": "Wed Dec 04 17:26:29 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.613,
+        "timestamp": "Wed Dec 04 17:26:31 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.62,
+        "timestamp": "Wed Dec 04 17:26:32 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.773,
+        "timestamp": "Wed Dec 04 17:26:33 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 2.304,
+        "timestamp": "Wed Dec 04 17:26:36 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.261,
+        "timestamp": "Wed Dec 04 17:26:36 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.561,
+        "timestamp": "Wed Dec 04 17:26:38 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.299,
+        "timestamp": "Wed Dec 04 17:26:38 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.62,
+        "timestamp": "Wed Dec 04 17:26:40 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.308,
+        "timestamp": "Wed Dec 04 17:26:40 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.695,
+        "timestamp": "Wed Dec 04 17:26:42 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.294,
+        "timestamp": "Wed Dec 04 17:26:43 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.853,
+        "timestamp": "Wed Dec 04 17:26:45 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.285,
+        "timestamp": "Wed Dec 04 17:26:45 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.667,
+        "timestamp": "Wed Dec 04 17:26:47 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.273,
+        "timestamp": "Wed Dec 04 17:26:47 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.78,
+        "timestamp": "Wed Dec 04 17:26:49 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.272,
+        "timestamp": "Wed Dec 04 17:26:50 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.642,
+        "timestamp": "Wed Dec 04 17:26:52 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.297,
+        "timestamp": "Wed Dec 04 17:26:52 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 2.038,
+        "timestamp": "Wed Dec 04 17:26:54 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.31,
+        "timestamp": "Wed Dec 04 17:26:54 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.827,
+        "timestamp": "Wed Dec 04 17:26:56 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.277,
+        "timestamp": "Wed Dec 04 17:26:57 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.679,
+        "timestamp": "Wed Dec 04 17:26:59 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.28,
+        "timestamp": "Wed Dec 04 17:26:59 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 1.987,
+        "timestamp": "Wed Dec 04 17:27:01 CET 2024"
+    },
+    {
+        "step": "Forecast Entire Query Process",
+        "execution_time_seconds": 0.345,
+        "timestamp": "Wed Dec 04 17:27:02 CET 2024"
+    },
+    {
+        "step": "HubSpot Entire Query Process",
+        "execution_time_seconds": 2.616,
+        "timestamp": "Wed Dec 04 17:27:04 CET 2024"
+    }
+]
