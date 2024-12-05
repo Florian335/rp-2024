@@ -1,0 +1,2504 @@
+[
+    {
+        "memory_percent": 0.024288953691416235,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:18.453372",
+        "cpu_percent": 0
+    },
+    {
+        "memory_percent": 0.039299432485381515,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:18.960513",
+        "cpu_percent": 43.16666666666667
+    },
+    {
+        "memory_percent": 0.04149324225989344,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:19.462275",
+        "cpu_percent": 10.148514851485148
+    },
+    {
+        "memory_percent": 0.04149324225989344,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:19.963967",
+        "cpu_percent": 0
+    },
+    {
+        "memory_percent": 0.04149324225989344,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:20.465968",
+        "cpu_percent": 0.24630541871921183
+    },
+    {
+        "memory_percent": 0.04247576083629897,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:20.967019",
+        "cpu_percent": 9.523809523809524
+    },
+    {
+        "memory_percent": 0.04257564115621805,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:21.468514",
+        "cpu_percent": 0.9876543209876543
+    },
+    {
+        "memory_percent": 0.042773295521492366,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:21.970274",
+        "cpu_percent": 2.2332506203473943
+    },
+    {
+        "memory_percent": 0.043438308809432516,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:22.48076",
+        "cpu_percent": 4.3795620437956195
+    },
+    {
+        "memory_percent": 0.043692934001150305,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:22.982156",
+        "cpu_percent": 2
+    },
+    {
+        "memory_percent": 0.04389368146962671,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:23.483679",
+        "cpu_percent": 4.207920792079208
+    },
+    {
+        "memory_percent": 0.04409341480590571,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:23.985555",
+        "cpu_percent": 3.4482758620689653
+    },
+    {
+        "memory_percent": 0.04471542888867587,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:24.492145",
+        "cpu_percent": 2.941176470588235
+    },
+    {
+        "memory_percent": 0.0452244179380452,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:24.994509",
+        "cpu_percent": 4.455445544554456
+    },
+    {
+        "memory_percent": 0.045687654023277735,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:25.496027",
+        "cpu_percent": 1.488833746898263
+    },
+    {
+        "memory_percent": 0.04594316072990558,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:25.997695",
+        "cpu_percent": 1.0025062656641603
+    },
+    {
+        "memory_percent": 0.04701704091577198,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:26.50219",
+        "cpu_percent": 3.7037037037037033
+    },
+    {
+        "memory_percent": 0.047473962077821445,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:27.003901",
+        "cpu_percent": 1.256281407035176
+    },
+    {
+        "memory_percent": 0.04777357183351107,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:27.506065",
+        "cpu_percent": 0.9925558312655087
+    },
+    {
+        "memory_percent": 0.04818520419192948,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:28.007991",
+        "cpu_percent": 1
+    },
+    {
+        "memory_percent": 0.04875052828486468,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:28.515129",
+        "cpu_percent": 2.4630541871921183
+    },
+    {
+        "memory_percent": 0.04910831412410931,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:29.016882",
+        "cpu_percent": 2.493765586034913
+    },
+    {
+        "memory_percent": 0.049517379947966594,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:31.127562",
+        "cpu_percent": 2.9484029484029484
+    },
+    {
+        "memory_percent": 0.04981853040449458,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:31.629565",
+        "cpu_percent": 1.240694789081886
+    },
+    {
+        "memory_percent": 0.05059877641361915,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:32.134614",
+        "cpu_percent": 2.2277227722772275
+    },
+    {
+        "memory_percent": 0.05105113008027184,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:32.637056",
+        "cpu_percent": 1.5037593984962405
+    },
+    {
+        "memory_percent": 0.0514625245076747,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:33.138981",
+        "cpu_percent": 1.7499999999999998
+    },
+    {
+        "memory_percent": 0.05186743238952262,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:33.640628",
+        "cpu_percent": 1.0075566750629723
+    },
+    {
+        "memory_percent": 0.05264076279716258,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:34.148279",
+        "cpu_percent": 1.715686274509804
+    },
+    {
+        "memory_percent": 0.05329585319160196,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:34.649817",
+        "cpu_percent": 1.7587939698492463
+    },
+    {
+        "memory_percent": 0.05362890590675526,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:35.151546",
+        "cpu_percent": 0.7481296758104738
+    },
+    {
+        "memory_percent": 0.054118642046407685,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:35.653414",
+        "cpu_percent": 1.0025062656641603
+    },
+    {
+        "memory_percent": 0.05488556391866173,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:36.160527",
+        "cpu_percent": 1.2254901960784315
+    },
+    {
+        "memory_percent": 0.05544596166942261,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:36.662415",
+        "cpu_percent": 2
+    },
+    {
+        "memory_percent": 0.055873625117576924,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:37.163523",
+        "cpu_percent": 0.4975124378109453
+    },
+    {
+        "memory_percent": 0.056474120095219835,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:37.665386",
+        "cpu_percent": 6.9478908188585615
+    },
+    {
+        "memory_percent": 0.05698536753898262,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:38.171616",
+        "cpu_percent": 1.7456359102244388
+    },
+    {
+        "memory_percent": 0.05771890495939976,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:38.673247",
+        "cpu_percent": 1.243781094527363
+    },
+    {
+        "memory_percent": 0.058378835884827535,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:39.17463",
+        "cpu_percent": 1.2376237623762376
+    },
+    {
+        "memory_percent": 0.05873538526289302,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:39.676188",
+        "cpu_percent": 0.9876543209876543
+    },
+    {
+        "memory_percent": 0.059541604757796525,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:40.182443",
+        "cpu_percent": 1.4778325123152711
+    },
+    {
+        "memory_percent": 0.06005285220155931,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:40.683829",
+        "cpu_percent": 2.506265664160401
+    },
+    {
+        "memory_percent": 0.060564099645322084,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:41.185359",
+        "cpu_percent": 1.240694789081886
+    },
+    {
+        "memory_percent": 0.0615317065779173,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:41.686391",
+        "cpu_percent": 1.7499999999999998
+    },
+    {
+        "memory_percent": 0.06245715291465962,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:42.192671",
+        "cpu_percent": 0.7389162561576355
+    },
+    {
+        "memory_percent": 0.06302772709197062,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:42.693908",
+        "cpu_percent": 2.25
+    },
+    {
+        "memory_percent": 0.06383343171975851,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:43.195733",
+        "cpu_percent": 1.9900497512437811
+    },
+    {
+        "memory_percent": 0.06457094765879626,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:43.697165",
+        "cpu_percent": 1.5
+    },
+    {
+        "memory_percent": 0.06516632516935071,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:44.205343",
+        "cpu_percent": 1.9656019656019657
+    },
+    {
+        "memory_percent": 0.06618782152671268,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:44.706851",
+        "cpu_percent": 1.7456359102244388
+    },
+    {
+        "memory_percent": 0.06669906897047546,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:45.207683",
+        "cpu_percent": 5.263157894736842
+    },
+    {
+        "memory_percent": 0.06742807009956345,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:45.709061",
+        "cpu_percent": 1.256281407035176
+    },
+    {
+        "memory_percent": 0.0682328113017638,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:46.216324",
+        "cpu_percent": 1.7241379310344827
+    },
+    {
+        "memory_percent": 0.0688449258940839,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:46.717883",
+        "cpu_percent": 0.7444168734491315
+    },
+    {
+        "memory_percent": 0.06945954071232147,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:47.21948",
+        "cpu_percent": 0.5
+    },
+    {
+        "memory_percent": 0.03407710802823244,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:47.721326",
+        "cpu_percent": 5.970149253731343
+    },
+    {
+        "memory_percent": 0.03520254903532001,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:48.223335",
+        "cpu_percent": 1.7543859649122806
+    },
+    {
+        "memory_percent": 0.03543109542753067,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:48.731514",
+        "cpu_percent": 0.49261083743842365
+    },
+    {
+        "memory_percent": 0.03648166617489056,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:49.232835",
+        "cpu_percent": 0.7481296758104738
+    },
+    {
+        "memory_percent": 0.03673629136660835,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:49.73419",
+        "cpu_percent": 0.5
+    },
+    {
+        "memory_percent": 0.03750416106241612,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:50.235946",
+        "cpu_percent": 1
+    },
+    {
+        "memory_percent": 0.03875418040893804,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:50.74295",
+        "cpu_percent": 1.492537313432836
+    },
+    {
+        "memory_percent": 0.039549150837467247,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:51.244774",
+        "cpu_percent": 3.9603960396039604
+    },
+    {
+        "memory_percent": 0.04031502347294782,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:51.74766",
+        "cpu_percent": 1.2468827930174564
+    },
+    {
+        "memory_percent": 0.041084149132476995,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:52.249117",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.04233291251527751,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:52.755729",
+        "cpu_percent": 0.9852216748768473
+    },
+    {
+        "memory_percent": 0.04338250813552451,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:53.256921",
+        "cpu_percent": 2.756892230576441
+    },
+    {
+        "memory_percent": 0.04389375557928729,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:53.758231",
+        "cpu_percent": 1.4925373134328357
+    },
+    {
+        "memory_percent": 0.04491625046681285,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:54.259352",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.04591164462161698,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:54.766554",
+        "cpu_percent": 1.9704433497536946
+    },
+    {
+        "memory_percent": 0.04591164462161698,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:55.26776",
+        "cpu_percent": 0.25
+    },
+    {
+        "memory_percent": 0.04591164462161698,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:55.769288",
+        "cpu_percent": 0.24937655860349126
+    },
+    {
+        "memory_percent": 0.04644999279810119,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:56.270888",
+        "cpu_percent": 3.5000000000000004
+    },
+    {
+        "memory_percent": 0.04770401796680287,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:56.773597",
+        "cpu_percent": 2.5
+    },
+    {
+        "memory_percent": 0.04849498257315232,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:57.274815",
+        "cpu_percent": 0.7462686567164178
+    },
+    {
+        "memory_percent": 0.049746023852888545,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:57.780468",
+        "cpu_percent": 0.9950248756218906
+    },
+    {
+        "memory_percent": 0.05053997234820345,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:58.281756",
+        "cpu_percent": 1.25
+    },
+    {
+        "memory_percent": 0.051051219791966224,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:58.783024",
+        "cpu_percent": 3.233830845771144
+    },
+    {
+        "memory_percent": 0.05207371467949179,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:59.28422",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.0535803562780587,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:41:59.791118",
+        "cpu_percent": 1.9801980198019802
+    },
+    {
+        "memory_percent": 0.05438741828278774,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:00.292213",
+        "cpu_percent": 0.7481296758104738
+    },
+    {
+        "memory_percent": 0.054886574150350684,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:00.793383",
+        "cpu_percent": 0.49627791563275436
+    },
+    {
+        "memory_percent": 0.05590906903787625,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:01.295022",
+        "cpu_percent": 0.7462686567164178
+    },
+    {
+        "memory_percent": 0.05741473550933027,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:01.802826",
+        "cpu_percent": 0.9876543209876543
+    },
+    {
+        "memory_percent": 0.05820868400464516,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:02.30437",
+        "cpu_percent": 0.49627791563275436
+    },
+    {
+        "memory_percent": 0.05897655370045293,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:02.805883",
+        "cpu_percent": 0.7537688442211055
+    },
+    {
+        "memory_percent": 0.059742426335933504,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:04.93044",
+        "cpu_percent": 1.9801980198019802
+    },
+    {
+        "memory_percent": 0.061504715059432516,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:05.434483",
+        "cpu_percent": 1.9900497512437811
+    },
+    {
+        "memory_percent": 0.061504715059432516,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:05.935391",
+        "cpu_percent": 0.5
+    },
+    {
+        "memory_percent": 0.06280991099851019,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:06.437053",
+        "cpu_percent": 0.7556675062972292
+    },
+    {
+        "memory_percent": 0.06383240588603575,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:06.938482",
+        "cpu_percent": 1.7326732673267329
+    },
+    {
+        "memory_percent": 0.06485490077356132,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:07.43972",
+        "cpu_percent": 0.49627791563275436
+    },
+    {
+        "memory_percent": 0.06585029492836544,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:07.94683",
+        "cpu_percent": 1.2345679012345678
+    },
+    {
+        "memory_percent": 0.06715651280065743,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:08.448624",
+        "cpu_percent": 0.997506234413965
+    },
+    {
+        "memory_percent": 0.067922385436138,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:08.950005",
+        "cpu_percent": 0.7537688442211055
+    },
+    {
+        "memory_percent": 0.06920150257570856,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:09.451368",
+        "cpu_percent": 1.0025062656641603
+    },
+    {
+        "memory_percent": 0.07045152192223048,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:09.958911",
+        "cpu_percent": 0.7352941176470588
+    },
+    {
+        "memory_percent": 0.07150111754247747,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:10.460275",
+        "cpu_percent": 1.5
+    },
+    {
+        "memory_percent": 0.0723419189453125,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:10.961555",
+        "cpu_percent": 0.4975124378109453
+    },
+    {
+        "memory_percent": 0.0735461073175286,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:11.46293",
+        "cpu_percent": 1.243781094527363
+    },
+    {
+        "memory_percent": 0.07530839604102761,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:11.971435",
+        "cpu_percent": 0.9900990099009901
+    },
+    {
+        "memory_percent": 0.07661359198010528,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:12.472581",
+        "cpu_percent": 1.2531328320802004
+    },
+    {
+        "memory_percent": 0.07712483942386807,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:12.973658",
+        "cpu_percent": 0.25
+    },
+    {
+        "memory_percent": 0.07843891292018149,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:13.47489",
+        "cpu_percent": 0.7518796992481203
+    },
+    {
+        "memory_percent": 0.034499864636754696,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:13.98291",
+        "cpu_percent": 2.9702970297029703
+    },
+    {
+        "memory_percent": 0.034499864636754696,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:14.48391",
+        "cpu_percent": 0.2506265664160401
+    },
+    {
+        "memory_percent": 0.035793304443359375,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:14.985308",
+        "cpu_percent": 1.256281407035176
+    },
+    {
+        "memory_percent": 0.03732704677464772,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:15.486022",
+        "cpu_percent": 0.5012531328320802
+    },
+    {
+        "memory_percent": 0.03833722775699171,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:15.98664",
+        "cpu_percent": 0.24937655860349126
+    },
+    {
+        "memory_percent": 0.03962666174141664,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:16.49365",
+        "cpu_percent": 0.4889975550122249
+    },
+    {
+        "memory_percent": 0.04090577888098719,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:16.994835",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.04218289896023054,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:17.49592",
+        "cpu_percent": 2.506265664160401
+    },
+    {
+        "memory_percent": 0.04346201609980109,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:17.997332",
+        "cpu_percent": 1.4962593516209477
+    },
+    {
+        "memory_percent": 0.04498046063694242,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:18.50466",
+        "cpu_percent": 1.2285012285012284
+    },
+    {
+        "memory_percent": 0.04660872789004585,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:19.005869",
+        "cpu_percent": 1
+    },
+    {
+        "memory_percent": 0.04757332363011647,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:19.506916",
+        "cpu_percent": 0.5
+    },
+    {
+        "memory_percent": 0.04806324309366612,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:20.008245",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.0490853986369564,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:20.509493",
+        "cpu_percent": 0.5012531328320802
+    },
+    {
+        "memory_percent": 0.05060418251833301,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:21.01678",
+        "cpu_percent": 0.7407407407407408
+    },
+    {
+        "memory_percent": 0.052188179000511245,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:21.518326",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.05317571753129394,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:22.019753",
+        "cpu_percent": 0.49504950495049505
+    },
+    {
+        "memory_percent": 0.05424387177075345,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:22.521024",
+        "cpu_percent": 0.7462686567164178
+    },
+    {
+        "memory_percent": 0.05598657994182563,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:23.028703",
+        "cpu_percent": 0.9900990099009901
+    },
+    {
+        "memory_percent": 0.05728446632806509,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:23.529835",
+        "cpu_percent": 0.7481296758104738
+    },
+    {
+        "memory_percent": 0.05879943941268453,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:24.03134",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.05982193430021009,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:24.532636",
+        "cpu_percent": 0.9900990099009901
+    },
+    {
+        "memory_percent": 0.0615959791561821,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:25.040727",
+        "cpu_percent": 0.9852216748768473
+    },
+    {
+        "memory_percent": 0.06342423327861388,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:25.542082",
+        "cpu_percent": 0.7462686567164178
+    },
+    {
+        "memory_percent": 0.06396024115002716,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:26.043362",
+        "cpu_percent": 0.5
+    },
+    {
+        "memory_percent": 0.06544565618160068,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:26.544658",
+        "cpu_percent": 1.0050251256281406
+    },
+    {
+        "memory_percent": 0.06747534816250479,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:27.053845",
+        "cpu_percent": 1.71990171990172
+    },
+    {
+        "memory_percent": 0.06851314084417737,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:27.554976",
+        "cpu_percent": 3.233830845771144
+    },
+    {
+        "memory_percent": 0.0703015083671835,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:28.056036",
+        "cpu_percent": 1.7587939698492463
+    },
+    {
+        "memory_percent": 0.07183525069847185,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:28.557964",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.07335467036272607,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:29.066164",
+        "cpu_percent": 0.7407407407407408
+    },
+    {
+        "memory_percent": 0.07516236100460123,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:29.567571",
+        "cpu_percent": 0.997506234413965
+    },
+    {
+        "memory_percent": 0.07623361224777128,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:30.068965",
+        "cpu_percent": 0.7444168734491315
+    },
+    {
+        "memory_percent": 0.07771559483190743,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:30.5704",
+        "cpu_percent": 1.2594458438287155
+    },
+    {
+        "memory_percent": 0.07923403936904876,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:31.078815",
+        "cpu_percent": 1.9417475728155338
+    },
+    {
+        "memory_percent": 0.08052645724243913,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:31.580086",
+        "cpu_percent": 1.0025062656641603
+    },
+    {
+        "memory_percent": 0.08154895212996469,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:32.081355",
+        "cpu_percent": 0.5012531328320802
+    },
+    {
+        "memory_percent": 0.03534812381174911,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:32.582463",
+        "cpu_percent": 2.75
+    },
+    {
+        "memory_percent": 0.03752187327129466,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:33.090439",
+        "cpu_percent": 0.9876543209876543
+    },
+    {
+        "memory_percent": 0.03931283073191263,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:33.591426",
+        "cpu_percent": 3
+    },
+    {
+        "memory_percent": 0.040589950811155975,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:34.092536",
+        "cpu_percent": 1.7456359102244388
+    },
+    {
+        "memory_percent": 0.042123693142444324,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:34.593855",
+        "cpu_percent": 0.4987531172069825
+    },
+    {
+        "memory_percent": 0.04390898706479063,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:35.1034",
+        "cpu_percent": 1.2345679012345678
+    },
+    {
+        "memory_percent": 0.04519117780502101,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:35.604692",
+        "cpu_percent": 2.9850746268656714
+    },
+    {
+        "memory_percent": 0.046984545779862046,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:36.105736",
+        "cpu_percent": 1
+    },
+    {
+        "memory_percent": 0.048515284719642685,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:36.606924",
+        "cpu_percent": 0.7481296758104738
+    },
+    {
+        "memory_percent": 0.05029955670877469,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:38.708121",
+        "cpu_percent": 0.7281553398058251
+    },
+    {
+        "memory_percent": 0.05209401682598216,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:39.209829",
+        "cpu_percent": 1
+    },
+    {
+        "memory_percent": 0.05388238434898829,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:39.711037",
+        "cpu_percent": 0.997506234413965
+    },
+    {
+        "memory_percent": 0.05516150148855884,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:40.212323",
+        "cpu_percent": 0.5025125628140703
+    },
+    {
+        "memory_percent": 0.05694986901156498,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:40.72158",
+        "cpu_percent": 0.9803921568627451
+    },
+    {
+        "memory_percent": 0.0582405511586944,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:41.22277",
+        "cpu_percent": 1.0025062656641603
+    },
+    {
+        "memory_percent": 0.05925148103866109,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:41.724032",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.06129947420521992,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:42.225207",
+        "cpu_percent": 0.9950248756218906
+    },
+    {
+        "memory_percent": 0.063591990246607,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:42.735531",
+        "cpu_percent": 0.966183574879227
+    },
+    {
+        "memory_percent": 0.06489218573384978,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:43.236797",
+        "cpu_percent": 0.7537688442211055
+    },
+    {
+        "memory_percent": 0.0659288472680714,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:43.738023",
+        "cpu_percent": 0.5
+    },
+    {
+        "memory_percent": 0.06794268758262838,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:44.239099",
+        "cpu_percent": 0.7518796992481203
+    },
+    {
+        "memory_percent": 0.07023820701552315,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:44.747666",
+        "cpu_percent": 0.9828009828009828
+    },
+    {
+        "memory_percent": 0.07228729232444842,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:45.248853",
+        "cpu_percent": 0.7389162561576355
+    },
+    {
+        "memory_percent": 0.07409463972157984,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:45.750322",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.0753547769870251,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:46.252007",
+        "cpu_percent": 0.9950248756218906
+    },
+    {
+        "memory_percent": 0.0771400709093714,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:46.760384",
+        "cpu_percent": 0.49627791563275436
+    },
+    {
+        "memory_percent": 0.07919013134540956,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:47.261984",
+        "cpu_percent": 3.233830845771144
+    },
+    {
+        "memory_percent": 0.08046725142465291,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:47.76333",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.08251224119970403,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:48.264567",
+        "cpu_percent": 1.2531328320802004
+    },
+    {
+        "memory_percent": 0.03455455756626246,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:48.77365",
+        "cpu_percent": 2.205882352941176
+    },
+    {
+        "memory_percent": 0.03583367470583301,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:49.274652",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.037945019930662065,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:49.776009",
+        "cpu_percent": 0.7518796992481203
+    },
+    {
+        "memory_percent": 0.03915578456012749,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:50.277166",
+        "cpu_percent": 0.9950248756218906
+    },
+    {
+        "memory_percent": 0.0417120217789414,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:50.786573",
+        "cpu_percent": 2.211302211302211
+    },
+    {
+        "memory_percent": 0.043757011553992524,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:51.287733",
+        "cpu_percent": 1.488833746898263
+    },
+    {
+        "memory_percent": 0.04507108505030595,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:51.788861",
+        "cpu_percent": 0.7537688442211055
+    },
+    {
+        "memory_percent": 0.047116074825357075,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:52.290034",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.049126108243665326,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:52.799062",
+        "cpu_percent": 1.4778325123152711
+    },
+    {
+        "memory_percent": 0.05098469271981643,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:53.300185",
+        "cpu_percent": 1.0050251256281406
+    },
+    {
+        "memory_percent": 0.05328588349199977,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:53.801355",
+        "cpu_percent": 1
+    },
+    {
+        "memory_percent": 0.05449320787301093,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:54.302485",
+        "cpu_percent": 0.7518796992481203
+    },
+    {
+        "memory_percent": 0.056538197648062054,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:54.811068",
+        "cpu_percent": 0.7371007371007371
+    },
+    {
+        "memory_percent": 0.05858318742311318,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:55.312314",
+        "cpu_percent": 1.25
+    },
+    {
+        "memory_percent": 0.06095570289284174,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:55.813311",
+        "cpu_percent": 0.7518796992481203
+    },
+    {
+        "memory_percent": 0.06344404006053089,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:56.324591",
+        "cpu_percent": 2.457002457002457
+    },
+    {
+        "memory_percent": 0.06522940419202933,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:56.825648",
+        "cpu_percent": 2.5
+    },
+    {
+        "memory_percent": 0.06676314652331768,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:57.326911",
+        "cpu_percent": 0.7481296758104738
+    },
+    {
+        "memory_percent": 0.06829688885460602,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:57.82808",
+        "cpu_percent": 0.7425742574257426
+    },
+    {
+        "memory_percent": 0.07187562096094549,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:58.337232",
+        "cpu_percent": 2.4630541871921183
+    },
+    {
+        "memory_percent": 0.07443185817975939,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:58.838551",
+        "cpu_percent": 1.99501246882793
+    },
+    {
+        "memory_percent": 0.07596560051104774,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:59.339732",
+        "cpu_percent": 0.7537688442211055
+    },
+    {
+        "memory_percent": 0.07826721253814385,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:42:59.841293",
+        "cpu_percent": 1.2254901960784315
+    },
+    {
+        "memory_percent": 0.08056682750491277,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:00.35063",
+        "cpu_percent": 1.71990171990172
+    },
+    {
+        "memory_percent": 0.0821005698362011,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:00.851991",
+        "cpu_percent": 0.9950248756218906
+    },
+    {
+        "memory_percent": 0.08440218186329723,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:01.352943",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.035051193705365705,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:01.854014",
+        "cpu_percent": 2.481389578163772
+    },
+    {
+        "memory_percent": 0.03814885270132365,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:02.363798",
+        "cpu_percent": 0.9779951100244498
+    },
+    {
+        "memory_percent": 0.04045046472841977,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:02.865252",
+        "cpu_percent": 1.7543859649122806
+    },
+    {
+        "memory_percent": 0.0422398307815895,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:03.366436",
+        "cpu_percent": 0.997506234413965
+    },
+    {
+        "memory_percent": 0.043772574582714247,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:03.86763",
+        "cpu_percent": 2
+    },
+    {
+        "memory_percent": 0.04684005924529093,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:04.37655",
+        "cpu_percent": 0.9828009828009828
+    },
+    {
+        "memory_percent": 0.04837380157657928,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:04.877558",
+        "cpu_percent": 2.222222222222222
+    },
+    {
+        "memory_percent": 0.05019522980922083,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:05.378762",
+        "cpu_percent": 1.7412935323383085
+    },
+    {
+        "memory_percent": 0.052799739720631234,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:05.880138",
+        "cpu_percent": 1
+    },
+    {
+        "memory_percent": 0.055787888041303205,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:06.384128",
+        "cpu_percent": 4.926108374384237
+    },
+    {
+        "memory_percent": 0.058128095599527495,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:06.885018",
+        "cpu_percent": 1.0050251256281406
+    },
+    {
+        "memory_percent": 0.059948771034037895,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:07.386143",
+        "cpu_percent": 0.9925558312655087
+    },
+    {
+        "memory_percent": 0.061666235114411584,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:07.887386",
+        "cpu_percent": 0.5012531328320802
+    },
+    {
+        "memory_percent": 0.06473371977698827,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:08.397577",
+        "cpu_percent": 1.2195121951219512
+    },
+    {
+        "memory_percent": 0.06728995699580217,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:08.898759",
+        "cpu_percent": 1.2315270935960592
+    },
+    {
+        "memory_percent": 0.06908032157913552,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:09.400189",
+        "cpu_percent": 0.7518796992481203
+    },
+    {
+        "memory_percent": 0.07112531135418663,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:09.901853",
+        "cpu_percent": 0.7444168734491315
+    },
+    {
+        "memory_percent": 0.07393617376471834,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:10.41145",
+        "cpu_percent": 0.9852216748768473
+    },
+    {
+        "memory_percent": 0.07546991609600667,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:12.506663",
+        "cpu_percent": 0.7518796992481203
+    },
+    {
+        "memory_percent": 0.07802615331482059,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:13.007252",
+        "cpu_percent": 5.012531328320802
+    },
+    {
+        "memory_percent": 0.08088070922102665,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:13.50841",
+        "cpu_percent": 2.25
+    },
+    {
+        "memory_percent": 0.08293946389040333,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:14.018162",
+        "cpu_percent": 1.715686274509804
+    },
+    {
+        "memory_percent": 0.0856948649712623,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:14.519382",
+        "cpu_percent": 1.0050251256281406
+    },
+    {
+        "memory_percent": 0.03552268716699019,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:15.020524",
+        "cpu_percent": 2.0253164556962027
+    },
+    {
+        "memory_percent": 0.03708275793032656,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:15.521524",
+        "cpu_percent": 0.7518796992481203
+    },
+    {
+        "memory_percent": 0.04040686484494824,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:16.031225",
+        "cpu_percent": 0.9900990099009901
+    },
+    {
+        "memory_percent": 0.04321772725547993,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:16.532397",
+        "cpu_percent": 2.2556390977443606
+    },
+    {
+        "memory_percent": 0.04511771952935279,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:17.033532",
+        "cpu_percent": 0.7462686567164178
+    },
+    {
+        "memory_percent": 0.0467964593618194,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:17.534854",
+        "cpu_percent": 0.7481296758104738
+    },
+    {
+        "memory_percent": 0.05012056627644108,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:18.045184",
+        "cpu_percent": 1.2165450121654502
+    },
+    {
+        "memory_percent": 0.051908933799447214,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:18.546289",
+        "cpu_percent": 0.7518796992481203
+    },
+    {
+        "memory_percent": 0.05472179327030611,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:19.047424",
+        "cpu_percent": 0.9900990099009901
+    },
+    {
+        "memory_percent": 0.056510160793312246,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:19.548469",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.05983426770793392,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:20.058674",
+        "cpu_percent": 1.2315270935960592
+    },
+    {
+        "memory_percent": 0.06191611728785228,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:20.559811",
+        "cpu_percent": 1.0025062656641603
+    },
+    {
+        "memory_percent": 0.06366762500599119,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:21.061358",
+        "cpu_percent": 0.7462686567164178
+    },
+    {
+        "memory_percent": 0.06545798958932451,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:21.562548",
+        "cpu_percent": 0.7518796992481203
+    },
+    {
+        "memory_percent": 0.06750997687653773,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:22.063847",
+        "cpu_percent": 0.7537688442211055
+    },
+    {
+        "memory_percent": 0.07005921658318955,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:22.57386",
+        "cpu_percent": 4.166666666666666
+    },
+    {
+        "memory_percent": 0.07005921658318955,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:23.075161",
+        "cpu_percent": 1.4851485148514854
+    },
+    {
+        "memory_percent": 0.0738925738812468,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:23.576148",
+        "cpu_percent": 1.507537688442211
+    },
+    {
+        "memory_percent": 0.0765421190632389,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:24.077147",
+        "cpu_percent": 0.7537688442211055
+    },
+    {
+        "memory_percent": 0.08002754320640018,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:24.586687",
+        "cpu_percent": 1.477832512315271
+    },
+    {
+        "memory_percent": 0.0820725329814513,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:25.087646",
+        "cpu_percent": 0.5025125628140703
+    },
+    {
+        "memory_percent": 0.08393380100741708,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:25.588717",
+        "cpu_percent": 0.7407407407407408
+    },
+    {
+        "memory_percent": 0.08667375997531633,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:26.089699",
+        "cpu_percent": 1.0050251256281406
+    },
+    {
+        "memory_percent": 0.0902524920816558,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:26.599121",
+        "cpu_percent": 1.2315270935960592
+    },
+    {
+        "memory_percent": 0.034898769636095665,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:27.100319",
+        "cpu_percent": 2.0050125313283207
+    },
+    {
+        "memory_percent": 0.036815935848680745,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:27.601831",
+        "cpu_percent": 0.7537688442211055
+    },
+    {
+        "memory_percent": 0.04000369268936126,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:28.10288",
+        "cpu_percent": 1.25
+    },
+    {
+        "memory_percent": 0.04236875428743889,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:28.613171",
+        "cpu_percent": 1.707317073170732
+    },
+    {
+        "memory_percent": 0.0444307268762881,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:29.11423",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.04650653066810655,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:29.6153",
+        "cpu_percent": 0.7481296758104738
+    },
+    {
+        "memory_percent": 0.04926959624807284,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:30.116407",
+        "cpu_percent": 1.256281407035176
+    },
+    {
+        "memory_percent": 0.052848328354412305,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:30.626326",
+        "cpu_percent": 1.951219512195122
+    },
+    {
+        "memory_percent": 0.052848328354412305,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:31.127301",
+        "cpu_percent": 0
+    },
+    {
+        "memory_percent": 0.05489331812946343,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:31.628394",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.056733289379283694,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:32.129886",
+        "cpu_percent": 0.7481296758104738
+    },
+    {
+        "memory_percent": 0.060005792567091244,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:32.631482",
+        "cpu_percent": 0.9950248756218906
+    },
+    {
+        "memory_percent": 0.0635845246734307,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:33.1435",
+        "cpu_percent": 1.715686274509804
+    },
+    {
+        "memory_percent": 0.0635845246734307,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:33.6447",
+        "cpu_percent": 0.49627791563275436
+    },
+    {
+        "memory_percent": 0.0666520093360074,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:34.145794",
+        "cpu_percent": 0.9950248756218906
+    },
+    {
+        "memory_percent": 0.06960105115894404,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:34.646771",
+        "cpu_percent": 1.0025062656641603
+    },
+    {
+        "memory_percent": 0.07176448377363522,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:35.147901",
+        "cpu_percent": 0.7518796992481203
+    },
+    {
+        "memory_percent": 0.07457734324449411,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:35.658519",
+        "cpu_percent": 0.9803921568627451
+    },
+    {
+        "memory_percent": 0.07662233301954523,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:36.159495",
+        "cpu_percent": 0.997506234413965
+    },
+    {
+        "memory_percent": 0.07871755354243554,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:36.660706",
+        "cpu_percent": 0.7481296758104738
+    },
+    {
+        "memory_percent": 0.08178532684263763,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:37.161749",
+        "cpu_percent": 1.0025062656641603
+    },
+    {
+        "memory_percent": 0.08531353956351251,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:37.672656",
+        "cpu_percent": 2.7160493827160495
+    },
+    {
+        "memory_percent": 0.08845192766872165,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:38.174034",
+        "cpu_percent": 1.2468827930174564
+    },
+    {
+        "memory_percent": 0.09049691744377276,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:38.675085",
+        "cpu_percent": 0.7407407407407408
+    },
+    {
+        "memory_percent": 0.09151941233129833,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:39.176098",
+        "cpu_percent": 0.25125628140703515
+    },
+    {
+        "memory_percent": 0.03839747891104295,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:39.687513",
+        "cpu_percent": 2.9484029484029484
+    },
+    {
+        "memory_percent": 0.04131385007518932,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:40.188502",
+        "cpu_percent": 1.4925373134328357
+    },
+    {
+        "memory_percent": 0.04356190422073707,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:40.689609",
+        "cpu_percent": 0.997506234413965
+    },
+    {
+        "memory_percent": 0.04555494312372188,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:41.190395",
+        "cpu_percent": 1.5113350125944585
+    },
+    {
+        "memory_percent": 0.04938830042177914,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:41.700962",
+        "cpu_percent": 1.9607843137254901
+    },
+    {
+        "memory_percent": 0.052455785084355826,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:42.201974",
+        "cpu_percent": 0.9950248756218906
+    },
+    {
+        "memory_percent": 0.05455453556739479,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:42.703086",
+        "cpu_percent": 0.7518796992481203
+    },
+    {
+        "memory_percent": 0.056653668300262014,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:43.204165",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.06063574418456033,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:43.714435",
+        "cpu_percent": 2.444987775061125
+    },
+    {
+        "memory_percent": 0.06370322884713701,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:44.21566",
+        "cpu_percent": 1.231527093596059
+    },
+    {
+        "memory_percent": 0.06580278673542546,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:46.311895",
+        "cpu_percent": 0.7425742574257426
+    },
+    {
+        "memory_percent": 0.06815835839644044,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:46.813353",
+        "cpu_percent": 0.7481296758104738
+    },
+    {
+        "memory_percent": 0.07188318794734151,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:47.324077",
+        "cpu_percent": 1.4742014742014742
+    },
+    {
+        "memory_percent": 0.07188318794734151,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:47.825043",
+        "cpu_percent": 0
+    },
+    {
+        "memory_percent": 0.07506104919808043,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:48.326065",
+        "cpu_percent": 1.507537688442211
+    },
+    {
+        "memory_percent": 0.07834568296717233,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:48.827087",
+        "cpu_percent": 1.99501246882793
+    },
+    {
+        "memory_percent": 0.08057439449130879,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:49.328095",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.08364187915388548,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:49.839024",
+        "cpu_percent": 0.9779951100244498
+    },
+    {
+        "memory_percent": 0.08670936381646217,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:50.340211",
+        "cpu_percent": 1.2406947890818858
+    },
+    {
+        "memory_percent": 0.089122358762901,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:50.841362",
+        "cpu_percent": 3.508771929824561
+    },
+    {
+        "memory_percent": 0.09233308569785276,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:51.34231",
+        "cpu_percent": 2
+    },
+    {
+        "memory_percent": 0.036255245559785994,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:51.853866",
+        "cpu_percent": 3.16301703163017
+    },
+    {
+        "memory_percent": 0.03957735541408047,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:52.354837",
+        "cpu_percent": 1.256281407035176
+    },
+    {
+        "memory_percent": 0.041679347219642685,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:52.856023",
+        "cpu_percent": 0.7518796992481203
+    },
+    {
+        "memory_percent": 0.043923957216227716,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:53.357008",
+        "cpu_percent": 0.7537688442211055
+    },
+    {
+        "memory_percent": 0.048013936766329965,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:53.868384",
+        "cpu_percent": 1.7241379310344827
+    },
+    {
+        "memory_percent": 0.051336046620624444,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:54.369559",
+        "cpu_percent": 1
+    },
+    {
+        "memory_percent": 0.05375228679009498,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:54.870615",
+        "cpu_percent": 0.7481296758104738
+    },
+    {
+        "memory_percent": 0.054660153535246114,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:55.371603",
+        "cpu_percent": 0.24937655860349126
+    },
+    {
+        "memory_percent": 0.06002725316459172,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:55.876116",
+        "cpu_percent": 1.7326732673267329
+    },
+    {
+        "memory_percent": 0.06321159706037713,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:56.376949",
+        "cpu_percent": 0.9950248756218906
+    },
+    {
+        "memory_percent": 0.06565097504598232,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:56.878033",
+        "cpu_percent": 2.9925187032418954
+    },
+    {
+        "memory_percent": 0.0690919099897451,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:57.379099",
+        "cpu_percent": 1.2594458438287155
+    },
+    {
+        "memory_percent": 0.07204256662318068,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:57.89028",
+        "cpu_percent": 1.2285012285012284
+    },
+    {
+        "memory_percent": 0.0752634894872248,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:58.391474",
+        "cpu_percent": 1.7412935323383085
+    },
+    {
+        "memory_percent": 0.07778415406896048,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:58.892865",
+        "cpu_percent": 1
+    },
+    {
+        "memory_percent": 0.08098839835886575,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:59.39394",
+        "cpu_percent": 1.5000000000000002
+    },
+    {
+        "memory_percent": 0.08405588302144244,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:43:59.904881",
+        "cpu_percent": 0.975609756097561
+    },
+    {
+        "memory_percent": 0.08745089337869656,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:00.406173",
+        "cpu_percent": 1.256281407035176
+    },
+    {
+        "memory_percent": 0.08999547197774875,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:00.907338",
+        "cpu_percent": 0.7444168734491315
+    },
+    {
+        "memory_percent": 0.034413070522690596,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:01.408372",
+        "cpu_percent": 2.493765586034913
+    },
+    {
+        "memory_percent": 0.03760436512453668,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:01.919451",
+        "cpu_percent": 1.2315270935960592
+    },
+    {
+        "memory_percent": 0.04022036983435383,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:02.420446",
+        "cpu_percent": 0.7481296758104738
+    },
+    {
+        "memory_percent": 0.04329899044855972,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:02.921449",
+        "cpu_percent": 1.5037593984962405
+    },
+    {
+        "memory_percent": 0.04558895165691103,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:03.422629",
+        "cpu_percent": 0.7518796992481203
+    },
+    {
+        "memory_percent": 0.04987430377484343,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:03.933735",
+        "cpu_percent": 1.2224938875305624
+    },
+    {
+        "memory_percent": 0.0534530358811829,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:04.434717",
+        "cpu_percent": 1.25
+    },
+    {
+        "memory_percent": 0.055752650847951814,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:04.935623",
+        "cpu_percent": 0.7518796992481203
+    },
+    {
+        "memory_percent": 0.05933138295429128,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:05.436911",
+        "cpu_percent": 1.25
+    },
+    {
+        "memory_percent": 0.06239886761686797,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:05.947895",
+        "cpu_percent": 0.9852216748768473
+    },
+    {
+        "memory_percent": 0.06597759972320744,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:06.448847",
+        "cpu_percent": 1.2531328320802004
+    },
+    {
+        "memory_percent": 0.068350115192936,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:06.949971",
+        "cpu_percent": 0.7518796992481203
+    },
+    {
+        "memory_percent": 0.07192884729927547,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:07.451151",
+        "cpu_percent": 1.2468827930174564
+    },
+    {
+        "memory_percent": 0.0751800537109375,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:07.962267",
+        "cpu_percent": 0.9708737864077669
+    },
+    {
+        "memory_percent": 0.07875878581727697,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:08.463334",
+        "cpu_percent": 1.2468827930174564
+    },
+    {
+        "memory_percent": 0.08224501346517926,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:08.96433",
+        "cpu_percent": 1.0025062656641603
+    },
+    {
+        "memory_percent": 0.084710033393345,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:09.465268",
+        "cpu_percent": 1.0075566750629723
+    },
+    {
+        "memory_percent": 0.08796123980500703,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:09.976925",
+        "cpu_percent": 0.975609756097561
+    },
+    {
+        "memory_percent": 0.0915399719113465,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:10.477776",
+        "cpu_percent": 1.4888337468982633
+    },
+    {
+        "memory_percent": 0.034633687181219244,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:10.978745",
+        "cpu_percent": 2.2388059701492535
+    },
+    {
+        "memory_percent": 0.03706100089418376,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:11.479912",
+        "cpu_percent": 0.7518796992481203
+    },
+    {
+        "memory_percent": 0.04159132444541635,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:11.991691",
+        "cpu_percent": 1.4634146341463417
+    },
+    {
+        "memory_percent": 0.045170056551755815,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:12.492838",
+        "cpu_percent": 1.256281407035176
+    },
+    {
+        "memory_percent": 0.04759988609267159,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:12.993963",
+        "cpu_percent": 1.0025062656641603
+    },
+    {
+        "memory_percent": 0.05130502587690919,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:13.495269",
+        "cpu_percent": 1.488833746898263
+    },
+    {
+        "memory_percent": 0.05462713573120367,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:14.006951",
+        "cpu_percent": 2.9197080291970803
+    },
+    {
+        "memory_percent": 0.05846249008958813,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:14.508025",
+        "cpu_percent": 2.2443890274314215
+    },
+    {
+        "memory_percent": 0.06076210505635704,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:15.009025",
+        "cpu_percent": 0.7518796992481203
+    },
+    {
+        "memory_percent": 0.06466266811503467,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:15.510202",
+        "cpu_percent": 1.243781094527363
+    },
+    {
+        "memory_percent": 0.06769585950730525,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:16.02199",
+        "cpu_percent": 1.2135922330097086
+    },
+    {
+        "memory_percent": 0.07149830137537545,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:16.52303",
+        "cpu_percent": 1.2594458438287153
+    },
+    {
+        "memory_percent": 0.07405453859418935,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:17.023934",
+        "cpu_percent": 1.0050251256281406
+    },
+    {
+        "memory_percent": 0.0779559129586249,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:17.524865",
+        "cpu_percent": 1.256281407035176
+    },
+    {
+        "memory_percent": 0.08121200280686829,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:18.037606",
+        "cpu_percent": 1.4705882352941175
+    },
+    {
+        "memory_percent": 0.08504735716525275,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:20.134278",
+        "cpu_percent": 1.466992665036675
+    },
+    {
+        "memory_percent": 0.08734697213202167,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:20.635468",
+        "cpu_percent": 0.9852216748768473
+    },
+    {
+        "memory_percent": 0.09118232649040613,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:21.136515",
+        "cpu_percent": 1.2531328320802004
+    },
+    {
+        "memory_percent": 0.03493994340331033,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:21.648779",
+        "cpu_percent": 2.2058823529411766
+    },
+    {
+        "memory_percent": 0.03749618062212423,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:22.149849",
+        "cpu_percent": 0.7481296758104738
+    },
+    {
+        "memory_percent": 0.040119674308168374,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:22.650895",
+        "cpu_percent": 0.7518796992481203
+    },
+    {
+        "memory_percent": 0.0438857751389954,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:23.152002",
+        "cpu_percent": 1.256281407035176
+    },
+    {
+        "memory_percent": 0.04848700213286043,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:23.664691",
+        "cpu_percent": 1.9607843137254901
+    },
+    {
+        "memory_percent": 0.05104323935167433,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:24.165519",
+        "cpu_percent": 1.9801980198019802
+    },
+    {
+        "memory_percent": 0.05359947657048824,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:24.666627",
+        "cpu_percent": 1.0050251256281406
+    },
+    {
+        "memory_percent": 0.05615671231946574,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:25.167555",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.05897557077232314,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:25.668612",
+        "cpu_percent": 0.997506234413965
+    },
+    {
+        "memory_percent": 0.06254730536650051,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:26.181871",
+        "cpu_percent": 0.9779951100244498
+    },
+    {
+        "memory_percent": 0.06626672101167082,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:26.683251",
+        "cpu_percent": 1.2468827930174564
+    },
+    {
+        "memory_percent": 0.06779852869076719,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:27.184233",
+        "cpu_percent": 0.7462686567164178
+    },
+    {
+        "memory_percent": 0.07149313710218558,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:27.685422",
+        "cpu_percent": 1.488833746898263
+    },
+    {
+        "memory_percent": 0.07302687943347393,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:28.186672",
+        "cpu_percent": 0.2506265664160401
+    },
+    {
+        "memory_percent": 0.07660561153981339,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:28.699373",
+        "cpu_percent": 2.195121951219512
+    },
+    {
+        "memory_percent": 0.08044096589819785,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:29.200521",
+        "cpu_percent": 1.243781094527363
+    },
+    {
+        "memory_percent": 0.08325182830872956,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:29.701572",
+        "cpu_percent": 0.7537688442211055
+    },
+    {
+        "memory_percent": 0.08460082695771824,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:30.202465",
+        "cpu_percent": 1.5037593984962405
+    },
+    {
+        "memory_percent": 0.0873418078588318,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:30.703444",
+        "cpu_percent": 1
+    },
+    {
+        "memory_percent": 0.09092053996517127,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:31.216436",
+        "cpu_percent": 1.2224938875305624
+    },
+    {
+        "memory_percent": 0.09347677718398517,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:31.717588",
+        "cpu_percent": 0.7481296758104738
+    },
+    {
+        "memory_percent": 0.09501051951527352,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:32.218584",
+        "cpu_percent": 0.5012531328320802
+    },
+    {
+        "memory_percent": 0.036483452607761375,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:32.719661",
+        "cpu_percent": 2.756892230576441
+    },
+    {
+        "memory_percent": 0.03916335154652352,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:33.220744",
+        "cpu_percent": 0.7462686567164178
+    },
+    {
+        "memory_percent": 0.042742083652862986,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:33.734362",
+        "cpu_percent": 1.2224938875305624
+    },
+    {
+        "memory_percent": 0.04704806946050414,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:34.235601",
+        "cpu_percent": 1.2468827930174564
+    },
+    {
+        "memory_percent": 0.05022757282530116,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:34.736834",
+        "cpu_percent": 1.2594458438287153
+    },
+    {
+        "memory_percent": 0.05446263958827606,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:35.238399",
+        "cpu_percent": 1.4962593516209477
+    },
+    {
+        "memory_percent": 0.05807950696574642,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:35.751256",
+        "cpu_percent": 0.9803921568627451
+    },
+    {
+        "memory_percent": 0.060922646083714775,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:36.252153",
+        "cpu_percent": 0.997506234413965
+    },
+    {
+        "memory_percent": 0.06563901998757829,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:36.753217",
+        "cpu_percent": 1.4962593516209477
+    },
+    {
+        "memory_percent": 0.06845127097911874,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:37.254135",
+        "cpu_percent": 1.0025062656641603
+    },
+    {
+        "memory_percent": 0.07367355253067484,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:37.766707",
+        "cpu_percent": 1.4634146341463414
+    },
+    {
+        "memory_percent": 0.07801815727249489,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:38.2676",
+        "cpu_percent": 1.5037593984962405
+    },
+    {
+        "memory_percent": 0.08108564193507158,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:38.768745",
+        "cpu_percent": 0.7462686567164178
+    },
+    {
+        "memory_percent": 0.08261938426635992,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:39.269707",
+        "cpu_percent": 0.5
+    },
+    {
+        "memory_percent": 0.08926560103527607,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:39.782968",
+        "cpu_percent": 2.18978102189781
+    },
+    {
+        "memory_percent": 0.09233308569785276,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:40.283992",
+        "cpu_percent": 0.997506234413965
+    },
+    {
+        "memory_percent": 0.09671653170283342,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:40.78526",
+        "cpu_percent": 1.4851485148514851
+    },
+    {
+        "memory_percent": 0.037729040976682324,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:41.286362",
+        "cpu_percent": 2.7431421446384037
+    },
+    {
+        "memory_percent": 0.041654801319957024,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:41.799678",
+        "cpu_percent": 2.18978102189781
+    },
+    {
+        "memory_percent": 0.04599940606177706,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:42.300185",
+        "cpu_percent": 7.692307692307692
+    },
+    {
+        "memory_percent": 0.04906689072435375,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:42.801066",
+        "cpu_percent": 1.7543859649122806
+    },
+    {
+        "memory_percent": 0.05239099763897543,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:43.302106",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.05775809726832103,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:43.81569",
+        "cpu_percent": 1.7114914425427872
+    },
+    {
+        "memory_percent": 0.06217996328154956,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:44.316717",
+        "cpu_percent": 1.4814814814814816
+    },
+    {
+        "memory_percent": 0.06513581539224261,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:44.817729",
+        "cpu_percent": 1.0050251256281406
+    },
+    {
+        "memory_percent": 0.06846011343177842,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:45.318702",
+        "cpu_percent": 1
+    },
+    {
+        "memory_percent": 0.07386339027701223,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:45.830934",
+        "cpu_percent": 1.466992665036675
+    },
+    {
+        "memory_percent": 0.07820799501883229,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:46.331598",
+        "cpu_percent": 2.0100502512562812
+    },
+    {
+        "memory_percent": 0.08160837247571574,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:46.832632",
+        "cpu_percent": 7.196029776674938
+    },
+    {
+        "memory_percent": 0.0860318220953756,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:47.333585",
+        "cpu_percent": 1.492537313432836
+    },
+    {
+        "memory_percent": 0.08996668622537625,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:47.847097",
+        "cpu_percent": 1.70316301703163
+    },
+    {
+        "memory_percent": 0.09456791321924128,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:48.347882",
+        "cpu_percent": 1.2626262626262625
+    },
+    {
+        "memory_percent": 0.03465695761464125,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:48.848835",
+        "cpu_percent": 2.2388059701492535
+    },
+    {
+        "memory_percent": 0.0393835703531901,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:49.349675",
+        "cpu_percent": 1.5000000000000002
+    },
+    {
+        "memory_percent": 0.043316811871674896,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:49.863702",
+        "cpu_percent": 1.9464720194647203
+    },
+    {
+        "memory_percent": 0.04813953313847017,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:50.364848",
+        "cpu_percent": 2.977667493796526
+    },
+    {
+        "memory_percent": 0.0511283211425282,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:50.865855",
+        "cpu_percent": 1
+    },
+    {
+        "memory_percent": 0.05584137571369943,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:51.367013",
+        "cpu_percent": 1.4814814814814816
+    },
+    {
+        "memory_percent": 0.05993135526380168,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:51.881272",
+        "cpu_percent": 1.2165450121654502
+    },
+    {
+        "memory_percent": 0.06453258225766671,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:53.978851",
+        "cpu_percent": 1.9851116625310175
+    },
+    {
+        "memory_percent": 0.06767976600943411,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:54.479603",
+        "cpu_percent": 1.0075566750629723
+    },
+    {
+        "memory_percent": 0.07250507331333278,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:54.980421",
+        "cpu_percent": 0.997506234413965
+    },
+    {
+        "memory_percent": 0.07654789571625567,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:55.494339",
+        "cpu_percent": 0.7317073170731708
+    },
+    {
+        "memory_percent": 0.08119693514271992,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:55.995244",
+        "cpu_percent": 1.7369727047146404
+    },
+    {
+        "memory_percent": 0.08437762816259466,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:56.496442",
+        "cpu_percent": 1
+    },
+    {
+        "memory_percent": 0.08923405762342831,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:56.997309",
+        "cpu_percent": 1.7412935323383085
+    },
+    {
+        "memory_percent": 0.09341906136042745,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:57.511047",
+        "cpu_percent": 1.4634146341463417
+    },
+    {
+        "memory_percent": 0.09626354225330314,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:58.011994",
+        "cpu_percent": 0.997506234413965
+    },
+    {
+        "memory_percent": 0.03639977109944162,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:58.512953",
+        "cpu_percent": 2.493765586034913
+    },
+    {
+        "memory_percent": 0.041251941205046175,
+        "script": "StandaloneAPIPOST.java",
+        "timestamp": "2024-12-05T22:44:59.014005",
+        "cpu_percent": 0.9852216748768473
+    }
+]
