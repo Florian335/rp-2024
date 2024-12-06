@@ -1,0 +1,4034 @@
+[
+    {
+        "memory_percent": 0.02883606113051588,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:02.123705",
+        "cpu_percent": 0
+    },
+    {
+        "memory_percent": 0.038753961980464754,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:02.630353",
+        "cpu_percent": 54.06427221172022
+    },
+    {
+        "memory_percent": 0.040706338082842054,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:03.131828",
+        "cpu_percent": 21.951219512195124
+    },
+    {
+        "memory_percent": 0.04171983839787832,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:03.634086",
+        "cpu_percent": 5.025125628140703
+    },
+    {
+        "memory_percent": 0.04248770809368609,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:04.135132",
+        "cpu_percent": 6.7164179104477615
+    },
+    {
+        "memory_percent": 0.042842966403454114,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:04.636508",
+        "cpu_percent": 3.950617283950617
+    },
+    {
+        "memory_percent": 0.042850962445779815,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:05.138105",
+        "cpu_percent": 0.5012531328320802
+    },
+    {
+        "memory_percent": 0.043870430538746966,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:05.639727",
+        "cpu_percent": 4.738154613466334
+    },
+    {
+        "memory_percent": 0.04412605426062836,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:06.141329",
+        "cpu_percent": 0.4987531172069825
+    },
+    {
+        "memory_percent": 0.045148549148153916,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:06.643045",
+        "cpu_percent": 0.9925558312655087
+    },
+    {
+        "memory_percent": 0.04555519275626278,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:07.144812",
+        "cpu_percent": 1.256281407035176
+    },
+    {
+        "memory_percent": 0.04673107903915436,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:07.655596",
+        "cpu_percent": 8.51581508515815
+    },
+    {
+        "memory_percent": 0.047088935087551125,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:08.157505",
+        "cpu_percent": 1.9607843137254901
+    },
+    {
+        "memory_percent": 0.0476081785736396,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:08.659252",
+        "cpu_percent": 0.4987531172069825
+    },
+    {
+        "memory_percent": 0.047765552388134666,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:09.161094",
+        "cpu_percent": 0.24937655860349126
+    },
+    {
+        "memory_percent": 0.04811142997507669,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:09.662318",
+        "cpu_percent": 0.5
+    },
+    {
+        "memory_percent": 0.04887730261055726,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:10.164128",
+        "cpu_percent": 0.7462686567164178
+    },
+    {
+        "memory_percent": 0.04989979749808282,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:10.666207",
+        "cpu_percent": 1.2468827930174564
+    },
+    {
+        "memory_percent": 0.050767056049744776,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:11.168252",
+        "cpu_percent": 1.2437810945273633
+    },
+    {
+        "memory_percent": 0.051349359055969615,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:11.669817",
+        "cpu_percent": 1.7500000000000002
+    },
+    {
+        "memory_percent": 0.05261044804547706,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:12.178865",
+        "cpu_percent": 4.645476772616137
+    },
+    {
+        "memory_percent": 0.05286607176735845,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:12.680581",
+        "cpu_percent": 2.0100502512562812
+    },
+    {
+        "memory_percent": 0.053746650555382476,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:13.182187",
+        "cpu_percent": 1.7412935323383085
+    },
+    {
+        "memory_percent": 0.054915020558487904,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:13.683989",
+        "cpu_percent": 4.987531172069826
+    },
+    {
+        "memory_percent": 0.05526889418775562,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:14.186871",
+        "cpu_percent": 0.24937655860349126
+    },
+    {
+        "memory_percent": 0.055780141631518405,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:14.68875",
+        "cpu_percent": 1.9851116625310175
+    },
+    {
+        "memory_percent": 0.05696001033353903,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:15.190459",
+        "cpu_percent": 0.997506234413965
+    },
+    {
+        "memory_percent": 0.05731388396280675,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:15.692295",
+        "cpu_percent": 1.4962593516209477
+    },
+    {
+        "memory_percent": 0.05848977024569833,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:16.200087",
+        "cpu_percent": 3.194103194103194
+    },
+    {
+        "memory_percent": 0.05935887373785787,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:16.701922",
+        "cpu_percent": 1.7676767676767675
+    },
+    {
+        "memory_percent": 0.05987811722394635,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:17.203512",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.06003549103844141,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:17.705228",
+        "cpu_percent": 0.25
+    },
+    {
+        "memory_percent": 0.06003549103844141,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:18.207627",
+        "cpu_percent": 0.24875621890547264
+    },
+    {
+        "memory_percent": 0.06003549103844141,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:18.710328",
+        "cpu_percent": 0
+    },
+    {
+        "memory_percent": 0.06104998988364128,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:19.211241",
+        "cpu_percent": 2.0050125313283207
+    },
+    {
+        "memory_percent": 0.03403262272934241,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:19.714204",
+        "cpu_percent": 7.960199004975125
+    },
+    {
+        "memory_percent": 0.03430801032754785,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:20.215725",
+        "cpu_percent": 1.7412935323383085
+    },
+    {
+        "memory_percent": 0.03509011297869536,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:20.718503",
+        "cpu_percent": 1.4925373134328357
+    },
+    {
+        "memory_percent": 0.03692887117038719,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:21.228453",
+        "cpu_percent": 3.1784841075794623
+    },
+    {
+        "memory_percent": 0.03776716844679632,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:21.730242",
+        "cpu_percent": 1.5075376884422111
+    },
+    {
+        "memory_percent": 0.03878966333432188,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:22.231995",
+        "cpu_percent": 1.0025062656641603
+    },
+    {
+        "memory_percent": 0.03950094835402288,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:22.733586",
+        "cpu_percent": 0.49627791563275436
+    },
+    {
+        "memory_percent": 0.04032340566561022,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:23.235234",
+        "cpu_percent": 0.7556675062972292
+    },
+    {
+        "memory_percent": 0.04108927830109079,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:23.736778",
+        "cpu_percent": 0.4975124378109453
+    },
+    {
+        "memory_percent": 0.04262302063237914,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:24.238917",
+        "cpu_percent": 1.7412935323383085
+    },
+    {
+        "memory_percent": 0.04331935500318531,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:24.747929",
+        "cpu_percent": 4.166666666666666
+    },
+    {
+        "memory_percent": 0.04331935500318531,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:25.249619",
+        "cpu_percent": 0
+    },
+    {
+        "memory_percent": 0.04415676296366748,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:25.751239",
+        "cpu_percent": 1.2437810945273633
+    },
+    {
+        "memory_percent": 0.04561998410215163,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:26.253014",
+        "cpu_percent": 1.2468827930174564
+    },
+    {
+        "memory_percent": 0.045954339587127746,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:26.754459",
+        "cpu_percent": 0.9950248756218906
+    },
+    {
+        "memory_percent": 0.04698559111612706,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:27.256206",
+        "cpu_percent": 1.5
+    },
+    {
+        "memory_percent": 0.04799211732205194,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:27.757729",
+        "cpu_percent": 2.2167487684729066
+    },
+    {
+        "memory_percent": 0.049965571772101466,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:28.265561",
+        "cpu_percent": 5.6511056511056506
+    },
+    {
+        "memory_percent": 0.049965571772101466,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:28.767211",
+        "cpu_percent": 0.7462686567164178
+    },
+    {
+        "memory_percent": 0.051059601984628625,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:29.267845",
+        "cpu_percent": 3.2098765432098766
+    },
+    {
+        "memory_percent": 0.05175495342730501,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:29.769226",
+        "cpu_percent": 2.9850746268656714
+    },
+    {
+        "memory_percent": 0.05233672206387198,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:30.271199",
+        "cpu_percent": 0.5012531328320802
+    },
+    {
+        "memory_percent": 0.053359216951397545,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:30.773011",
+        "cpu_percent": 1.5
+    },
+    {
+        "memory_percent": 0.0546383340909681,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:31.275183",
+        "cpu_percent": 1.5
+    },
+    {
+        "memory_percent": 0.055337628947689003,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:31.776614",
+        "cpu_percent": 0.25125628140703515
+    },
+    {
+        "memory_percent": 0.055915454170211445,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:32.278522",
+        "cpu_percent": 0.9925558312655087
+    },
+    {
+        "memory_percent": 0.05738663234593678,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:32.786746",
+        "cpu_percent": 2.9776674937965266
+    },
+    {
+        "memory_percent": 0.05770581875354478,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:33.288661",
+        "cpu_percent": 0.7425742574257426
+    },
+    {
+        "memory_percent": 0.05847169138902535,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:33.790439",
+        "cpu_percent": 0.5
+    },
+    {
+        "memory_percent": 0.058671728964963574,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:34.291938",
+        "cpu_percent": 0.24875621890547264
+    },
+    {
+        "memory_percent": 0.058671728964963574,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:34.793291",
+        "cpu_percent": 0
+    },
+    {
+        "memory_percent": 0.058982938832788136,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:35.294621",
+        "cpu_percent": 1.25
+    },
+    {
+        "memory_percent": 0.05923956108483312,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:35.795401",
+        "cpu_percent": 0
+    },
+    {
+        "memory_percent": 0.059938855941554035,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:36.296336",
+        "cpu_percent": 0.4987531172069825
+    },
+    {
+        "memory_percent": 0.06102792860783926,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:36.79804",
+        "cpu_percent": 0.7407407407407408
+    },
+    {
+        "memory_percent": 0.062050423495364826,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:37.298702",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.06301033472478512,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:37.800003",
+        "cpu_percent": 0.5
+    },
+    {
+        "memory_percent": 0.06358416582665316,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:38.301135",
+        "cpu_percent": 0.24875621890547264
+    },
+    {
+        "memory_percent": 0.0650473479600528,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:38.810639",
+        "cpu_percent": 2.941176470588235
+    },
+    {
+        "memory_percent": 0.06511790815794151,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:39.312026",
+        "cpu_percent": 4
+    },
+    {
+        "memory_percent": 0.06639702529751207,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:39.813302",
+        "cpu_percent": 1.2531328320802004
+    },
+    {
+        "memory_percent": 0.06761955776097585,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:40.314606",
+        "cpu_percent": 2.2556390977443606
+    },
+    {
+        "memory_percent": 0.06895326251632597,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:40.81592",
+        "cpu_percent": 0.9950248756218906
+    },
+    {
+        "memory_percent": 0.06946450996008875,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:41.317399",
+        "cpu_percent": 0.7444168734491315
+    },
+    {
+        "memory_percent": 0.03462902607361963,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:44.418902",
+        "cpu_percent": 4.0201005025125625
+    },
+    {
+        "memory_percent": 0.03625395449148853,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:44.925105",
+        "cpu_percent": 2.696078431372549
+    },
+    {
+        "memory_percent": 0.03708113531881071,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:45.426112",
+        "cpu_percent": 3.217821782178218
+    },
+    {
+        "memory_percent": 0.03836025245838126,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:45.92824",
+        "cpu_percent": 3.2098765432098766
+    },
+    {
+        "memory_percent": 0.03984763724672282,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:46.429957",
+        "cpu_percent": 4.962779156327543
+    },
+    {
+        "memory_percent": 0.03984763724672282,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:46.931063",
+        "cpu_percent": 0.25
+    },
+    {
+        "memory_percent": 0.04117111486891296,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:47.432387",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.04245023200848351,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:47.933138",
+        "cpu_percent": 6.030150753768844
+    },
+    {
+        "memory_percent": 0.044433913591693026,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:48.439857",
+        "cpu_percent": 4.390243902439025
+    },
+    {
+        "memory_percent": 0.045261094419015206,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:48.941141",
+        "cpu_percent": 1.2531328320802004
+    },
+    {
+        "memory_percent": 0.04628358930654077,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:49.442245",
+        "cpu_percent": 1.2437810945273633
+    },
+    {
+        "memory_percent": 0.0485388437906901,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:49.94348",
+        "cpu_percent": 0.997506234413965
+    },
+    {
+        "memory_percent": 0.0485388437906901,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:50.44466",
+        "cpu_percent": 0
+    },
+    {
+        "memory_percent": 0.04962467903496054,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:50.945708",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.052613872691897524,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:51.453525",
+        "cpu_percent": 2.211302211302211
+    },
+    {
+        "memory_percent": 0.052613872691897524,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:51.954641",
+        "cpu_percent": 0.24875621890547264
+    },
+    {
+        "memory_percent": 0.053186428327501915,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:52.455897",
+        "cpu_percent": 0.997506234413965
+    },
+    {
+        "memory_percent": 0.05493043536788847,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:52.957",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.055486043294270836,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:53.458383",
+        "cpu_percent": 0.24752475247524752
+    },
+    {
+        "memory_percent": 0.05676516043384139,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:53.959608",
+        "cpu_percent": 1.4814814814814816
+    },
+    {
+        "memory_percent": 0.058042280513084736,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:54.460664",
+        "cpu_percent": 2.493765586034913
+    },
+    {
+        "memory_percent": 0.05956651730527663,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:54.961838",
+        "cpu_percent": 0.5012531328320802
+    },
+    {
+        "memory_percent": 0.061305079235864805,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:55.469532",
+        "cpu_percent": 0.9900990099009901
+    },
+    {
+        "memory_percent": 0.06244274053593111,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:55.971336",
+        "cpu_percent": 1.2531328320802004
+    },
+    {
+        "memory_percent": 0.06366600239447533,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:56.472406",
+        "cpu_percent": 1.0050251256281406
+    },
+    {
+        "memory_percent": 0.0651553842431441,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:56.973521",
+        "cpu_percent": 0.5012531328320802
+    },
+    {
+        "memory_percent": 0.06647886186533422,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:57.474643",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.0672447345008148,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:57.975758",
+        "cpu_percent": 0.5012531328320802
+    },
+    {
+        "memory_percent": 0.07031221916339149,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:58.481101",
+        "cpu_percent": 1.7114914425427872
+    },
+    {
+        "memory_percent": 0.07108008885919925,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:58.982211",
+        "cpu_percent": 0.997506234413965
+    },
+    {
+        "memory_percent": 0.03344816664245231,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:59.483236",
+        "cpu_percent": 3.7406483790523692
+    },
+    {
+        "memory_percent": 0.03411977569018405,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:52:59.984262",
+        "cpu_percent": 0.25125628140703515
+    },
+    {
+        "memory_percent": 0.035755789353072276,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:00.485448",
+        "cpu_percent": 0.5012531328320802
+    },
+    {
+        "memory_percent": 0.03718026284059864,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:00.986622",
+        "cpu_percent": 0.7462686567164178
+    },
+    {
+        "memory_percent": 0.0401103637944945,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:01.488034",
+        "cpu_percent": 3.482587064676617
+    },
+    {
+        "memory_percent": 0.040724869398495414,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:01.994924",
+        "cpu_percent": 0.7407407407407408
+    },
+    {
+        "memory_percent": 0.04126924386053729,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:02.496312",
+        "cpu_percent": 0.25125628140703515
+    },
+    {
+        "memory_percent": 0.04280298619182563,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:02.997781",
+        "cpu_percent": 3.4739454094292808
+    },
+    {
+        "memory_percent": 0.04380396197422394,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:03.499102",
+        "cpu_percent": 0.5012531328320802
+    },
+    {
+        "memory_percent": 0.04535922341063954,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:04.000328",
+        "cpu_percent": 1.2531328320802004
+    },
+    {
+        "memory_percent": 0.04689296574192788,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:04.501592",
+        "cpu_percent": 0.9803921568627451
+    },
+    {
+        "memory_percent": 0.048426708073216224,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:05.002378",
+        "cpu_percent": 1.0075566750629723
+    },
+    {
+        "memory_percent": 0.050421611419240876,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:05.510335",
+        "cpu_percent": 0.24449877750611246
+    },
+    {
+        "memory_percent": 0.050421611419240876,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:06.011475",
+        "cpu_percent": 0.25
+    },
+    {
+        "memory_percent": 0.05183145409956544,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:06.512653",
+        "cpu_percent": 1.0050251256281406
+    },
+    {
+        "memory_percent": 0.05333779145847313,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:07.013877",
+        "cpu_percent": 1
+    },
+    {
+        "memory_percent": 0.05425895113642718,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:07.515123",
+        "cpu_percent": 0.5012531328320802
+    },
+    {
+        "memory_percent": 0.05586332777526481,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:08.016449",
+        "cpu_percent": 0.7518796992481203
+    },
+    {
+        "memory_percent": 0.057397347042653216,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:08.517551",
+        "cpu_percent": 0.7444168734491315
+    },
+    {
+        "memory_percent": 0.05840403316942461,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:09.019032",
+        "cpu_percent": 0.7518796992481203
+    },
+    {
+        "memory_percent": 0.06013528944768301,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:09.527318",
+        "cpu_percent": 0.7481296758104738
+    },
+    {
+        "memory_percent": 0.06013528944768301,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:10.028568",
+        "cpu_percent": 0.4975124378109453
+    },
+    {
+        "memory_percent": 0.06146451641933075,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:10.529517",
+        "cpu_percent": 0.997506234413965
+    },
+    {
+        "memory_percent": 0.06346539924481163,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:11.030689",
+        "cpu_percent": 0.9950248756218906
+    },
+    {
+        "memory_percent": 0.065297873717388,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:11.53171",
+        "cpu_percent": 1.256281407035176
+    },
+    {
+        "memory_percent": 0.06683161604867635,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:12.033309",
+        "cpu_percent": 1.2437810945273633
+    },
+    {
+        "memory_percent": 0.06836535837996469,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:12.534484",
+        "cpu_percent": 0.5
+    },
+    {
+        "memory_percent": 0.07036023832293864,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:13.042451",
+        "cpu_percent": 1.2315270935960592
+    },
+    {
+        "memory_percent": 0.07194409048630417,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:13.543549",
+        "cpu_percent": 1.7283950617283952
+    },
+    {
+        "memory_percent": 0.07273695073976107,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:14.044601",
+        "cpu_percent": 2.2556390977443606
+    },
+    {
+        "memory_percent": 0.07394694696906154,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:14.545867",
+        "cpu_percent": 0.2506265664160401
+    },
+    {
+        "memory_percent": 0.03357310382866421,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:15.057965",
+        "cpu_percent": 1.715686274509804
+    },
+    {
+        "memory_percent": 0.03474203940549511,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:15.559038",
+        "cpu_percent": 0.7556675062972292
+    },
+    {
+        "memory_percent": 0.035739372112999664,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:16.060208",
+        "cpu_percent": 0.2506265664160401
+    },
+    {
+        "memory_percent": 0.037554898876354006,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:16.561276",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.040340302668222375,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:18.82531",
+        "cpu_percent": 2.1739130434782608
+    },
+    {
+        "memory_percent": 0.04138825617441127,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:19.326415",
+        "cpu_percent": 1.7412935323383085
+    },
+    {
+        "memory_percent": 0.04292199850569961,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:19.827486",
+        "cpu_percent": 0.997506234413965
+    },
+    {
+        "memory_percent": 0.044712363089032946,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:20.328411",
+        "cpu_percent": 0.5037783375314862
+    },
+    {
+        "memory_percent": 0.046489317724309816,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:20.829607",
+        "cpu_percent": 0.7537688442211055
+    },
+    {
+        "memory_percent": 0.04829109519537241,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:21.330607",
+        "cpu_percent": 0.4987531172069825
+    },
+    {
+        "memory_percent": 0.049824837526660753,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:21.832107",
+        "cpu_percent": 0.4987531172069825
+    },
+    {
+        "memory_percent": 0.05105951617344269,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:22.339643",
+        "cpu_percent": 0.7334963325183375
+    },
+    {
+        "memory_percent": 0.052892322189237444,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:22.840771",
+        "cpu_percent": 2.0100502512562812
+    },
+    {
+        "memory_percent": 0.054680689712243574,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:23.341847",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.05647105429557691,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:23.842918",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.05745311651249361,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:24.344097",
+        "cpu_percent": 0.24875621890547264
+    },
+    {
+        "memory_percent": 0.060049786401916376,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:24.84542",
+        "cpu_percent": 1.240694789081886
+    },
+    {
+        "memory_percent": 0.0620513596173932,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:25.354109",
+        "cpu_percent": 2.941176470588235
+    },
+    {
+        "memory_percent": 0.06337189625621086,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:25.855363",
+        "cpu_percent": 1.7587939698492463
+    },
+    {
+        "memory_percent": 0.0647110188178002,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:26.35646",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.06621553463926101,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:26.857535",
+        "cpu_percent": 0.24937655860349126
+    },
+    {
+        "memory_percent": 0.06767806538774923,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:27.358862",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.06931362659165709,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:27.859944",
+        "cpu_percent": 0.5
+    },
+    {
+        "memory_percent": 0.070274735277172,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:28.361146",
+        "cpu_percent": 0.5012531328320802
+    },
+    {
+        "memory_percent": 0.07329880338017439,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:28.867387",
+        "cpu_percent": 1.2406947890818858
+    },
+    {
+        "memory_percent": 0.07513058746275482,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:29.368504",
+        "cpu_percent": 1.2437810945273633
+    },
+    {
+        "memory_percent": 0.03459345343654141,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:29.869692",
+        "cpu_percent": 2.0100502512562812
+    },
+    {
+        "memory_percent": 0.03653023530612938,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:30.37087",
+        "cpu_percent": 0.9950248756218906
+    },
+    {
+        "memory_percent": 0.03741630210954475,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:30.871958",
+        "cpu_percent": 0.24937655860349126
+    },
+    {
+        "memory_percent": 0.038315599437627815,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:31.37404",
+        "cpu_percent": 0.4975124378109453
+    },
+    {
+        "memory_percent": 0.04237336468842863,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:31.882815",
+        "cpu_percent": 1.4814814814814814
+    },
+    {
+        "memory_percent": 0.04342807387525562,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:32.384193",
+        "cpu_percent": 4.25
+    },
+    {
+        "memory_percent": 0.04521843845858896,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:32.885637",
+        "cpu_percent": 1.0075566750629723
+    },
+    {
+        "memory_percent": 0.04598431109406953,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:33.386816",
+        "cpu_percent": 0.24937655860349126
+    },
+    {
+        "memory_percent": 0.04724518945612059,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:33.887789",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.04905179575664622,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:34.388876",
+        "cpu_percent": 1
+    },
+    {
+        "memory_percent": 0.05007429064417178,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:34.890059",
+        "cpu_percent": 0.5
+    },
+    {
+        "memory_percent": 0.05414747070437316,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:35.398825",
+        "cpu_percent": 2.2167487684729066
+    },
+    {
+        "memory_percent": 0.055186765081799594,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:35.900115",
+        "cpu_percent": 1.507537688442211
+    },
+    {
+        "memory_percent": 0.055954634777607364,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:36.401152",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.057743002300613494,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:36.902331",
+        "cpu_percent": 1.2468827930174564
+    },
+    {
+        "memory_percent": 0.05900388066266456,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:37.40358",
+        "cpu_percent": 0.2506265664160401
+    },
+    {
+        "memory_percent": 0.060810486963190184,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:37.904973",
+        "cpu_percent": 0.9950248756218906
+    },
+    {
+        "memory_percent": 0.06285547673824131,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:38.405735",
+        "cpu_percent": 2.9925187032418954
+    },
+    {
+        "memory_percent": 0.06614639422644866,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:38.916415",
+        "cpu_percent": 2.444987775061125
+    },
+    {
+        "memory_percent": 0.06614639422644866,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:39.41751",
+        "cpu_percent": 0.24937655860349126
+    },
+    {
+        "memory_percent": 0.06614639422644866,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:39.918567",
+        "cpu_percent": 0
+    },
+    {
+        "memory_percent": 0.06825995884058665,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:40.419611",
+        "cpu_percent": 0.7518796992481203
+    },
+    {
+        "memory_percent": 0.06950169350715746,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:40.921312",
+        "cpu_percent": 0.4987531172069825
+    },
+    {
+        "memory_percent": 0.07154668328220859,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:41.422452",
+        "cpu_percent": 1.0050251256281406
+    },
+    {
+        "memory_percent": 0.07461416794478527,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:41.923818",
+        "cpu_percent": 1.2468827930174564
+    },
+    {
+        "memory_percent": 0.0766591577198364,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:42.424997",
+        "cpu_percent": 0.7462686567164178
+    },
+    {
+        "memory_percent": 0.034924068333912484,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:42.934722",
+        "cpu_percent": 2.689486552567237
+    },
+    {
+        "memory_percent": 0.037225680361008595,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:43.436013",
+        "cpu_percent": 1.0050251256281406
+    },
+    {
+        "memory_percent": 0.03950872596787529,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:43.937234",
+        "cpu_percent": 0.9950248756218906
+    },
+    {
+        "memory_percent": 0.041463442375323525,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:44.438334",
+        "cpu_percent": 0.7518796992481203
+    },
+    {
+        "memory_percent": 0.043615274877879764,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:44.939539",
+        "cpu_percent": 1
+    },
+    {
+        "memory_percent": 0.04463776976540532,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:45.440542",
+        "cpu_percent": 0.25
+    },
+    {
+        "memory_percent": 0.04819195597205913,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:45.950107",
+        "cpu_percent": 1.707317073170732
+    },
+    {
+        "memory_percent": 0.04949561901131534,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:46.451253",
+        "cpu_percent": 3.7500000000000004
+    },
+    {
+        "memory_percent": 0.05154060878636647,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:46.952368",
+        "cpu_percent": 0.9925558312655087
+    },
+    {
+        "memory_percent": 0.05468698513288439,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:47.453845",
+        "cpu_percent": 1.5
+    },
+    {
+        "memory_percent": 0.05714578765057835,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:47.95528",
+        "cpu_percent": 0.7462686567164178
+    },
+    {
+        "memory_percent": 0.05818682555528262,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:48.456496",
+        "cpu_percent": 0.5
+    },
+    {
+        "memory_percent": 0.06174003663482354,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:48.965914",
+        "cpu_percent": 1.2315270935960592
+    },
+    {
+        "memory_percent": 0.064321794880436,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:49.467041",
+        "cpu_percent": 1.25
+    },
+    {
+        "memory_percent": 0.06534428976796156,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:49.967996",
+        "cpu_percent": 0.4987531172069825
+    },
+    {
+        "memory_percent": 0.06636678465548712,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:50.468904",
+        "cpu_percent": 0.24875621890547264
+    },
+    {
+        "memory_percent": 0.06866639962225604,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:52.728611",
+        "cpu_percent": 0.7444168734491315
+    },
+    {
+        "memory_percent": 0.06968889450978161,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:53.229735",
+        "cpu_percent": 0.7518796992481203
+    },
+    {
+        "memory_percent": 0.07199050653687772,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:53.730912",
+        "cpu_percent": 0.7462686567164178
+    },
+    {
+        "memory_percent": 0.07580232132675702,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:54.240043",
+        "cpu_percent": 1.7241379310344827
+    },
+    {
+        "memory_percent": 0.07583828401468039,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:54.741094",
+        "cpu_percent": 1.2468827930174564
+    },
+    {
+        "memory_percent": 0.07711144897835387,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:55.242597",
+        "cpu_percent": 0.7462686567164178
+    },
+    {
+        "memory_percent": 0.07940259594127444,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:55.743746",
+        "cpu_percent": 1.2531328320802004
+    },
+    {
+        "memory_percent": 0.035436166088517705,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:56.244723",
+        "cpu_percent": 1.99501246882793
+    },
+    {
+        "memory_percent": 0.03751808587758819,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:56.745907",
+        "cpu_percent": 1.0025062656641603
+    },
+    {
+        "memory_percent": 0.03979675901448068,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:57.247074",
+        "cpu_percent": 0.7518796992481203
+    },
+    {
+        "memory_percent": 0.04375059911809816,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:57.756286",
+        "cpu_percent": 2.450980392156863
+    },
+    {
+        "memory_percent": 0.04502971625766871,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:58.25749",
+        "cpu_percent": 0.7518796992481203
+    },
+    {
+        "memory_percent": 0.04732933122443763,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:58.758564",
+        "cpu_percent": 0.7481296758104738
+    },
+    {
+        "memory_percent": 0.04835182611196319,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:59.259523",
+        "cpu_percent": 0.2506265664160401
+    },
+    {
+        "memory_percent": 0.051930558218302655,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:53:59.761127",
+        "cpu_percent": 1.5037593984962405
+    },
+    {
+        "memory_percent": 0.054232170245398774,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:00.262307",
+        "cpu_percent": 1.0025062656641603
+    },
+    {
+        "memory_percent": 0.05805120487642191,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:00.772558",
+        "cpu_percent": 2.450980392156863
+    },
+    {
+        "memory_percent": 0.059353779673820134,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:01.273805",
+        "cpu_percent": 1.2437810945273633
+    },
+    {
+        "memory_percent": 0.0616442596497955,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:01.774438",
+        "cpu_percent": 0.9950248756218906
+    },
+    {
+        "memory_percent": 0.06292337678936605,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:02.274981",
+        "cpu_percent": 0.24875621890547264
+    },
+    {
+        "memory_percent": 0.06648979499052395,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:02.775518",
+        "cpu_percent": 0.5025125628140703
+    },
+    {
+        "memory_percent": 0.06880172386247443,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:03.276908",
+        "cpu_percent": 0.5012531328320802
+    },
+    {
+        "memory_percent": 0.07289170341257668,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:03.785118",
+        "cpu_percent": 1.4742014742014742
+    },
+    {
+        "memory_percent": 0.07417082055214724,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:04.286212",
+        "cpu_percent": 1.0075566750629723
+    },
+    {
+        "memory_percent": 0.0754479406313906,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:04.787258",
+        "cpu_percent": 0.49261083743842365
+    },
+    {
+        "memory_percent": 0.07774955265848671,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:05.288276",
+        "cpu_percent": 1
+    },
+    {
+        "memory_percent": 0.07902667273773006,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:05.78941",
+        "cpu_percent": 0.25
+    },
+    {
+        "memory_percent": 0.07902667273773006,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:06.29048",
+        "cpu_percent": 0
+    },
+    {
+        "memory_percent": 0.08040072045199466,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:06.791832",
+        "cpu_percent": 0.7481296758104738
+    },
+    {
+        "memory_percent": 0.035953420315295886,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:07.293161",
+        "cpu_percent": 3
+    },
+    {
+        "memory_percent": 0.03720002281641424,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:07.794282",
+        "cpu_percent": 0.49382716049382713
+    },
+    {
+        "memory_percent": 0.039901530571998016,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:08.300899",
+        "cpu_percent": 0.9925558312655087
+    },
+    {
+        "memory_percent": 0.04017547888258483,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:08.801885",
+        "cpu_percent": 0
+    },
+    {
+        "memory_percent": 0.04144959557032049,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:09.302692",
+        "cpu_percent": 2.487562189054726
+    },
+    {
+        "memory_percent": 0.043798766496966464,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:09.803759",
+        "cpu_percent": 0.4914004914004914
+    },
+    {
+        "memory_percent": 0.04400583278913439,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:10.304731",
+        "cpu_percent": 0
+    },
+    {
+        "memory_percent": 0.046356567819669445,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:10.805664",
+        "cpu_percent": 0.997506234413965
+    },
+    {
+        "memory_percent": 0.04886368203504442,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:11.306853",
+        "cpu_percent": 1.7369727047146404
+    },
+    {
+        "memory_percent": 0.05107834392773837,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:11.807976",
+        "cpu_percent": 0.7537688442211055
+    },
+    {
+        "memory_percent": 0.05523895388488145,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:12.317806",
+        "cpu_percent": 2.4330900243309004
+    },
+    {
+        "memory_percent": 0.056564814717735494,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:12.818846",
+        "cpu_percent": 1.0025062656641603
+    },
+    {
+        "memory_percent": 0.05908863091030004,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:13.319857",
+        "cpu_percent": 0.7518796992481203
+    },
+    {
+        "memory_percent": 0.06067157425519635,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:13.820819",
+        "cpu_percent": 0.5
+    },
+    {
+        "memory_percent": 0.06291164796045222,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:14.321762",
+        "cpu_percent": 0.7462686567164178
+    },
+    {
+        "memory_percent": 0.06522360023545341,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:14.822924",
+        "cpu_percent": 2
+    },
+    {
+        "memory_percent": 0.07059069986479902,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:15.32593",
+        "cpu_percent": 3.4912718204488775
+    },
+    {
+        "memory_percent": 0.07212444219608737,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:15.82732",
+        "cpu_percent": 2.756892230576441
+    },
+    {
+        "memory_percent": 0.0745281851364791,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:16.328829",
+        "cpu_percent": 1.25
+    },
+    {
+        "memory_percent": 0.07698229144199738,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:16.830046",
+        "cpu_percent": 1.0050251256281406
+    },
+    {
+        "memory_percent": 0.08081564874005465,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:17.331293",
+        "cpu_percent": 1.2531328320802004
+    },
+    {
+        "memory_percent": 0.035699450408997954,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:17.832287",
+        "cpu_percent": 3.0456852791878175
+    },
+    {
+        "memory_percent": 0.03862636074698045,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:18.343496",
+        "cpu_percent": 1.2254901960784315
+    },
+    {
+        "memory_percent": 0.041450984151329244,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:18.844353",
+        "cpu_percent": 2.2388059701492535
+    },
+    {
+        "memory_percent": 0.04375059911809816,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:19.345256",
+        "cpu_percent": 1.5037593984962405
+    },
+    {
+        "memory_percent": 0.046306836336912065,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:19.846588",
+        "cpu_percent": 0.7537688442211055
+    },
+    {
+        "memory_percent": 0.049113934756788005,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:20.347631",
+        "cpu_percent": 0.997506234413965
+    },
+    {
+        "memory_percent": 0.050248986616700214,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:20.848626",
+        "cpu_percent": 0.5
+    },
+    {
+        "memory_percent": 0.05448679543711656,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:21.360252",
+        "cpu_percent": 1.4634146341463417
+    },
+    {
+        "memory_percent": 0.05602053776840491,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:21.861534",
+        "cpu_percent": 1.0025062656641603
+    },
+    {
+        "memory_percent": 0.05857677498721881,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:22.36257",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.06113301220603272,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:22.863743",
+        "cpu_percent": 0.997506234413965
+    },
+    {
+        "memory_percent": 0.06393611650525427,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:23.364859",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.06516578299867595,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:23.86583",
+        "cpu_percent": 0.49627791563275436
+    },
+    {
+        "memory_percent": 0.07083494970403566,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:24.369978",
+        "cpu_percent": 1.9851116625310175
+    },
+    {
+        "memory_percent": 0.0723804559688139,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:26.642855",
+        "cpu_percent": 2.481389578163772
+    },
+    {
+        "memory_percent": 0.07621581032719836,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:27.144133",
+        "cpu_percent": 1.256281407035176
+    },
+    {
+        "memory_percent": 0.07826080010224949,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:27.645228",
+        "cpu_percent": 0.7462686567164178
+    },
+    {
+        "memory_percent": 0.08030002882631766,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:28.14631",
+        "cpu_percent": 0.7462686567164178
+    },
+    {
+        "memory_percent": 0.03447595451994664,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:28.64755",
+        "cpu_percent": 2.272727272727273
+    },
+    {
+        "memory_percent": 0.03888711753798409,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:29.158311",
+        "cpu_percent": 1.4814814814814816
+    },
+    {
+        "memory_percent": 0.03888711753798409,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:29.659322",
+        "cpu_percent": 0.24630541871921183
+    },
+    {
+        "memory_percent": 0.04042848926380368,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:30.160346",
+        "cpu_percent": 0.7481296758104738
+    },
+    {
+        "memory_percent": 0.04304131115872436,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:30.66142",
+        "cpu_percent": 0.9900990099009901
+    },
+    {
+        "memory_percent": 0.046306836336912065,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:31.16234",
+        "cpu_percent": 1.0025062656641603
+    },
+    {
+        "memory_percent": 0.049688214417127986,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:31.663519",
+        "cpu_percent": 1.2626262626262628
+    },
+    {
+        "memory_percent": 0.05224472857204195,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:32.165073",
+        "cpu_percent": 0.7518796992481203
+    },
+    {
+        "memory_percent": 0.05550263605722377,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:32.675839",
+        "cpu_percent": 1.2315270935960592
+    },
+    {
+        "memory_percent": 0.05704303265593047,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:33.177529",
+        "cpu_percent": 1
+    },
+    {
+        "memory_percent": 0.059855892126789365,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:33.679523",
+        "cpu_percent": 1.99501246882793
+    },
+    {
+        "memory_percent": 0.06241212934560327,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:34.180891",
+        "cpu_percent": 1.7543859649122806
+    },
+    {
+        "memory_percent": 0.06522299175613497,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:34.682021",
+        "cpu_percent": 1.0025062656641603
+    },
+    {
+        "memory_percent": 0.06803585122699386,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:35.183472",
+        "cpu_percent": 0.7556675062972292
+    },
+    {
+        "memory_percent": 0.07237380170139554,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:35.695634",
+        "cpu_percent": 2.1844660194174756
+    },
+    {
+        "memory_percent": 0.07418780336594533,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:36.196866",
+        "cpu_percent": 0.4987531172069825
+    },
+    {
+        "memory_percent": 0.07774955265848671,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:36.698538",
+        "cpu_percent": 1.2468827930174564
+    },
+    {
+        "memory_percent": 0.07953792018149285,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:37.200221",
+        "cpu_percent": 1.256281407035176
+    },
+    {
+        "memory_percent": 0.03381601189299351,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:37.709982",
+        "cpu_percent": 2.4390243902439024
+    },
+    {
+        "memory_percent": 0.03669922873530164,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:38.21112",
+        "cpu_percent": 1.256281407035176
+    },
+    {
+        "memory_percent": 0.03975908400334707,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:38.721887",
+        "cpu_percent": 1.4705882352941175
+    },
+    {
+        "memory_percent": 0.04155508092088446,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:39.222916",
+        "cpu_percent": 1.2406947890818858
+    },
+    {
+        "memory_percent": 0.044367940391743355,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:39.723918",
+        "cpu_percent": 0.997506234413965
+    },
+    {
+        "memory_percent": 0.04698555211104254,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:40.22502",
+        "cpu_percent": 0.997506234413965
+    },
+    {
+        "memory_percent": 0.049998659785296044,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:40.726088",
+        "cpu_percent": 0.7481296758104738
+    },
+    {
+        "memory_percent": 0.05280252468366564,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:41.226673",
+        "cpu_percent": 0.7481296758104738
+    },
+    {
+        "memory_percent": 0.05766337732108336,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:41.731436",
+        "cpu_percent": 1.2345679012345678
+    },
+    {
+        "memory_percent": 0.06072785859215235,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:42.23194",
+        "cpu_percent": 0.2506265664160401
+    },
+    {
+        "memory_percent": 0.06341057369801652,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:42.73258",
+        "cpu_percent": 0.7444168734491315
+    },
+    {
+        "memory_percent": 0.06609495822149795,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:43.233546",
+        "cpu_percent": 0.5
+    },
+    {
+        "memory_percent": 0.06916244288407464,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:43.73478",
+        "cpu_percent": 1
+    },
+    {
+        "memory_percent": 0.07197530235493353,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:44.235871",
+        "cpu_percent": 0.9900990099009901
+    },
+    {
+        "memory_percent": 0.07529075794180966,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:44.747044",
+        "cpu_percent": 0.975609756097561
+    },
+    {
+        "memory_percent": 0.07709577283488704,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:45.248099",
+        "cpu_percent": 0.7537688442211055
+    },
+    {
+        "memory_percent": 0.0783648968718047,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:45.749107",
+        "cpu_percent": 0.49504950495049505
+    },
+    {
+        "memory_percent": 0.08124200161736923,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:46.250013",
+        "cpu_percent": 1
+    },
+    {
+        "memory_percent": 0.033937582940411715,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:46.75112",
+        "cpu_percent": 1.7676767676767675
+    },
+    {
+        "memory_percent": 0.03738606146751981,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:47.252304",
+        "cpu_percent": 1.2376237623762376
+    },
+    {
+        "memory_percent": 0.04032419746882589,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:47.753357",
+        "cpu_percent": 0.997506234413965
+    },
+    {
+        "memory_percent": 0.04377258238373115,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:48.264819",
+        "cpu_percent": 1.4423076923076923
+    },
+    {
+        "memory_percent": 0.04556602056772431,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:48.765806",
+        "cpu_percent": 0.7537688442211055
+    },
+    {
+        "memory_percent": 0.04691061164216274,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:49.266851",
+        "cpu_percent": 0.5
+    },
+    {
+        "memory_percent": 0.048378880038583205,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:49.768106",
+        "cpu_percent": 0.4987531172069825
+    },
+    {
+        "memory_percent": 0.05144427792913831,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:50.269117",
+        "cpu_percent": 1
+    },
+    {
+        "memory_percent": 0.05425722711169159,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:50.770135",
+        "cpu_percent": 1
+    },
+    {
+        "memory_percent": 0.05713652784351435,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:51.270738",
+        "cpu_percent": 0.9876543209876543
+    },
+    {
+        "memory_percent": 0.06192593876813331,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:51.782651",
+        "cpu_percent": 1.70316301703163
+    },
+    {
+        "memory_percent": 0.06371630335146664,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:52.283783",
+        "cpu_percent": 1.492537313432836
+    },
+    {
+        "memory_percent": 0.06678378801404333,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:52.784743",
+        "cpu_percent": 0.9950248756218906
+    },
+    {
+        "memory_percent": 0.06806090809328669,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:53.285848",
+        "cpu_percent": 1.2468827930174564
+    },
+    {
+        "memory_percent": 0.07112839275586337,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:53.786833",
+        "cpu_percent": 1.9801980198019802
+    },
+    {
+        "memory_percent": 0.07254384046683282,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:54.287781",
+        "cpu_percent": 0.2506265664160401
+    },
+    {
+        "memory_percent": 0.07726336208101674,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:54.788949",
+        "cpu_percent": 1.5037593984962405
+    },
+    {
+        "memory_percent": 0.08058239833465139,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:55.300561",
+        "cpu_percent": 0.9803921568627451
+    },
+    {
+        "memory_percent": 0.08237583651864455,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:55.8017",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.035453605261804626,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:56.302751",
+        "cpu_percent": 2.2500000000000004
+    },
+    {
+        "memory_percent": 0.038387992874488755,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:56.803812",
+        "cpu_percent": 3.5000000000000004
+    },
+    {
+        "memory_percent": 0.03982916833920469,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:57.305201",
+        "cpu_percent": 1.243781094527363
+    },
+    {
+        "memory_percent": 0.04440043552765329,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:57.806395",
+        "cpu_percent": 1.7587939698492463
+    },
+    {
+        "memory_percent": 0.049379812915388545,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:54:58.319981",
+        "cpu_percent": 1.4705882352941175
+    },
+    {
+        "memory_percent": 0.05219067532592025,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:00.159645",
+        "cpu_percent": 1.25
+    },
+    {
+        "memory_percent": 0.05423566510097137,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:00.660681",
+        "cpu_percent": 1.2345679012345678
+    },
+    {
+        "memory_percent": 0.05711892484887246,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:01.161695",
+        "cpu_percent": 0.997506234413965
+    },
+    {
+        "memory_percent": 0.060370634426124746,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:01.663064",
+        "cpu_percent": 0.49627791563275436
+    },
+    {
+        "memory_percent": 0.06343811908870144,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:02.164122",
+        "cpu_percent": 3
+    },
+    {
+        "memory_percent": 0.06880721577837423,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:02.678955",
+        "cpu_percent": 1.715686274509804
+    },
+    {
+        "memory_percent": 0.07189168325474901,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:03.180062",
+        "cpu_percent": 1.5000000000000002
+    },
+    {
+        "memory_percent": 0.0751968102952454,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:03.68122",
+        "cpu_percent": 0.9925558312655087
+    },
+    {
+        "memory_percent": 0.07749842232234151,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:04.182295",
+        "cpu_percent": 1
+    },
+    {
+        "memory_percent": 0.080820532176636,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:04.683429",
+        "cpu_percent": 0.997506234413965
+    },
+    {
+        "memory_percent": 0.03409910299539078,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:05.185858",
+        "cpu_percent": 2.977667493796526
+    },
+    {
+        "memory_percent": 0.03831463991254873,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:05.698593",
+        "cpu_percent": 1.4598540145985401
+    },
+    {
+        "memory_percent": 0.04061625193964484,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:06.199691",
+        "cpu_percent": 0.7444168734491315
+    },
+    {
+        "memory_percent": 0.0438310041993186,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:06.700735",
+        "cpu_percent": 1.0025062656641603
+    },
+    {
+        "memory_percent": 0.047262468708560997,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:07.201814",
+        "cpu_percent": 1.2468827930174564
+    },
+    {
+        "memory_percent": 0.0526295683379066,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:07.702948",
+        "cpu_percent": 1.4925373134328357
+    },
+    {
+        "memory_percent": 0.05416331066919494,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:08.204019",
+        "cpu_percent": 0.4975124378109453
+    },
+    {
+        "memory_percent": 0.059532407358867744,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:08.713029",
+        "cpu_percent": 1.9851116625310175
+    },
+    {
+        "memory_percent": 0.063365764656925,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:09.214395",
+        "cpu_percent": 1.2345679012345678
+    },
+    {
+        "memory_percent": 0.06684042339675997,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:09.715584",
+        "cpu_percent": 1.0025062656641603
+    },
+    {
+        "memory_percent": 0.06847823909455282,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:10.216605",
+        "cpu_percent": 0.5012531328320802
+    },
+    {
+        "memory_percent": 0.07205697120089229,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:10.717577",
+        "cpu_percent": 0.997506234413965
+    },
+    {
+        "memory_percent": 0.07538107811551396,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:11.218614",
+        "cpu_percent": 0.9925558312655087
+    },
+    {
+        "memory_percent": 0.08074817774485957,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:11.731192",
+        "cpu_percent": 1.9704433497536946
+    },
+    {
+        "memory_percent": 0.08304978977195568,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:12.232176",
+        "cpu_percent": 0.7481296758104738
+    },
+    {
+        "memory_percent": 0.034679522056033515,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:12.733374",
+        "cpu_percent": 1.7587939698492463
+    },
+    {
+        "memory_percent": 0.03812687723670757,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:13.234493",
+        "cpu_percent": 0.997506234413965
+    },
+    {
+        "memory_percent": 0.042607847654502574,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:13.735418",
+        "cpu_percent": 1.4962593516209477
+    },
+    {
+        "memory_percent": 0.04681808378067485,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:14.235989",
+        "cpu_percent": 1
+    },
+    {
+        "memory_percent": 0.05065343813905931,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:14.748868",
+        "cpu_percent": 1.4705882352941175
+    },
+    {
+        "memory_percent": 0.05295305310582822,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:15.250001",
+        "cpu_percent": 0.9950248756218906
+    },
+    {
+        "memory_percent": 0.056354807442195086,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:15.751178",
+        "cpu_percent": 1
+    },
+    {
+        "memory_percent": 0.059855892126789365,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:16.252202",
+        "cpu_percent": 1
+    },
+    {
+        "memory_percent": 0.06344162174529093,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:16.753394",
+        "cpu_percent": 1.2406947890818858
+    },
+    {
+        "memory_percent": 0.06880172386247443,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:17.254447",
+        "cpu_percent": 1.5000000000000002
+    },
+    {
+        "memory_percent": 0.0726370782208589,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:17.767947",
+        "cpu_percent": 1.4598540145985401
+    },
+    {
+        "memory_percent": 0.07672705777096114,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:18.268869",
+        "cpu_percent": 1.25
+    },
+    {
+        "memory_percent": 0.08004916762525563,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:18.769953",
+        "cpu_percent": 1.2468827930174564
+    },
+    {
+        "memory_percent": 0.08359663325584739,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:19.270951",
+        "cpu_percent": 1.2531328320802004
+    },
+    {
+        "memory_percent": 0.03541896484624633,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:19.771988",
+        "cpu_percent": 3.27455919395466
+    },
+    {
+        "memory_percent": 0.03897898231303521,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:20.273323",
+        "cpu_percent": 0.9950248756218906
+    },
+    {
+        "memory_percent": 0.04308767650268804,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:20.786326",
+        "cpu_percent": 1.2254901960784315
+    },
+    {
+        "memory_percent": 0.04546074584461673,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:21.287591",
+        "cpu_percent": 0.997506234413965
+    },
+    {
+        "memory_percent": 0.04896802063612363,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:21.788545",
+        "cpu_percent": 0.7518796992481203
+    },
+    {
+        "memory_percent": 0.052290130490418106,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:22.289426",
+        "cpu_percent": 5.955334987593052
+    },
+    {
+        "memory_percent": 0.05433512026546923,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:22.790398",
+        "cpu_percent": 0.5
+    },
+    {
+        "memory_percent": 0.05612548484880256,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:23.291405",
+        "cpu_percent": 0.7537688442211055
+    },
+    {
+        "memory_percent": 0.05970421695514203,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:23.793107",
+        "cpu_percent": 1.0025062656641603
+    },
+    {
+        "memory_percent": 0.06536254804802331,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:24.307069",
+        "cpu_percent": 3.64963503649635
+    },
+    {
+        "memory_percent": 0.06788417605534652,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:24.808305",
+        "cpu_percent": 1.2531328320802004
+    },
+    {
+        "memory_percent": 0.071462908161686,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:25.309323",
+        "cpu_percent": 0.997506234413965
+    },
+    {
+        "memory_percent": 0.07325127568469213,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:25.810284",
+        "cpu_percent": 0.7518796992481203
+    },
+    {
+        "memory_percent": 0.07887499756608272,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:26.311327",
+        "cpu_percent": 1.256281407035176
+    },
+    {
+        "memory_percent": 0.08066536214941605,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:26.812295",
+        "cpu_percent": 1
+    },
+    {
+        "memory_percent": 0.08245372967242219,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:27.313406",
+        "cpu_percent": 0.4987531172069825
+    },
+    {
+        "memory_percent": 0.03728163705525467,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:27.826806",
+        "cpu_percent": 2.4390243902439024
+    },
+    {
+        "memory_percent": 0.04032535982034445,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:28.327737",
+        "cpu_percent": 1.0050251256281406
+    },
+    {
+        "memory_percent": 0.0433931136180043,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:28.828706",
+        "cpu_percent": 1.5
+    },
+    {
+        "memory_percent": 0.04842192214934616,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:29.329956",
+        "cpu_percent": 4.4665012406947895
+    },
+    {
+        "memory_percent": 0.052766526891166204,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:29.831005",
+        "cpu_percent": 1.2406947890818858
+    },
+    {
+        "memory_percent": 0.05634525899750567,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:30.331949",
+        "cpu_percent": 2.0100502512562812
+    },
+    {
+        "memory_percent": 0.06043523854760792,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:30.845786",
+        "cpu_percent": 1.2048192771084338
+    },
+    {
+        "memory_percent": 0.06299147576642183,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:31.346882",
+        "cpu_percent": 1.2531328320802004
+    },
+    {
+        "memory_percent": 0.06844588047643868,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:31.847858",
+        "cpu_percent": 1.5037593984962405
+    },
+    {
+        "memory_percent": 0.07211146520446902,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:34.142842",
+        "cpu_percent": 1.2437810945273633
+    },
+    {
+        "memory_percent": 0.07603628162469844,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:34.643887",
+        "cpu_percent": 1.7241379310344827
+    },
+    {
+        "memory_percent": 0.0796941511470116,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:35.144748",
+        "cpu_percent": 1.2531328320802004
+    },
+    {
+        "memory_percent": 0.0838062777841018,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:35.656565",
+        "cpu_percent": 1.466992665036675
+    },
+    {
+        "memory_percent": 0.0838062777841018,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:36.15773",
+        "cpu_percent": 0
+    },
+    {
+        "memory_percent": 0.03608491425621485,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:36.65901",
+        "cpu_percent": 2.729528535980149
+    },
+    {
+        "memory_percent": 0.039707913232971064,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:37.159953",
+        "cpu_percent": 1.2531328320802004
+    },
+    {
+        "memory_percent": 0.04350101728380824,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:37.661064",
+        "cpu_percent": 0.9925558312655087
+    },
+    {
+        "memory_percent": 0.047289370515351405,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:38.162049",
+        "cpu_percent": 1.2531328320802004
+    },
+    {
+        "memory_percent": 0.0492469967021045,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:38.662937",
+        "cpu_percent": 0.7462686567164178
+    },
+    {
+        "memory_percent": 0.05512534377521289,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:39.167338",
+        "cpu_percent": 5.9259259259259265
+    },
+    {
+        "memory_percent": 0.05512634230537648,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:39.668146",
+        "cpu_percent": 1.5075376884422111
+    },
+    {
+        "memory_percent": 0.05964902866106092,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:40.16872",
+        "cpu_percent": 1.2531328320802004
+    },
+    {
+        "memory_percent": 0.06330530287541739,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:40.669179",
+        "cpu_percent": 0.4975124378109453
+    },
+    {
+        "memory_percent": 0.06739528242551963,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:41.169606",
+        "cpu_percent": 0.5025125628140703
+    },
+    {
+        "memory_percent": 0.0712306367839041,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:41.670053",
+        "cpu_percent": 0.24813895781637718
+    },
+    {
+        "memory_percent": 0.0791539736320636,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:42.174719",
+        "cpu_percent": 0.49261083743842365
+    },
+    {
+        "memory_percent": 0.0791539736320636,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:42.675131",
+        "cpu_percent": 0
+    },
+    {
+        "memory_percent": 0.08359012330724173,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:43.175583",
+        "cpu_percent": 0.49627791563275436
+    },
+    {
+        "memory_percent": 0.03682411911541211,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:43.676045",
+        "cpu_percent": 0.5
+    },
+    {
+        "memory_percent": 0.04069146544411626,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:44.176487",
+        "cpu_percent": 0.5
+    },
+    {
+        "memory_percent": 0.04446177102305406,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:44.677052",
+        "cpu_percent": 0.24937655860349126
+    },
+    {
+        "memory_percent": 0.05062780009700721,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:45.181661",
+        "cpu_percent": 0.4975124378109453
+    },
+    {
+        "memory_percent": 0.05346024792130983,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:45.682063",
+        "cpu_percent": 0.5
+    },
+    {
+        "memory_percent": 0.057110581661294575,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:46.182515",
+        "cpu_percent": 0.25
+    },
+    {
+        "memory_percent": 0.0628273189677295,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:46.682925",
+        "cpu_percent": 0.7518796992481203
+    },
+    {
+        "memory_percent": 0.0669877182974162,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:47.183351",
+        "cpu_percent": 0.4987531172069825
+    },
+    {
+        "memory_percent": 0.07158894529128124,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:47.684209",
+        "cpu_percent": 1.0025062656641603
+    },
+    {
+        "memory_percent": 0.0751676773976207,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:48.198244",
+        "cpu_percent": 1.2135922330097086
+    },
+    {
+        "memory_percent": 0.0777239146164346,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:48.699285",
+        "cpu_percent": 1.256281407035176
+    },
+    {
+        "memory_percent": 0.08155926897481906,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:49.200351",
+        "cpu_percent": 1.0025062656641603
+    },
+    {
+        "memory_percent": 0.08565624603708341,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:49.701489",
+        "cpu_percent": 1.2531328320802004
+    },
+    {
+        "memory_percent": 0.036732695097816015,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:50.202519",
+        "cpu_percent": 1.728395061728395
+    },
+    {
+        "memory_percent": 0.03864423287670549,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:50.703415",
+        "cpu_percent": 0.5012531328320802
+    },
+    {
+        "memory_percent": 0.04083367408175166,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:51.20444",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.04708081422895498,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:51.713035",
+        "cpu_percent": 1.9704433497536946
+    },
+    {
+        "memory_percent": 0.05177610198412936,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:52.213923",
+        "cpu_percent": 1.5
+    },
+    {
+        "memory_percent": 0.05577202077292226,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:52.714892",
+        "cpu_percent": 1.2468827930174564
+    },
+    {
+        "memory_percent": 0.05577202077292226,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:53.215875",
+        "cpu_percent": 0
+    },
+    {
+        "memory_percent": 0.05960537807097952,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:53.717127",
+        "cpu_percent": 1.7369727047146404
+    },
+    {
+        "memory_percent": 0.06353562009846506,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:54.217987",
+        "cpu_percent": 1.507537688442211
+    },
+    {
+        "memory_percent": 0.06778533717118401,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:54.71899",
+        "cpu_percent": 1.2468827930174564
+    },
+    {
+        "memory_percent": 0.07213193897333126,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:55.232906",
+        "cpu_percent": 1.4634146341463417
+    },
+    {
+        "memory_percent": 0.07473135482070392,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:55.73384",
+        "cpu_percent": 0.9950248756218906
+    },
+    {
+        "memory_percent": 0.0787781557422474,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:56.234832",
+        "cpu_percent": 1.2468827930174564
+    },
+    {
+        "memory_percent": 0.08287113868385736,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:56.73613",
+        "cpu_percent": 1.25
+    },
+    {
+        "memory_percent": 0.08492012257956288,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:57.237271",
+        "cpu_percent": 0.4987531172069825
+    },
+    {
+        "memory_percent": 0.03876299555803857,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:57.738317",
+        "cpu_percent": 2.5
+    },
+    {
+        "memory_percent": 0.04502215317178114,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:58.252815",
+        "cpu_percent": 2.4330900243309004
+    },
+    {
+        "memory_percent": 0.047835012642640035,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:58.753861",
+        "cpu_percent": 1.2531328320802004
+    },
+    {
+        "memory_percent": 0.047835012642640035,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:59.254519",
+        "cpu_percent": 0
+    },
+    {
+        "memory_percent": 0.04988000241769116,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:55:59.755074",
+        "cpu_percent": 0.25
+    },
+    {
+        "memory_percent": 0.05397697947995551,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:00.255707",
+        "cpu_percent": 0.5
+    },
+    {
+        "memory_percent": 0.05805996151789566,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:00.75628",
+        "cpu_percent": 1.2468827930174564
+    },
+    {
+        "memory_percent": 0.062149941067997906,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:01.256971",
+        "cpu_percent": 0.4975124378109453
+    },
+    {
+        "memory_percent": 0.06598329836605517,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:01.757468",
+        "cpu_percent": 0.5
+    },
+    {
+        "memory_percent": 0.0705845253599202,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:02.263474",
+        "cpu_percent": 0.9925558312655087
+    },
+    {
+        "memory_percent": 0.07316302278046716,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:02.764091",
+        "cpu_percent": 0.5012531328320802
+    },
+    {
+        "memory_percent": 0.07723074212883635,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:03.264569",
+        "cpu_percent": 0.4975124378109453
+    },
+    {
+        "memory_percent": 0.08158434144314569,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:03.765442",
+        "cpu_percent": 0.5012531328320802
+    },
+    {
+        "memory_percent": 0.08592194867280363,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:04.265902",
+        "cpu_percent": 3.7593984962406015
+    },
+    {
+        "memory_percent": 0.037191426095787,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:04.766377",
+        "cpu_percent": 1.25
+    },
+    {
+        "memory_percent": 0.04372209810284262,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:05.272791",
+        "cpu_percent": 0.7407407407407408
+    },
+    {
+        "memory_percent": 0.04372209810284262,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:05.773233",
+        "cpu_percent": 0.24937655860349126
+    },
+    {
+        "memory_percent": 0.04872086491809057,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:08.002201",
+        "cpu_percent": 0.5012531328320802
+    },
+    {
+        "memory_percent": 0.05281084446819282,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:08.502748",
+        "cpu_percent": 0.5
+    },
+    {
+        "memory_percent": 0.05690782153045717,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:09.003289",
+        "cpu_percent": 0.5
+    },
+    {
+        "memory_percent": 0.0631368360148861,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:09.503808",
+        "cpu_percent": 1.0025062656641603
+    },
+    {
+        "memory_percent": 0.06968201011236459,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:10.008661",
+        "cpu_percent": 0.7352941176470588
+    },
+    {
+        "memory_percent": 0.07275249816644899,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:10.509129",
+        "cpu_percent": 0.2506265664160401
+    },
+    {
+        "memory_percent": 0.07683947432504354,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:11.009624",
+        "cpu_percent": 0.4987531172069825
+    },
+    {
+        "memory_percent": 0.08092945387514579,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:11.51016",
+        "cpu_percent": 0.2518891687657431
+    },
+    {
+        "memory_percent": 0.03477604013766735,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:12.010614",
+        "cpu_percent": 0.7462686567164178
+    },
+    {
+        "memory_percent": 0.0389445681269671,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:12.511098",
+        "cpu_percent": 0.7462686567164178
+    },
+    {
+        "memory_percent": 0.043594044410377925,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:13.017793",
+        "cpu_percent": 0.7425742574257426
+    },
+    {
+        "memory_percent": 0.043594044410377925,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:13.518337",
+        "cpu_percent": 0.25
+    },
+    {
+        "memory_percent": 0.048451893656287943,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:14.018851",
+        "cpu_percent": 0.5
+    },
+    {
+        "memory_percent": 0.05264523668035651,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:14.519386",
+        "cpu_percent": 0.5012531328320802
+    },
+    {
+        "memory_percent": 0.05688647794821024,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:15.020041",
+        "cpu_percent": 0.25
+    },
+    {
+        "memory_percent": 0.06097745602847608,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:15.520606",
+        "cpu_percent": 1.25
+    },
+    {
+        "memory_percent": 0.06992428629432475,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:16.025914",
+        "cpu_percent": 0.9876543209876543
+    },
+    {
+        "memory_percent": 0.07503676073195256,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:16.526472",
+        "cpu_percent": 0.7518796992481203
+    },
+    {
+        "memory_percent": 0.07912674028205481,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:17.026992",
+        "cpu_percent": 0.24937655860349126
+    },
+    {
+        "memory_percent": 0.0833218619379773,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:17.527495",
+        "cpu_percent": 0.4987531172069825
+    },
+    {
+        "memory_percent": 0.03489253662359008,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:18.028064",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.03910235929586649,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:18.528633",
+        "cpu_percent": 0.24875621890547264
+    },
+    {
+        "memory_percent": 0.04382836745560535,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:19.03335",
+        "cpu_percent": 1.2468827930174564
+    },
+    {
+        "memory_percent": 0.04894084189323316,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:19.534017",
+        "cpu_percent": 0.7518796992481203
+    },
+    {
+        "memory_percent": 0.05324456150546396,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:20.03468",
+        "cpu_percent": 0.4987531172069825
+    },
+    {
+        "memory_percent": 0.057375426185155454,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:20.5352",
+        "cpu_percent": 0.5025125628140703
+    },
+    {
+        "memory_percent": 0.059931663403969354,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:21.035805",
+        "cpu_percent": 0
+    },
+    {
+        "memory_percent": 0.0640216429540716,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:21.536324",
+        "cpu_percent": 0.4987531172069825
+    },
+    {
+        "memory_percent": 0.07092448197503275,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:22.041467",
+        "cpu_percent": 0.7444168734491315
+    },
+    {
+        "memory_percent": 0.07603695641266056,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:22.542023",
+        "cpu_percent": 0.5
+    },
+    {
+        "memory_percent": 0.08023480842449913,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:23.042526",
+        "cpu_percent": 0.24875621890547264
+    },
+    {
+        "memory_percent": 0.08447154070458285,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:23.542975",
+        "cpu_percent": 0.49627791563275436
+    },
+    {
+        "memory_percent": 0.03584554005254266,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:24.043478",
+        "cpu_percent": 0.5012531328320802
+    },
+    {
+        "memory_percent": 0.04491729970358632,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:24.549509",
+        "cpu_percent": 1.231527093596059
+    },
+    {
+        "memory_percent": 0.05002977414121413,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:25.049959",
+        "cpu_percent": 0.4975124378109453
+    },
+    {
+        "memory_percent": 0.05437476113286242,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:25.550491",
+        "cpu_percent": 0.4987531172069825
+    },
+    {
+        "memory_percent": 0.058721362935009666,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:26.050969",
+        "cpu_percent": 0.5025125628140703
+    },
+    {
+        "memory_percent": 0.060884140264280975,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:26.551426",
+        "cpu_percent": 0.2506265664160401
+    },
+    {
+        "memory_percent": 0.06766719467069474,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:27.051949",
+        "cpu_percent": 0.5012531328320802
+    },
+    {
+        "memory_percent": 0.07226842166455977,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:27.566265",
+        "cpu_percent": 1.4492753623188406
+    },
+    {
+        "memory_percent": 0.07661502346670701,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:28.067778",
+        "cpu_percent": 2.977667493796526
+    },
+    {
+        "memory_percent": 0.08147087565228983,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:28.568708",
+        "cpu_percent": 1.5
+    },
+    {
+        "memory_percent": 0.08633672094052555,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:29.069592",
+        "cpu_percent": 1.5
+    },
+    {
+        "memory_percent": 0.03729173547163575,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:29.570692",
+        "cpu_percent": 1.7543859649122806
+    },
+    {
+        "memory_percent": 0.03960985445049887,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:30.071781",
+        "cpu_percent": 0.7537688442211055
+    },
+    {
+        "memory_percent": 0.04651069641113281,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:30.578173",
+        "cpu_percent": 1.7241379310344827
+    },
+    {
+        "memory_percent": 0.0495781810737095,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:31.078869",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.05440590279233968,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:31.579869",
+        "cpu_percent": 1.2406947890818858
+    },
+    {
+        "memory_percent": 0.060683661930887735,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:32.081515",
+        "cpu_percent": 2.2388059701492535
+    },
+    {
+        "memory_percent": 0.06517922415080002,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:32.582325",
+        "cpu_percent": 0.7481296758104738
+    },
+    {
+        "memory_percent": 0.06744436642387405,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:33.083108",
+        "cpu_percent": 0.2506265664160401
+    },
+    {
+        "memory_percent": 0.07462930581808577,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:33.598273",
+        "cpu_percent": 2.18978102189781
+    },
+    {
+        "memory_percent": 0.07999840250775858,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:34.099441",
+        "cpu_percent": 3.5175879396984926
+    },
+    {
+        "memory_percent": 0.08431716248057859,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:34.60045",
+        "cpu_percent": 1.5
+    },
+    {
+        "memory_percent": 0.03546923459917002,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:35.101344",
+        "cpu_percent": 1.5075376884422111
+    },
+    {
+        "memory_percent": 0.03994168240599837,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:35.601989",
+        "cpu_percent": 0.7481296758104738
+    },
+    {
+        "memory_percent": 0.04457750300932028,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:36.102648",
+        "cpu_percent": 1.256281407035176
+    },
+    {
+        "memory_percent": 0.04954094291952246,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:36.607581",
+        "cpu_percent": 0.9900990099009901
+    },
+    {
+        "memory_percent": 0.0524036820924599,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:37.10831",
+        "cpu_percent": 0.5012531328320802
+    },
+    {
+        "memory_percent": 0.0547685369635896,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:37.608895",
+        "cpu_percent": 0.24937655860349126
+    },
+    {
+        "memory_percent": 0.06142316322872731,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:38.109586",
+        "cpu_percent": 1.25
+    },
+    {
+        "memory_percent": 0.06615548631164925,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:38.610862",
+        "cpu_percent": 0.4975124378109453
+    },
+    {
+        "memory_percent": 0.07124650015177658,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:39.11211",
+        "cpu_percent": 1.4962593516209477
+    },
+    {
+        "memory_percent": 0.0777073686595831,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:39.625761",
+        "cpu_percent": 1.9277108433734942
+    },
+    {
+        "memory_percent": 0.08328327420786602,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:40.126541",
+        "cpu_percent": 2.2670025188916876
+    },
+    {
+        "memory_percent": 0.08544502570341457,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:40.627405",
+        "cpu_percent": 0.49627791563275436
+    },
+    {
+        "memory_percent": 0.03660062778215467,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:41.128269",
+        "cpu_percent": 2
+    },
+    {
+        "memory_percent": 0.041331152730680436,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:41.629217",
+        "cpu_percent": 1.7456359102244388
+    },
+    {
+        "memory_percent": 0.043644068431269174,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:42.130168",
+        "cpu_percent": 1.7543859649122806
+    },
+    {
+        "memory_percent": 0.045932652760137076,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:42.631065",
+        "cpu_percent": 0.4987531172069825
+    },
+    {
+        "memory_percent": 0.053227153536244645,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:43.145354",
+        "cpu_percent": 1.9464720194647203
+    },
+    {
+        "memory_percent": 0.056294638198821335,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:43.646414",
+        "cpu_percent": 0.9950248756218906
+    },
+    {
+        "memory_percent": 0.06294842975515041,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:44.147133",
+        "cpu_percent": 1.7587939698492463
+    },
+    {
+        "memory_percent": 0.0680533294053653,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:44.64812",
+        "cpu_percent": 1.4888337468982633
+    },
+    {
+        "memory_percent": 0.07035494143246142,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:45.149035",
+        "cpu_percent": 0.4987531172069825
+    },
+    {
+        "memory_percent": 0.07469954617428146,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:45.649964",
+        "cpu_percent": 1.5000000000000002
+    },
+    {
+        "memory_percent": 0.08211363263900538,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:46.167496",
+        "cpu_percent": 2.4096385542168677
+    },
+    {
+        "memory_percent": 0.08523499112431501,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:46.668346",
+        "cpu_percent": 3.007518796992481
+    },
+    {
+        "memory_percent": 0.03672710566920493,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:47.169431",
+        "cpu_percent": 2.9850746268656714
+    },
+    {
+        "memory_percent": 0.04132182271446431,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:47.670636",
+        "cpu_percent": 3.25
+    },
+    {
+        "memory_percent": 0.045956578478978945,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:48.171555",
+        "cpu_percent": 1.25
+    },
+    {
+        "memory_percent": 0.05309404868533519,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:48.672431",
+        "cpu_percent": 2
+    },
+    {
+        "memory_percent": 0.058206523122963,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:49.188045",
+        "cpu_percent": 1.452784503631961
+    },
+    {
+        "memory_percent": 0.06356327080287816,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:49.688966",
+        "cpu_percent": 1.507537688442211
+    },
+    {
+        "memory_percent": 0.06587523477940471,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:50.189699",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.07289976186303761,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:50.690189",
+        "cpu_percent": 2.7160493827160495
+    },
+    {
+        "memory_percent": 0.07763492451611229,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:51.191131",
+        "cpu_percent": 2.5
+    },
+    {
+        "memory_percent": 0.08261401716673057,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:51.692137",
+        "cpu_percent": 1.5
+    },
+    {
+        "memory_percent": 0.03400983985947685,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:52.215189",
+        "cpu_percent": 2.4038461538461537
+    },
+    {
+        "memory_percent": 0.03733194971377133,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:52.716039",
+        "cpu_percent": 1.7456359102244388
+    },
+    {
+        "memory_percent": 0.04193317670763636,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:53.21791",
+        "cpu_percent": 1.4925373134328357
+    },
+    {
+        "memory_percent": 0.04679102595354638,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:53.720515",
+        "cpu_percent": 1
+    },
+    {
+        "memory_percent": 0.049090640920315294,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:54.223216",
+        "cpu_percent": 0.24937655860349126
+    },
+    {
+        "memory_percent": 0.053691867914180326,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:54.724911",
+        "cpu_percent": 1.4925373134328357
+    },
+    {
+        "memory_percent": 0.058549717160090345,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:55.226579",
+        "cpu_percent": 1.25
+    },
+    {
+        "memory_percent": 0.06366219159771816,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:58.019",
+        "cpu_percent": 1.70316301703163
+    },
+    {
+        "memory_percent": 0.06724494902877963,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:58.51998",
+        "cpu_percent": 2.25
+    },
+    {
+        "memory_percent": 0.07196643649922314,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:59.020942",
+        "cpu_percent": 1.7500000000000002
+    },
+    {
+        "memory_percent": 0.07656794042918824,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:56:59.52192",
+        "cpu_percent": 1.2531328320802004
+    },
+    {
+        "memory_percent": 0.0813072259196962,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:00.022872",
+        "cpu_percent": 1.5000000000000002
+    },
+    {
+        "memory_percent": 0.0815628496415776,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:00.523902",
+        "cpu_percent": 0
+    },
+    {
+        "memory_percent": 0.08628219183237275,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:01.02479",
+        "cpu_percent": 1.507537688442211
+    },
+    {
+        "memory_percent": 0.040703997777771124,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:01.532695",
+        "cpu_percent": 2.2388059701492535
+    },
+    {
+        "memory_percent": 0.044026107632065596,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:02.033316",
+        "cpu_percent": 1
+    },
+    {
+        "memory_percent": 0.04888395687797562,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:02.534201",
+        "cpu_percent": 1.2531328320802004
+    },
+    {
+        "memory_percent": 0.05373831126831304,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:03.035134",
+        "cpu_percent": 1.492537313432836
+    },
+    {
+        "memory_percent": 0.056167622041604755,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:03.535924",
+        "cpu_percent": 0.7518796992481203
+    },
+    {
+        "memory_percent": 0.06115689891979007,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:04.036723",
+        "cpu_percent": 1.5
+    },
+    {
+        "memory_percent": 0.06588187734529773,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:04.53764",
+        "cpu_percent": 1.2437810945273633
+    },
+    {
+        "memory_percent": 0.071122222151493,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:05.053482",
+        "cpu_percent": 1.4423076923076923
+    },
+    {
+        "memory_percent": 0.071122222151493,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:05.554441",
+        "cpu_percent": 0.24875621890547264
+    },
+    {
+        "memory_percent": 0.0767459440328836,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:06.055143",
+        "cpu_percent": 7.537688442211055
+    },
+    {
+        "memory_percent": 0.08173122679041452,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:06.555923",
+        "cpu_percent": 1.492537313432836
+    },
+    {
+        "memory_percent": 0.08672326522858352,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:07.056887",
+        "cpu_percent": 1.4962593516209477
+    },
+    {
+        "memory_percent": 0.03822153867631846,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:07.5578",
+        "cpu_percent": 1.7500000000000002
+    },
+    {
+        "memory_percent": 0.04294460585268485,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:08.05898",
+        "cpu_percent": 2.512562814070352
+    },
+    {
+        "memory_percent": 0.048309809834922994,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:08.574518",
+        "cpu_percent": 3.3980582524271843
+    },
+    {
+        "memory_percent": 0.05163391674954467,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:09.075339",
+        "cpu_percent": 0.9925558312655087
+    },
+    {
+        "memory_percent": 0.05751226382265306,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:09.576179",
+        "cpu_percent": 1.25
+    },
+    {
+        "memory_percent": 0.062377110580725176,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:10.077142",
+        "cpu_percent": 1.492537313432836
+    },
+    {
+        "memory_percent": 0.06633381755805455,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:10.578141",
+        "cpu_percent": 1.507537688442211
+    },
+    {
+        "memory_percent": 0.07131594480424815,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:11.079035",
+        "cpu_percent": 1.7587939698492463
+    },
+    {
+        "memory_percent": 0.07898465646068986,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:11.59566",
+        "cpu_percent": 3.40632603406326
+    },
+    {
+        "memory_percent": 0.08179751593154876,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:12.096403",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.08473954073978104,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:12.597286",
+        "cpu_percent": 0.7537688442211055
+    },
+    {
+        "memory_percent": 0.035843831629840874,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:13.09834",
+        "cpu_percent": 2.0050125313283207
+    },
+    {
+        "memory_percent": 0.04069965651186454,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:13.599153",
+        "cpu_percent": 1.5000000000000002
+    },
+    {
+        "memory_percent": 0.04557948902340755,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:14.100276",
+        "cpu_percent": 1.4851485148514851
+    },
+    {
+        "memory_percent": 0.04811279515303473,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:14.60126",
+        "cpu_percent": 0.7481296758104738
+    },
+    {
+        "memory_percent": 0.05615970010893964,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:15.119186",
+        "cpu_percent": 2.657004830917874
+    },
+    {
+        "memory_percent": 0.05948380702356132,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:15.620173",
+        "cpu_percent": 1.243781094527363
+    },
+    {
+        "memory_percent": 0.06433965920914414,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:16.12124",
+        "cpu_percent": 1.7543859649122806
+    },
+    {
+        "memory_percent": 0.06945213364677195,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:16.622198",
+        "cpu_percent": 1.4962593516209477
+    },
+    {
+        "memory_percent": 0.07444233884596874,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:17.123024",
+        "cpu_percent": 1.507537688442211
+    },
+    {
+        "memory_percent": 0.0795550902196966,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:17.623969",
+        "cpu_percent": 1.492537313432836
+    },
+    {
+        "memory_percent": 0.0873457941784693,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:18.129946",
+        "cpu_percent": 3.722084367245657
+    },
+    {
+        "memory_percent": 0.03676882550760281,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:18.630828",
+        "cpu_percent": 1.256281407035176
+    },
+    {
+        "memory_percent": 0.0416259687614831,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:19.131803",
+        "cpu_percent": 1.4962593516209477
+    },
+    {
+        "memory_percent": 0.046762716063204965,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:19.632729",
+        "cpu_percent": 1.5113350125944585
+    },
+    {
+        "memory_percent": 0.05185062509860485,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:20.133668",
+        "cpu_percent": 1.5
+    },
+    {
+        "memory_percent": 0.05683008049650914,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:20.634746",
+        "cpu_percent": 1.7587939698492463
+    },
+    {
+        "memory_percent": 0.05915369139127205,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:21.135376",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.06475341734466865,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:21.652346",
+        "cpu_percent": 1.4563106796116505
+    },
+    {
+        "memory_percent": 0.06833214945100811,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:22.153397",
+        "cpu_percent": 1.0050251256281406
+    },
+    {
+        "memory_percent": 0.07332481587103783,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:22.654422",
+        "cpu_percent": 1.4962593516209477
+    },
+    {
+        "memory_percent": 0.07731493460376326,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:23.155305",
+        "cpu_percent": 1.2531328320802004
+    },
+    {
+        "memory_percent": 0.08111333554507764,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:23.656574",
+        "cpu_percent": 1.2468827930174564
+    },
+    {
+        "memory_percent": 0.08610669235510329,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:24.157471",
+        "cpu_percent": 1.5000000000000002
+    },
+    {
+        "memory_percent": 0.034926603664405996,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:24.658332",
+        "cpu_percent": 2.506265664160401
+    },
+    {
+        "memory_percent": 0.03952111008220899,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:25.159154",
+        "cpu_percent": 0.9950248756218906
+    },
+    {
+        "memory_percent": 0.043099842188548454,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:25.676564",
+        "cpu_percent": 1.6867469879518073
+    },
+    {
+        "memory_percent": 0.04667857429488793,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:26.177563",
+        "cpu_percent": 1
+    },
+    {
+        "memory_percent": 0.051791048732515735,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:26.678627",
+        "cpu_percent": 1.4962593516209477
+    },
+    {
+        "memory_percent": 0.056646900918098556,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:27.179572",
+        "cpu_percent": 1.5
+    },
+    {
+        "memory_percent": 0.05691052068230565,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:27.680464",
+        "cpu_percent": 0.24937655860349126
+    },
+    {
+        "memory_percent": 0.061897246627963635,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:28.181403",
+        "cpu_percent": 1.5037593984962405
+    },
+    {
+        "memory_percent": 0.06712847204539918,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:28.682334",
+        "cpu_percent": 1.5113350125944585
+    },
+    {
+        "memory_percent": 0.07505180889355868,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:29.202112",
+        "cpu_percent": 2.1634615384615383
+    },
+    {
+        "memory_percent": 0.07863054099989815,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:29.703055",
+        "cpu_percent": 0.7371007371007371
+    },
+    {
+        "memory_percent": 0.08374301543752596,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:32.039725",
+        "cpu_percent": 1.477832512315271
+    },
+    {
+        "memory_percent": 0.03542007649115502,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:32.540855",
+        "cpu_percent": 1.9704433497536946
+    },
+    {
+        "memory_percent": 0.040399738616007236,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:33.041875",
+        "cpu_percent": 1.7587939698492463
+    },
+    {
+        "memory_percent": 0.04565602480024404,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:33.542755",
+        "cpu_percent": 1.5000000000000002
+    },
+    {
+        "memory_percent": 0.053948794405884536,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:34.060461",
+        "cpu_percent": 2.4213075060532687
+    },
+    {
+        "memory_percent": 0.05752752651222401,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:34.561018",
+        "cpu_percent": 2.2332506203473943
+    },
+    {
+        "memory_percent": 0.06252370729036857,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:35.061532",
+        "cpu_percent": 0.5
+    },
+    {
+        "memory_percent": 0.06763645866409645,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:35.562017",
+        "cpu_percent": 0.7518796992481203
+    },
+    {
+        "memory_percent": 0.07300483375970572,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:36.062424",
+        "cpu_percent": 1.0050251256281406
+    },
+    {
+        "memory_percent": 0.07823204945445304,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:36.562921",
+        "cpu_percent": 0.75
+    },
+    {
+        "memory_percent": 0.08641200855465754,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:37.070679",
+        "cpu_percent": 0.9828009828009828
+    },
+    {
+        "memory_percent": 0.03913095002281641,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:37.571064",
+        "cpu_percent": 0.7537688442211055
+    },
+    {
+        "memory_percent": 0.0445057492558454,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:38.071505",
+        "cpu_percent": 0.5025125628140703
+    },
+    {
+        "memory_percent": 0.049731876708734746,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:38.572006",
+        "cpu_percent": 0.5
+    },
+    {
+        "memory_percent": 0.052288113927548646,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:39.072772",
+        "cpu_percent": 0.7481296758104738
+    },
+    {
+        "memory_percent": 0.057534882871163644,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:39.573707",
+        "cpu_percent": 1.488833746898263
+    },
+    {
+        "memory_percent": 0.06583716971742595,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:40.07936",
+        "cpu_percent": 0.9828009828009828
+    },
+    {
+        "memory_percent": 0.06967052701548321,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:40.580646",
+        "cpu_percent": 2.770780856423174
+    },
+    {
+        "memory_percent": 0.07478300145311102,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:41.081763",
+        "cpu_percent": 1.7543859649122806
+    },
+    {
+        "memory_percent": 0.07989547589073884,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:41.582465",
+        "cpu_percent": 1.7543859649122806
+    },
+    {
+        "memory_percent": 0.08424907520504817,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:42.083318",
+        "cpu_percent": 1
+    },
+    {
+        "memory_percent": 0.03805302500968574,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:42.583986",
+        "cpu_percent": 2.7777777777777777
+    },
+    {
+        "memory_percent": 0.047382128506837935,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:43.093666",
+        "cpu_percent": 3.950617283950617
+    },
+    {
+        "memory_percent": 0.051472108056940184,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:43.59454",
+        "cpu_percent": 1.0050251256281406
+    },
+    {
+        "memory_percent": 0.057863699634138545,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:44.095445",
+        "cpu_percent": 4.500000000000001
+    },
+    {
+        "memory_percent": 0.061075167665696095,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:44.596237",
+        "cpu_percent": 1.0050251256281406
+    },
+    {
+        "memory_percent": 0.06553940880274237,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:45.097227",
+        "cpu_percent": 0.7518796992481203
+    },
+    {
+        "memory_percent": 0.07192200580745144,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:45.597977",
+        "cpu_percent": 1.7412935323383085
+    },
+    {
+        "memory_percent": 0.08010196490765593,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:46.098794",
+        "cpu_percent": 2.2443890274314215
+    },
+    {
+        "memory_percent": 0.0862369342328093,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:46.61612",
+        "cpu_percent": 3.3653846153846154
+    },
+    {
+        "memory_percent": 0.09058353603495654,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:47.116925",
+        "cpu_percent": 1.0025062656641603
+    },
+    {
+        "memory_percent": 0.03548673618059217,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:47.618005",
+        "cpu_percent": 2.261306532663317
+    },
+    {
+        "memory_percent": 0.04163428854601027,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:48.118774",
+        "cpu_percent": 1.5037593984962405
+    },
+    {
+        "memory_percent": 0.04815787722971786,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:48.619589",
+        "cpu_percent": 1.7632241813602016
+    },
+    {
+        "memory_percent": 0.055681010209222025,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:49.120541",
+        "cpu_percent": 1.7500000000000002
+    },
+    {
+        "memory_percent": 0.06398255205837008,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:49.628749",
+        "cpu_percent": 1.9851116625310175
+    },
+    {
+        "memory_percent": 0.06398255205837008,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:50.129746",
+        "cpu_percent": 0
+    },
+    {
+        "memory_percent": 0.07143544858218702,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:50.630738",
+        "cpu_percent": 1.9801980198019802
+    },
+    {
+        "memory_percent": 0.07650911296072181,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:51.131701",
+        "cpu_percent": 1.2468827930174564
+    },
+    {
+        "memory_percent": 0.08136496514630465,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:51.632519",
+        "cpu_percent": 1.4962593516209477
+    },
+    {
+        "memory_percent": 0.08775956011501071,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:52.133517",
+        "cpu_percent": 1.99501246882793
+    },
+    {
+        "memory_percent": 0.09403920709964932,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:52.634887",
+        "cpu_percent": 1.7412935323383085
+    },
+    {
+        "memory_percent": 0.040259581645817354,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:53.155575",
+        "cpu_percent": 3.3816425120772946
+    },
+    {
+        "memory_percent": 0.04441615067620463,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:53.65659",
+        "cpu_percent": 1.25
+    },
+    {
+        "memory_percent": 0.048696162998066846,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:54.157813",
+        "cpu_percent": 0.24875621890547264
+    },
+    {
+        "memory_percent": 0.05406326262741245,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:54.658685",
+        "cpu_percent": 1.7412935323383085
+    },
+    {
+        "memory_percent": 0.060603627397970185,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:55.159687",
+        "cpu_percent": 2.729528535980149
+    },
+    {
+        "memory_percent": 0.06699449348059656,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:55.661013",
+        "cpu_percent": 1.4925373134328357
+    },
+    {
+        "memory_percent": 0.07349066549039814,
+        "script": "StandaloneAPI.java",
+        "timestamp": "2024-12-06T10:57:56.162442",
+        "cpu_percent": 1.7500000000000002
+    }
+]
