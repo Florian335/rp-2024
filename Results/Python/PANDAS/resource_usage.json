@@ -1,0 +1,5590 @@
+[
+    {
+        "timestamp": "2024-12-06T12:42:08.159005",
+        "script": "pandas_queries.py",
+        "cpu_percent": 4.0,
+        "memory_percent": 0.9581273233875778
+    },
+    {
+        "timestamp": "2024-12-06T12:42:08.660659",
+        "script": "pandas_queries.py",
+        "cpu_percent": 6.0,
+        "memory_percent": 0.9797564944958006
+    },
+    {
+        "timestamp": "2024-12-06T12:42:09.161428",
+        "script": "pandas_queries.py",
+        "cpu_percent": 10.0,
+        "memory_percent": 0.9975893214834115
+    },
+    {
+        "timestamp": "2024-12-06T12:42:09.662431",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0074797969555318
+    },
+    {
+        "timestamp": "2024-12-06T12:42:10.163259",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.0107766221129053
+    },
+    {
+        "timestamp": "2024-12-06T12:42:10.664033",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0140734472702786
+    },
+    {
+        "timestamp": "2024-12-06T12:42:11.164481",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0173702724276523
+    },
+    {
+        "timestamp": "2024-12-06T12:42:11.664816",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0173702724276523
+    },
+    {
+        "timestamp": "2024-12-06T12:42:12.165478",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0206670975850256
+    },
+    {
+        "timestamp": "2024-12-06T12:42:12.665984",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0319062742578897
+    },
+    {
+        "timestamp": "2024-12-06T12:42:12.666130",
+        "script": "pandas_queries.py",
+        "total_execution_time": 5.08297872543335
+    },
+    {
+        "timestamp": "2024-12-06T12:42:13.294025",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:13.794473",
+        "script": "pandas_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:14.295244",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:14.795798",
+        "script": "pandas_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:15.296819",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:15.797592",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:16.305873",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:16.807101",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:17.308035",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:17.308341",
+        "script": "pandas_queries.py",
+        "total_execution_time": 4.207552909851074
+    },
+    {
+        "timestamp": "2024-12-06T12:42:17.958441",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:18.458982",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:18.959809",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:19.460309",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:19.963515",
+        "script": "pandas_queries.py",
+        "cpu_percent": 15.9,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:20.464328",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:20.965172",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:21.466092",
+        "script": "pandas_queries.py",
+        "cpu_percent": 12.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:21.466479",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.6786372661590576
+    },
+    {
+        "timestamp": "2024-12-06T12:42:22.113338",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:22.614087",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:23.114787",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:23.615553",
+        "script": "pandas_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:25.558859",
+        "script": "pandas_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:26.059666",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:26.560428",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:26.560633",
+        "script": "pandas_queries.py",
+        "total_execution_time": 4.975721836090088
+    },
+    {
+        "timestamp": "2024-12-06T12:42:27.195014",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:27.695729",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:28.196598",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:28.697423",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:29.198173",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:29.698814",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:30.199616",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:30.700452",
+        "script": "pandas_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:30.700770",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.689110279083252
+    },
+    {
+        "timestamp": "2024-12-06T12:42:31.354461",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:31.855177",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:32.356103",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:32.856823",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:33.357670",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:33.858248",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:34.358648",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:34.358766",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.592972993850708
+    },
+    {
+        "timestamp": "2024-12-06T12:42:34.983634",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:35.484425",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:35.985325",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:36.486135",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:36.986682",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:37.487409",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:37.988278",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:37.988575",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.527613401412964
+    },
+    {
+        "timestamp": "2024-12-06T12:42:38.632182",
+        "script": "pandas_queries.py",
+        "cpu_percent": 12.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:39.133107",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:39.634083",
+        "script": "pandas_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:40.134681",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:40.637135",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:41.138081",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:41.638997",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:42.139656",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:42.643685",
+        "script": "pandas_queries.py",
+        "cpu_percent": 15.9,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:43.144561",
+        "script": "pandas_queries.py",
+        "cpu_percent": 12.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:43.144879",
+        "script": "pandas_queries.py",
+        "total_execution_time": 4.67720365524292
+    },
+    {
+        "timestamp": "2024-12-06T12:42:43.797736",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:44.298586",
+        "script": "pandas_queries.py",
+        "cpu_percent": 2.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:44.799572",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:45.300426",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:45.801023",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:46.308450",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:46.809452",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:47.309970",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:47.810662",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:47.810920",
+        "script": "pandas_queries.py",
+        "total_execution_time": 4.393716335296631
+    },
+    {
+        "timestamp": "2024-12-06T12:42:48.457728",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:48.958703",
+        "script": "pandas_queries.py",
+        "cpu_percent": 2.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:49.459615",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:49.960134",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:50.460807",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:50.961593",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:51.462388",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:51.963193",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:52.463988",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:52.964702",
+        "script": "pandas_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:52.965024",
+        "script": "pandas_queries.py",
+        "total_execution_time": 4.7063071727752686
+    },
+    {
+        "timestamp": "2024-12-06T12:42:53.622083",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:54.123094",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:54.623838",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:55.124590",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:55.625097",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:56.125742",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:56.626629",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:56.626944",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.4742302894592285
+    },
+    {
+        "timestamp": "2024-12-06T12:42:57.283864",
+        "script": "pandas_queries.py",
+        "cpu_percent": 7.9,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:59.122800",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:42:59.623314",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:00.124241",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:00.624751",
+        "script": "pandas_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:01.125462",
+        "script": "pandas_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:01.625997",
+        "script": "pandas_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:02.126786",
+        "script": "pandas_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:02.127105",
+        "script": "pandas_queries.py",
+        "total_execution_time": 5.1966423988342285
+    },
+    {
+        "timestamp": "2024-12-06T12:43:02.781840",
+        "script": "pandas_queries.py",
+        "cpu_percent": 2.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:03.282642",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:03.783471",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:04.284352",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:04.785314",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:05.285914",
+        "script": "pandas_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:05.786697",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:06.287519",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:06.788400",
+        "script": "pandas_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:06.788736",
+        "script": "pandas_queries.py",
+        "total_execution_time": 4.271148204803467
+    },
+    {
+        "timestamp": "2024-12-06T12:43:07.440965",
+        "script": "pandas_queries.py",
+        "cpu_percent": 2.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:07.941434",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:08.441807",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:08.943625",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:09.444759",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:09.945589",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:10.446333",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:10.947189",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:10.947584",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.896643877029419
+    },
+    {
+        "timestamp": "2024-12-06T12:43:11.597927",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:12.099080",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:12.599820",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:13.100416",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:13.601224",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:14.101961",
+        "script": "pandas_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:14.602684",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:14.602886",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.5409326553344727
+    },
+    {
+        "timestamp": "2024-12-06T12:43:15.241799",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:15.742631",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:16.243653",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:16.744130",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:17.245153",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:17.745776",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:18.246570",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:18.747606",
+        "script": "pandas_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:18.747900",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.6926164627075195
+    },
+    {
+        "timestamp": "2024-12-06T12:43:19.397667",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:19.898459",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:20.399258",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:20.899809",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:21.400475",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:21.901190",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:22.401872",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:22.902744",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:23.403658",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:23.403966",
+        "script": "pandas_queries.py",
+        "total_execution_time": 4.479063987731934
+    },
+    {
+        "timestamp": "2024-12-06T12:43:24.059451",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:24.560552",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:25.061067",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:25.561852",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:26.062266",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:26.562935",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:27.063844",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:27.064166",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.437173366546631
+    },
+    {
+        "timestamp": "2024-12-06T12:43:27.712198",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:28.213177",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:28.713771",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:29.214509",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:29.715336",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:30.215902",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:30.716684",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:30.717006",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.3867976665496826
+    },
+    {
+        "timestamp": "2024-12-06T12:43:32.815500",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:33.316148",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:33.816942",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:34.317519",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:34.818213",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:35.318840",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:35.819559",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:36.320328",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:36.320535",
+        "script": "pandas_queries.py",
+        "total_execution_time": 5.053692817687988
+    },
+    {
+        "timestamp": "2024-12-06T12:43:36.952006",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:37.452842",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:37.953636",
+        "script": "pandas_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:38.454244",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:38.955105",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:39.455855",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:39.956666",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:39.956987",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.392400026321411
+    },
+    {
+        "timestamp": "2024-12-06T12:43:40.606733",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:41.107394",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:41.608289",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:42.109159",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:42.609916",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:43.110664",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:43.611448",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:44.112240",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:44.613131",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:45.113918",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:45.614642",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:46.115095",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:46.615665",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:47.116297",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:47.616740",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:48.117468",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:48.117840",
+        "script": "pandas_queries.py",
+        "total_execution_time": 7.847993850708008
+    },
+    {
+        "timestamp": "2024-12-06T12:43:48.769303",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:49.269863",
+        "script": "pandas_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:49.770700",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:50.271366",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:50.772246",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:51.273324",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:51.773885",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:51.774046",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.5138721466064453
+    },
+    {
+        "timestamp": "2024-12-06T12:43:52.404499",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:52.905286",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:53.405808",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:53.906902",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:54.408088",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:54.908913",
+        "script": "pandas_queries.py",
+        "cpu_percent": 38.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:55.409380",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:55.409488",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.5811705589294434
+    },
+    {
+        "timestamp": "2024-12-06T12:43:56.038984",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:56.539836",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:57.040561",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:57.541351",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:58.042294",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:58.543197",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:59.044162",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:43:59.544882",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:00.045370",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:00.546080",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:01.046628",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:01.547553",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:01.548052",
+        "script": "pandas_queries.py",
+        "total_execution_time": 5.8294456005096436
+    },
+    {
+        "timestamp": "2024-12-06T12:44:02.197558",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:02.698190",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:03.198854",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:03.699457",
+        "script": "pandas_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:04.200330",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:04.701406",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:06.842077",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:06.842254",
+        "script": "pandas_queries.py",
+        "total_execution_time": 5.196563482284546
+    },
+    {
+        "timestamp": "2024-12-06T12:44:07.475187",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:07.975811",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:08.476646",
+        "script": "pandas_queries.py",
+        "cpu_percent": 12.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:08.977147",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:09.477890",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:09.978625",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:10.484241",
+        "script": "pandas_queries.py",
+        "cpu_percent": 27.7,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:10.987595",
+        "script": "pandas_queries.py",
+        "cpu_percent": 4.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:10.987909",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.6331043243408203
+    },
+    {
+        "timestamp": "2024-12-06T12:44:11.642413",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:12.143591",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:12.644528",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:13.145459",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:13.646388",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:14.147339",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:14.648281",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:15.149073",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:15.649921",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:16.155724",
+        "script": "pandas_queries.py",
+        "cpu_percent": 11.9,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:16.656500",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:17.156989",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:17.657691",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:18.158634",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:18.659114",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:19.159788",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:19.660574",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:19.660872",
+        "script": "pandas_queries.py",
+        "total_execution_time": 8.522089719772339
+    },
+    {
+        "timestamp": "2024-12-06T12:44:20.309454",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:20.809877",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:21.310448",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:21.811295",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:22.311732",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:22.812593",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:23.313457",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:23.313790",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.404484987258911
+    },
+    {
+        "timestamp": "2024-12-06T12:44:23.969024",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:24.469487",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:24.970188",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:25.471099",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:25.971996",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:26.472772",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:26.974085",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:26.974395",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.495999813079834
+    },
+    {
+        "timestamp": "2024-12-06T12:44:27.633284",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:28.135231",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:28.636236",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:29.136737",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0323558413248042
+    },
+    {
+        "timestamp": "2024-12-06T12:44:29.637465",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:30.138011",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:30.638623",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:31.139617",
+        "script": "pandas_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:31.139908",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.8352742195129395
+    },
+    {
+        "timestamp": "2024-12-06T12:44:31.784898",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:32.285683",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:32.786254",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:33.287147",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:33.787978",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:34.288851",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:34.790572",
+        "script": "pandas_queries.py",
+        "cpu_percent": 27.9,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:34.790674",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.6069347858428955
+    },
+    {
+        "timestamp": "2024-12-06T12:44:35.418677",
+        "script": "pandas_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:35.919333",
+        "script": "pandas_queries.py",
+        "cpu_percent": 2.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:36.420262",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:36.921175",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:37.421990",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:37.922687",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:38.423513",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:40.708623",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:41.209384",
+        "script": "pandas_queries.py",
+        "cpu_percent": 8.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:41.711445",
+        "script": "pandas_queries.py",
+        "cpu_percent": 17.9,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:42.212376",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:42.713333",
+        "script": "pandas_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:43.215137",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:43.716215",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:44.217691",
+        "script": "pandas_queries.py",
+        "cpu_percent": 27.9,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:44.718363",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:45.221385",
+        "script": "pandas_queries.py",
+        "cpu_percent": 13.9,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:45.221728",
+        "script": "pandas_queries.py",
+        "total_execution_time": 9.992473363876343
+    },
+    {
+        "timestamp": "2024-12-06T12:44:45.881037",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:46.381519",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:46.882312",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:47.383101",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:47.883878",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:48.384875",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:48.885526",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:49.386250",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:49.386553",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.8055479526519775
+    },
+    {
+        "timestamp": "2024-12-06T12:44:50.039635",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:50.540101",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:51.040860",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:51.541589",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:52.042041",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:52.542698",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:53.043469",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:53.544077",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:54.044868",
+        "script": "pandas_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:54.045116",
+        "script": "pandas_queries.py",
+        "total_execution_time": 4.296167373657227
+    },
+    {
+        "timestamp": "2024-12-06T12:44:54.698292",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:55.198860",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:55.699578",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:56.200401",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:56.700935",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:57.209477",
+        "script": "pandas_queries.py",
+        "cpu_percent": 21.7,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:57.710180",
+        "script": "pandas_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:57.710480",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.45837140083313
+    },
+    {
+        "timestamp": "2024-12-06T12:44:58.356245",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:58.856913",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:59.357477",
+        "script": "pandas_queries.py",
+        "cpu_percent": 40.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:44:59.858175",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:00.358757",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:00.859667",
+        "script": "pandas_queries.py",
+        "cpu_percent": 10.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:01.360416",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:01.861190",
+        "script": "pandas_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:01.861471",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.686610460281372
+    },
+    {
+        "timestamp": "2024-12-06T12:45:02.509472",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:03.010360",
+        "script": "pandas_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:03.511158",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:04.011708",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:04.512471",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:05.013011",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:05.513649",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:05.513899",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.3551571369171143
+    },
+    {
+        "timestamp": "2024-12-06T12:45:06.151011",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:06.651893",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:07.152620",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:07.653473",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:08.154427",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:08.655270",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:09.155991",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:09.656609",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:10.157469",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:10.664329",
+        "script": "pandas_queries.py",
+        "cpu_percent": 4.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:11.175881",
+        "script": "pandas_queries.py",
+        "cpu_percent": 19.6,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:11.676608",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:12.177487",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:12.678311",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:13.179134",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:13.680021",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:14.180936",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:14.181196",
+        "script": "pandas_queries.py",
+        "total_execution_time": 8.470639705657959
+    },
+    {
+        "timestamp": "2024-12-06T12:45:14.840809",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:15.341512",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:15.842377",
+        "script": "pandas_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:16.342873",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:16.843569",
+        "script": "pandas_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:17.344531",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:17.864832",
+        "script": "pandas_queries.py",
+        "cpu_percent": 23.9,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:18.365773",
+        "script": "pandas_queries.py",
+        "cpu_percent": 12.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:18.366087",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.6785669326782227
+    },
+    {
+        "timestamp": "2024-12-06T12:45:19.023713",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:19.524327",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:20.025168",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:20.526208",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:21.027463",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:21.528591",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:22.029747",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.0359523778601207
+    },
+    {
+        "timestamp": "2024-12-06T12:45:22.530931",
+        "script": "pandas_queries.py",
+        "cpu_percent": 33.9,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:23.031978",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:23.032297",
+        "script": "pandas_queries.py",
+        "total_execution_time": 4.111495494842529
+    },
+    {
+        "timestamp": "2024-12-06T12:45:23.700498",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:24.201561",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:24.702809",
+        "script": "pandas_queries.py",
+        "cpu_percent": 31.9,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:25.204006",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:25.705580",
+        "script": "pandas_queries.py",
+        "cpu_percent": 31.9,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:26.207123",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:26.708838",
+        "script": "pandas_queries.py",
+        "cpu_percent": 29.9,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:27.211323",
+        "script": "pandas_queries.py",
+        "cpu_percent": 27.9,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:27.712997",
+        "script": "pandas_queries.py",
+        "cpu_percent": 2.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:27.713332",
+        "script": "pandas_queries.py",
+        "total_execution_time": 4.126862049102783
+    },
+    {
+        "timestamp": "2024-12-06T12:45:30.011503",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:30.514160",
+        "script": "pandas_queries.py",
+        "cpu_percent": 25.9,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:31.015435",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:31.532808",
+        "script": "pandas_queries.py",
+        "cpu_percent": 9.7,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:32.035348",
+        "script": "pandas_queries.py",
+        "cpu_percent": 25.9,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:32.541747",
+        "script": "pandas_queries.py",
+        "cpu_percent": 17.8,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:33.047151",
+        "script": "pandas_queries.py",
+        "cpu_percent": 2.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:33.553340",
+        "script": "pandas_queries.py",
+        "cpu_percent": 27.7,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:34.056532",
+        "script": "pandas_queries.py",
+        "cpu_percent": 4.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:34.563269",
+        "script": "pandas_queries.py",
+        "cpu_percent": 15.8,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:35.064808",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:35.065161",
+        "script": "pandas_queries.py",
+        "total_execution_time": 6.882601737976074
+    },
+    {
+        "timestamp": "2024-12-06T12:45:35.726096",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:36.228062",
+        "script": "pandas_queries.py",
+        "cpu_percent": 8.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:36.730210",
+        "script": "pandas_queries.py",
+        "cpu_percent": 19.9,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:37.232298",
+        "script": "pandas_queries.py",
+        "cpu_percent": 25.9,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:37.733433",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:38.236047",
+        "script": "pandas_queries.py",
+        "cpu_percent": 35.8,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:38.736733",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:39.237169",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:39.737858",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:39.738150",
+        "script": "pandas_queries.py",
+        "total_execution_time": 4.378053426742554
+    },
+    {
+        "timestamp": "2024-12-06T12:45:40.389589",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:40.890025",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:41.390648",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:41.891171",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:42.391618",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:42.892283",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:43.393075",
+        "script": "pandas_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:43.393499",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.303605318069458
+    },
+    {
+        "timestamp": "2024-12-06T12:45:44.044340",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:44.544713",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:45.045774",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:45.546507",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:46.047031",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:46.547743",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:47.048841",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:47.049100",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.4685487747192383
+    },
+    {
+        "timestamp": "2024-12-06T12:45:47.695732",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:48.196446",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:48.697016",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:49.197735",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:49.698545",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:50.199275",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:50.699793",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:50.699962",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.546159505844116
+    },
+    {
+        "timestamp": "2024-12-06T12:45:51.336696",
+        "script": "pandas_queries.py",
+        "cpu_percent": 21.9,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:51.837195",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:52.337857",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:52.838537",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:53.339122",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:53.839573",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:54.340374",
+        "script": "pandas_queries.py",
+        "cpu_percent": 2.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:54.841233",
+        "script": "pandas_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:54.841535",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.686767339706421
+    },
+    {
+        "timestamp": "2024-12-06T12:45:55.495015",
+        "script": "pandas_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:55.995502",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:56.496228",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:56.997050",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:57.498023",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:58.007817",
+        "script": "pandas_queries.py",
+        "cpu_percent": 25.7,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:58.508832",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:59.009626",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:45:59.009868",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.6871390342712402
+    },
+    {
+        "timestamp": "2024-12-06T12:45:59.651589",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:46:00.152376",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:46:00.653289",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:46:01.153895",
+        "script": "pandas_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:46:01.654372",
+        "script": "pandas_queries.py",
+        "cpu_percent": 10.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:46:03.446851",
+        "script": "pandas_queries.py",
+        "cpu_percent": 12.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:46:03.947334",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:46:04.448175",
+        "script": "pandas_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:46:04.448508",
+        "script": "pandas_queries.py",
+        "total_execution_time": 5.096575021743774
+    },
+    {
+        "timestamp": "2024-12-06T12:46:05.103099",
+        "script": "pandas_queries.py",
+        "cpu_percent": 8.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:46:05.603459",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:46:06.104130",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:46:06.604640",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:46:07.105316",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:46:07.606171",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:46:08.106632",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:46:08.607442",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:46:08.607767",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.9014081954956055
+    },
+    {
+        "timestamp": "2024-12-06T12:46:09.266588",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:46:09.769874",
+        "script": "pandas_queries.py",
+        "cpu_percent": 8.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:46:10.270823",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:46:10.771730",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:46:11.272441",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:46:11.772930",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:46:12.273394",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:46:12.780603",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:46:13.283346",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:46:13.283620",
+        "script": "pandas_queries.py",
+        "total_execution_time": 4.120018720626831
+    },
+    {
+        "timestamp": "2024-12-06T12:46:13.938506",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:46:14.438918",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:46:14.939267",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:46:15.439566",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:46:15.939942",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:46:16.446512",
+        "script": "pandas_queries.py",
+        "cpu_percent": 23.7,
+        "memory_percent": 1.0360023297564445
+    },
+    {
+        "timestamp": "2024-12-06T12:46:16.946933",
+        "script": "pandas_queries.py",
+        "cpu_percent": 4.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:16.947062",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.124171733856201
+    },
+    {
+        "timestamp": "2024-12-06T12:46:17.582008",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:18.082932",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:18.583755",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:19.084137",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:19.584525",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:20.085189",
+        "script": "pandas_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:20.085490",
+        "script": "pandas_queries.py",
+        "total_execution_time": 2.8560948371887207
+    },
+    {
+        "timestamp": "2024-12-06T12:46:20.731898",
+        "script": "pandas_queries.py",
+        "cpu_percent": 6.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:21.232352",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:21.732793",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:22.233174",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:22.733465",
+        "script": "pandas_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:23.233809",
+        "script": "pandas_queries.py",
+        "cpu_percent": 8.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:23.734119",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:23.734249",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.3998489379882812
+    },
+    {
+        "timestamp": "2024-12-06T12:46:24.365636",
+        "script": "pandas_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:24.866178",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:25.366592",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:25.867021",
+        "script": "pandas_queries.py",
+        "cpu_percent": 12.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:26.367400",
+        "script": "pandas_queries.py",
+        "cpu_percent": 12.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:26.867897",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:27.368428",
+        "script": "pandas_queries.py",
+        "cpu_percent": 12.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:27.368540",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.2620387077331543
+    },
+    {
+        "timestamp": "2024-12-06T12:46:28.020867",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:28.521361",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:29.022051",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:29.522687",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:30.023318",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:30.523923",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:31.024653",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:31.525536",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:31.525852",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.713193655014038
+    },
+    {
+        "timestamp": "2024-12-06T12:46:32.189910",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:32.690987",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:33.191561",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:33.692315",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:34.192900",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:34.693720",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:35.194224",
+        "script": "pandas_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:35.194344",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.594271183013916
+    },
+    {
+        "timestamp": "2024-12-06T12:46:37.165904",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:37.666778",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:38.167659",
+        "script": "pandas_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:38.668853",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:39.169776",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:39.670721",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:40.193240",
+        "script": "pandas_queries.py",
+        "cpu_percent": 23.7,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:40.694361",
+        "script": "pandas_queries.py",
+        "cpu_percent": 10.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:40.694685",
+        "script": "pandas_queries.py",
+        "total_execution_time": 5.018868684768677
+    },
+    {
+        "timestamp": "2024-12-06T12:46:41.352811",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:41.853821",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:42.354747",
+        "script": "pandas_queries.py",
+        "cpu_percent": 4.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:42.855651",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:43.356212",
+        "script": "pandas_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:43.856964",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:44.357641",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:44.858539",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:45.359403",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:45.860326",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:45.860565",
+        "script": "pandas_queries.py",
+        "total_execution_time": 4.708153247833252
+    },
+    {
+        "timestamp": "2024-12-06T12:46:46.519105",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:47.019921",
+        "script": "pandas_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:47.520685",
+        "script": "pandas_queries.py",
+        "cpu_percent": 40.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:48.021485",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:48.522243",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:49.023018",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:49.523558",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:49.523707",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.555023670196533
+    },
+    {
+        "timestamp": "2024-12-06T12:46:50.159985",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:50.661048",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:51.161834",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:51.662365",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:52.163074",
+        "script": "pandas_queries.py",
+        "cpu_percent": 8.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:52.664068",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:53.164901",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:53.665669",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:54.166504",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:54.667433",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:55.168365",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:55.669261",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:56.170081",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:56.671085",
+        "script": "pandas_queries.py",
+        "cpu_percent": 8.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:57.171901",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:57.672652",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:58.173608",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:58.173926",
+        "script": "pandas_queries.py",
+        "total_execution_time": 8.295225381851196
+    },
+    {
+        "timestamp": "2024-12-06T12:46:58.826262",
+        "script": "pandas_queries.py",
+        "cpu_percent": 2.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:59.326963",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:46:59.827821",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:00.328485",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:00.829490",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:01.330151",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:01.830956",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:02.331737",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:02.832552",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:02.832870",
+        "script": "pandas_queries.py",
+        "total_execution_time": 4.289484977722168
+    },
+    {
+        "timestamp": "2024-12-06T12:47:03.489833",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:03.990677",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:04.491250",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:04.992029",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:05.492937",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:05.993448",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:06.493871",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:07.003606",
+        "script": "pandas_queries.py",
+        "cpu_percent": 21.6,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:07.504605",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:07.504946",
+        "script": "pandas_queries.py",
+        "total_execution_time": 4.189113140106201
+    },
+    {
+        "timestamp": "2024-12-06T12:47:08.168182",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:08.668526",
+        "script": "pandas_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:10.510845",
+        "script": "pandas_queries.py",
+        "cpu_percent": 12.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:11.011343",
+        "script": "pandas_queries.py",
+        "cpu_percent": 6.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:11.512185",
+        "script": "pandas_queries.py",
+        "cpu_percent": 4.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:12.012782",
+        "script": "pandas_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:12.513500",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:13.014421",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:13.515341",
+        "script": "pandas_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:13.515667",
+        "script": "pandas_queries.py",
+        "total_execution_time": 5.58882474899292
+    },
+    {
+        "timestamp": "2024-12-06T12:47:14.175503",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:14.676068",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:15.176844",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:15.677350",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:16.178345",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:16.679317",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:17.179858",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:17.179984",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.5771288871765137
+    },
+    {
+        "timestamp": "2024-12-06T12:47:17.814729",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:18.315637",
+        "script": "pandas_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:18.816182",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:19.316766",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:19.817469",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:20.318039",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:20.822206",
+        "script": "pandas_queries.py",
+        "cpu_percent": 35.7,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:21.323045",
+        "script": "pandas_queries.py",
+        "cpu_percent": 4.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:21.323331",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.6269311904907227
+    },
+    {
+        "timestamp": "2024-12-06T12:47:21.984477",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:22.485335",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:22.985814",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:23.486451",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:23.986888",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:24.487616",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:24.988529",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:24.988837",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.4329326152801514
+    },
+    {
+        "timestamp": "2024-12-06T12:47:25.644802",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:26.145478",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:26.646327",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:27.147119",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:27.647844",
+        "script": "pandas_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:28.148618",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:28.649566",
+        "script": "pandas_queries.py",
+        "cpu_percent": 40.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:28.649855",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.4867022037506104
+    },
+    {
+        "timestamp": "2024-12-06T12:47:29.320964",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:29.822173",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:30.323117",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:30.823844",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:31.324558",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:31.825529",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:32.326254",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:32.326464",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.5083730220794678
+    },
+    {
+        "timestamp": "2024-12-06T12:47:32.970959",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:33.471783",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:33.972867",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:34.473345",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:34.974059",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:35.474875",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:35.975681",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:36.476561",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:36.476885",
+        "script": "pandas_queries.py",
+        "total_execution_time": 4.013439178466797
+    },
+    {
+        "timestamp": "2024-12-06T12:47:37.140587",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:37.641444",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:38.142286",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:38.642792",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:39.150356",
+        "script": "pandas_queries.py",
+        "cpu_percent": 17.8,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:39.651183",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:40.153823",
+        "script": "pandas_queries.py",
+        "cpu_percent": 29.9,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:40.654594",
+        "script": "pandas_queries.py",
+        "cpu_percent": 4.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:40.654905",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.636566162109375
+    },
+    {
+        "timestamp": "2024-12-06T12:47:41.313385",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:41.813908",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:42.314327",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:44.187715",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:44.688236",
+        "script": "pandas_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:45.188926",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:45.689592",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:45.689739",
+        "script": "pandas_queries.py",
+        "total_execution_time": 4.93606162071228
+    },
+    {
+        "timestamp": "2024-12-06T12:47:46.322737",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:46.823667",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:47.324275",
+        "script": "pandas_queries.py",
+        "cpu_percent": 2.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:47.824980",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:48.326052",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:48.826914",
+        "script": "pandas_queries.py",
+        "cpu_percent": 10.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:49.328040",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:49.828988",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:50.329686",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:50.830562",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:51.331538",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:51.331934",
+        "script": "pandas_queries.py",
+        "total_execution_time": 5.216607332229614
+    },
+    {
+        "timestamp": "2024-12-06T12:47:51.991311",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:52.491779",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:52.992414",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:53.493189",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:53.994025",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:54.494829",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:54.995322",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:55.496046",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:55.496342",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.849884033203125
+    },
+    {
+        "timestamp": "2024-12-06T12:47:56.151987",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:56.652700",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:57.153095",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:57.653841",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:58.160603",
+        "script": "pandas_queries.py",
+        "cpu_percent": 19.8,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:58.661404",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:59.162325",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:47:59.162627",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.481928825378418
+    },
+    {
+        "timestamp": "2024-12-06T12:47:59.808556",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:00.309401",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:00.809955",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:01.310552",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:01.811030",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:02.311657",
+        "script": "pandas_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:02.812676",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:02.813008",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.4652140140533447
+    },
+    {
+        "timestamp": "2024-12-06T12:48:03.462065",
+        "script": "pandas_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:03.962807",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:04.463487",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:04.964364",
+        "script": "pandas_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:05.465551",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:05.966547",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:06.467240",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:06.968195",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:06.968530",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.9126291275024414
+    },
+    {
+        "timestamp": "2024-12-06T12:48:07.626942",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:08.127575",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:08.628474",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:09.129280",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:09.630049",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:10.130606",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:10.631072",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:11.131816",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:11.132134",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.956979513168335
+    },
+    {
+        "timestamp": "2024-12-06T12:48:11.785867",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:12.286707",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:12.787690",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:13.288360",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:13.789190",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:14.289743",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:14.802707",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:15.303678",
+        "script": "pandas_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:15.304007",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.681633234024048
+    },
+    {
+        "timestamp": "2024-12-06T12:48:15.964676",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:17.851867",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:18.352715",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:18.853547",
+        "script": "pandas_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:19.354312",
+        "script": "pandas_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:19.854986",
+        "script": "pandas_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:20.355730",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:20.856372",
+        "script": "pandas_queries.py",
+        "cpu_percent": 8.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:21.357329",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:21.357596",
+        "script": "pandas_queries.py",
+        "total_execution_time": 5.778593301773071
+    },
+    {
+        "timestamp": "2024-12-06T12:48:22.036524",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:22.537427",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:23.038415",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:23.539232",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:24.040170",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:24.541090",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:25.048417",
+        "script": "pandas_queries.py",
+        "cpu_percent": 31.8,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:25.549176",
+        "script": "pandas_queries.py",
+        "cpu_percent": 4.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:25.549454",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.621767520904541
+    },
+    {
+        "timestamp": "2024-12-06T12:48:26.213879",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:26.714677",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:27.215212",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:27.715638",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:28.216381",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:28.719170",
+        "script": "pandas_queries.py",
+        "cpu_percent": 17.9,
+        "memory_percent": 1.040847663699857
+    },
+    {
+        "timestamp": "2024-12-06T12:48:29.219857",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:29.220150",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.4726340770721436
+    },
+    {
+        "timestamp": "2024-12-06T12:48:29.868001",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:30.368741",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:30.869661",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:31.370404",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:31.870968",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:32.372016",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:32.873019",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:32.873353",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.458998680114746
+    },
+    {
+        "timestamp": "2024-12-06T12:48:33.533616",
+        "script": "pandas_queries.py",
+        "cpu_percent": 17.9,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:34.034238",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:34.534767",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:35.035444",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:35.535936",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:36.036545",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:36.537440",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:37.038226",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:37.038531",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.765986442565918
+    },
+    {
+        "timestamp": "2024-12-06T12:48:37.689894",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:38.190411",
+        "script": "pandas_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:38.691358",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:39.192244",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:39.692836",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:40.193633",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:40.694320",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:41.195254",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:41.195580",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.8229422569274902
+    },
+    {
+        "timestamp": "2024-12-06T12:48:41.858953",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:42.359880",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:42.860814",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:43.361747",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:43.862572",
+        "script": "pandas_queries.py",
+        "cpu_percent": 12.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:44.363588",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:44.864465",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:45.365088",
+        "script": "pandas_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:45.365228",
+        "script": "pandas_queries.py",
+        "total_execution_time": 4.063201665878296
+    },
+    {
+        "timestamp": "2024-12-06T12:48:45.999996",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:46.500477",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:47.001457",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:47.502407",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:48.003005",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:48.503778",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:49.004340",
+        "script": "pandas_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:49.004476",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.5875720977783203
+    },
+    {
+        "timestamp": "2024-12-06T12:48:49.636948",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:51.470039",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:51.970849",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:52.471580",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:52.972541",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:53.473513",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:53.974433",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:53.974862",
+        "script": "pandas_queries.py",
+        "total_execution_time": 4.826951265335083
+    },
+    {
+        "timestamp": "2024-12-06T12:48:54.637659",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:55.138408",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:55.639431",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:56.139910",
+        "script": "pandas_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:56.640727",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:57.141516",
+        "script": "pandas_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:57.642572",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:57.642941",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.335731029510498
+    },
+    {
+        "timestamp": "2024-12-06T12:48:58.302569",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:58.803068",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:59.303588",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:48:59.804320",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:00.309793",
+        "script": "pandas_queries.py",
+        "cpu_percent": 17.8,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:00.810674",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:01.311327",
+        "script": "pandas_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:01.311501",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.563089609146118
+    },
+    {
+        "timestamp": "2024-12-06T12:49:01.950607",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:02.451261",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:02.951738",
+        "script": "pandas_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:03.452585",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:03.953612",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:04.454191",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:04.954997",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:04.955324",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.3580262660980225
+    },
+    {
+        "timestamp": "2024-12-06T12:49:05.613991",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:06.114473",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:06.615418",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:07.116541",
+        "script": "pandas_queries.py",
+        "cpu_percent": 38.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:07.617175",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:08.117953",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:08.633860",
+        "script": "pandas_queries.py",
+        "cpu_percent": 29.8,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:09.134956",
+        "script": "pandas_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:09.135259",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.683758497238159
+    },
+    {
+        "timestamp": "2024-12-06T12:49:09.795551",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:10.295994",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:10.796777",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:11.297677",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:11.798686",
+        "script": "pandas_queries.py",
+        "cpu_percent": 8.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:12.299676",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:12.800648",
+        "script": "pandas_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:13.301259",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:13.802179",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:13.802498",
+        "script": "pandas_queries.py",
+        "total_execution_time": 4.414676904678345
+    },
+    {
+        "timestamp": "2024-12-06T12:49:14.464050",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:14.966800",
+        "script": "pandas_queries.py",
+        "cpu_percent": 17.9,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:15.467606",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:15.968117",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:16.468789",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:16.969268",
+        "script": "pandas_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:17.475325",
+        "script": "pandas_queries.py",
+        "cpu_percent": 29.9,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:17.976097",
+        "script": "pandas_queries.py",
+        "cpu_percent": 4.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:17.976475",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.625220537185669
+    },
+    {
+        "timestamp": "2024-12-06T12:49:18.639816",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:19.140643",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:19.641121",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:20.142332",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:20.643291",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:21.144217",
+        "script": "pandas_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:21.654582",
+        "script": "pandas_queries.py",
+        "cpu_percent": 33.4,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:22.155535",
+        "script": "pandas_queries.py",
+        "cpu_percent": 4.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:22.155867",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.637345552444458
+    },
+    {
+        "timestamp": "2024-12-06T12:49:22.823786",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:23.324493",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:25.085377",
+        "script": "pandas_queries.py",
+        "cpu_percent": 38.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:25.586194",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:26.086939",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:26.587765",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:27.088702",
+        "script": "pandas_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:27.589302",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:27.589391",
+        "script": "pandas_queries.py",
+        "total_execution_time": 5.3442957401275635
+    },
+    {
+        "timestamp": "2024-12-06T12:49:28.222506",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:28.723229",
+        "script": "pandas_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:29.224053",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:29.724701",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:30.225504",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:30.726430",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:31.227345",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:31.227665",
+        "script": "pandas_queries.py",
+        "total_execution_time": 3.2728025913238525
+    },
+    {
+        "timestamp": "2024-12-06T12:49:31.889503",
+        "script": "pandas_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:32.390281",
+        "script": "pandas_queries.py",
+        "cpu_percent": 2.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:32.891295",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:33.392090",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:33.892988",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:34.394139",
+        "script": "pandas_queries.py",
+        "cpu_percent": 2.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:34.894895",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:35.395686",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:35.896566",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:36.397431",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:36.898149",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:37.399080",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:37.899986",
+        "script": "pandas_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:38.400542",
+        "script": "pandas_queries.py",
+        "cpu_percent": 4.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:38.901183",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:39.402018",
+        "script": "pandas_queries.py",
+        "cpu_percent": 12.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:39.902976",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:40.403752",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:40.904482",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:41.407724",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:41.908701",
+        "script": "pandas_queries.py",
+        "cpu_percent": 10.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:41.909005",
+        "script": "pandas_queries.py",
+        "total_execution_time": 10.165929555892944
+    },
+    {
+        "timestamp": "2024-12-06T12:49:42.564332",
+        "script": "pandas_queries.py",
+        "cpu_percent": 12.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:43.065061",
+        "script": "pandas_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:43.565854",
+        "script": "pandas_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:44.066406",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:44.567196",
+        "script": "pandas_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:45.067786",
+        "script": "pandas_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:45.568668",
+        "script": "pandas_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:46.069333",
+        "script": "pandas_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0435950179976683
+    },
+    {
+        "timestamp": "2024-12-06T12:49:46.069489",
+        "script": "pandas_queries.py",
+        "total_execution_time": 4.070640802383423
+    }
+]

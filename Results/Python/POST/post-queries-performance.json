@@ -1,0 +1,3602 @@
+[
+    {
+        "timestamp": "2024-12-06T12:56:22.211238",
+        "step": "Forecast API",
+        "latency_seconds": 0.7225,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:56:22.212083",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0005
+    },
+    {
+        "timestamp": "2024-12-06T12:56:22.212411",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.7237
+    },
+    {
+        "timestamp": "2024-12-06T12:56:24.517850",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.2952,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:56:24.523080",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0039
+    },
+    {
+        "timestamp": "2024-12-06T12:56:24.526607",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.3039
+    },
+    {
+        "timestamp": "2024-12-06T12:56:24.985584",
+        "step": "Forecast API",
+        "latency_seconds": 0.3553,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:56:24.987609",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0009
+    },
+    {
+        "timestamp": "2024-12-06T12:56:24.997467",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3672
+    },
+    {
+        "timestamp": "2024-12-06T12:56:28.013176",
+        "step": "HubSpot POST API",
+        "latency_seconds": 3.0149,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:56:28.018581",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.004
+    },
+    {
+        "timestamp": "2024-12-06T12:56:28.022616",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 3.0243
+    },
+    {
+        "timestamp": "2024-12-06T12:56:28.591817",
+        "step": "Forecast API",
+        "latency_seconds": 0.3242,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:56:28.594914",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0014
+    },
+    {
+        "timestamp": "2024-12-06T12:56:28.605559",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.338
+    },
+    {
+        "timestamp": "2024-12-06T12:56:35.345475",
+        "step": "HubSpot POST API",
+        "latency_seconds": 6.7379,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:56:35.351940",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0048
+    },
+    {
+        "timestamp": "2024-12-06T12:56:35.361254",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 6.7537
+    },
+    {
+        "timestamp": "2024-12-06T12:56:36.166161",
+        "step": "Forecast API",
+        "latency_seconds": 0.7367,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:56:36.170638",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0021
+    },
+    {
+        "timestamp": "2024-12-06T12:56:36.172684",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.7433
+    },
+    {
+        "timestamp": "2024-12-06T12:56:38.257781",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.0829,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:56:38.264232",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0039
+    },
+    {
+        "timestamp": "2024-12-06T12:56:38.269183",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.0943
+    },
+    {
+        "timestamp": "2024-12-06T12:56:40.114392",
+        "step": "Forecast API",
+        "latency_seconds": 0.308,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:56:40.117831",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T12:56:40.129187",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3229
+    },
+    {
+        "timestamp": "2024-12-06T12:56:42.203096",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.0719,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:56:42.210093",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0046
+    },
+    {
+        "timestamp": "2024-12-06T12:56:42.219638",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.0884
+    },
+    {
+        "timestamp": "2024-12-06T12:56:43.712707",
+        "step": "Forecast API",
+        "latency_seconds": 1.2492,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:56:43.716437",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T12:56:43.727702",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 1.2642
+    },
+    {
+        "timestamp": "2024-12-06T12:56:46.215074",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.4851,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:56:46.222311",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0046
+    },
+    {
+        "timestamp": "2024-12-06T12:56:46.227969",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.498
+    },
+    {
+        "timestamp": "2024-12-06T12:56:46.995778",
+        "step": "Forecast API",
+        "latency_seconds": 0.371,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:56:46.999852",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0014
+    },
+    {
+        "timestamp": "2024-12-06T12:56:47.011057",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3863
+    },
+    {
+        "timestamp": "2024-12-06T12:56:49.002015",
+        "step": "HubSpot POST API",
+        "latency_seconds": 1.9884,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:56:49.008545",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0037
+    },
+    {
+        "timestamp": "2024-12-06T12:56:49.015285",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.0017
+    },
+    {
+        "timestamp": "2024-12-06T12:56:49.903449",
+        "step": "Forecast API",
+        "latency_seconds": 0.6249,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:56:49.907651",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T12:56:49.910603",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.632
+    },
+    {
+        "timestamp": "2024-12-06T12:56:51.828142",
+        "step": "HubSpot POST API",
+        "latency_seconds": 1.9147,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:56:51.835199",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0041
+    },
+    {
+        "timestamp": "2024-12-06T12:56:51.846986",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 1.9335
+    },
+    {
+        "timestamp": "2024-12-06T12:56:52.174427",
+        "step": "Forecast API",
+        "latency_seconds": 0.2561,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:56:52.178940",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T12:56:52.182288",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.264
+    },
+    {
+        "timestamp": "2024-12-06T12:56:54.104530",
+        "step": "HubSpot POST API",
+        "latency_seconds": 1.9191,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:56:54.112670",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.004
+    },
+    {
+        "timestamp": "2024-12-06T12:56:54.123858",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 1.9384
+    },
+    {
+        "timestamp": "2024-12-06T12:56:54.858753",
+        "step": "Forecast API",
+        "latency_seconds": 0.2801,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:56:54.863578",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0012
+    },
+    {
+        "timestamp": "2024-12-06T12:56:54.875180",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.2965
+    },
+    {
+        "timestamp": "2024-12-06T12:56:57.929062",
+        "step": "HubSpot POST API",
+        "latency_seconds": 3.0504,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:56:57.937676",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.005
+    },
+    {
+        "timestamp": "2024-12-06T12:56:57.948162",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 3.0695
+    },
+    {
+        "timestamp": "2024-12-06T12:56:58.636776",
+        "step": "Forecast API",
+        "latency_seconds": 0.4025,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:56:58.641691",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T12:56:58.652934",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.4186
+    },
+    {
+        "timestamp": "2024-12-06T12:57:00.579991",
+        "step": "HubSpot POST API",
+        "latency_seconds": 1.9233,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:57:00.588121",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.004
+    },
+    {
+        "timestamp": "2024-12-06T12:57:00.599155",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 1.9425
+    },
+    {
+        "timestamp": "2024-12-06T12:57:01.169923",
+        "step": "Forecast API",
+        "latency_seconds": 0.2845,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:57:01.175416",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T12:57:01.186611",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3012
+    },
+    {
+        "timestamp": "2024-12-06T12:57:03.214800",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.0244,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:57:03.223011",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0039
+    },
+    {
+        "timestamp": "2024-12-06T12:57:03.234956",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.0445
+    },
+    {
+        "timestamp": "2024-12-06T12:57:03.851564",
+        "step": "Forecast API",
+        "latency_seconds": 0.3118,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:57:03.857145",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T12:57:03.868698",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.329
+    },
+    {
+        "timestamp": "2024-12-06T12:57:05.984307",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.1114,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:57:05.993052",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0037
+    },
+    {
+        "timestamp": "2024-12-06T12:57:06.004728",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.1318
+    },
+    {
+        "timestamp": "2024-12-06T12:57:06.433876",
+        "step": "Forecast API",
+        "latency_seconds": 0.2443,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:57:06.439771",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T12:57:06.451991",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.2624
+    },
+    {
+        "timestamp": "2024-12-06T12:57:08.455921",
+        "step": "HubSpot POST API",
+        "latency_seconds": 1.9996,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:57:08.464661",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0038
+    },
+    {
+        "timestamp": "2024-12-06T12:57:08.471831",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.0155
+    },
+    {
+        "timestamp": "2024-12-06T12:57:09.173881",
+        "step": "Forecast API",
+        "latency_seconds": 0.3325,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:57:09.179930",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T12:57:09.192284",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.351
+    },
+    {
+        "timestamp": "2024-12-06T12:57:11.197028",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.0,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:57:11.206187",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.004
+    },
+    {
+        "timestamp": "2024-12-06T12:57:11.218438",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.0214
+    },
+    {
+        "timestamp": "2024-12-06T12:57:11.775449",
+        "step": "Forecast API",
+        "latency_seconds": 0.2824,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:57:11.782123",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0015
+    },
+    {
+        "timestamp": "2024-12-06T12:57:11.787328",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.2943
+    },
+    {
+        "timestamp": "2024-12-06T12:57:15.015336",
+        "step": "HubSpot POST API",
+        "latency_seconds": 3.2229,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:57:15.024963",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0043
+    },
+    {
+        "timestamp": "2024-12-06T12:57:15.038666",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 3.2463
+    },
+    {
+        "timestamp": "2024-12-06T12:57:15.608302",
+        "step": "Forecast API",
+        "latency_seconds": 0.2484,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:57:15.615166",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T12:57:15.621082",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.2612
+    },
+    {
+        "timestamp": "2024-12-06T12:57:17.668862",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.0425,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:57:17.679274",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0045
+    },
+    {
+        "timestamp": "2024-12-06T12:57:17.686703",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.0603
+    },
+    {
+        "timestamp": "2024-12-06T12:57:18.264454",
+        "step": "Forecast API",
+        "latency_seconds": 0.2507,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:57:18.271846",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0014
+    },
+    {
+        "timestamp": "2024-12-06T12:57:18.283904",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.2702
+    },
+    {
+        "timestamp": "2024-12-06T12:57:20.219432",
+        "step": "HubSpot POST API",
+        "latency_seconds": 1.9289,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:57:20.230918",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0038
+    },
+    {
+        "timestamp": "2024-12-06T12:57:20.239463",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 1.9489
+    },
+    {
+        "timestamp": "2024-12-06T12:57:20.988187",
+        "step": "Forecast API",
+        "latency_seconds": 0.3153,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:57:20.995693",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0015
+    },
+    {
+        "timestamp": "2024-12-06T12:57:21.008602",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3357
+    },
+    {
+        "timestamp": "2024-12-06T12:57:22.945560",
+        "step": "HubSpot POST API",
+        "latency_seconds": 1.9311,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:57:22.955659",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.004
+    },
+    {
+        "timestamp": "2024-12-06T12:57:22.964089",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 1.9497
+    },
+    {
+        "timestamp": "2024-12-06T12:57:23.586885",
+        "step": "Forecast API",
+        "latency_seconds": 0.2541,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:57:23.595610",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0017
+    },
+    {
+        "timestamp": "2024-12-06T12:57:23.602018",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.2693
+    },
+    {
+        "timestamp": "2024-12-06T12:57:25.659714",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.0515,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:57:25.669954",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0036
+    },
+    {
+        "timestamp": "2024-12-06T12:57:25.679079",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.0709
+    },
+    {
+        "timestamp": "2024-12-06T12:57:26.262582",
+        "step": "Forecast API",
+        "latency_seconds": 0.2775,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:57:26.270458",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T12:57:26.276952",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.2919
+    },
+    {
+        "timestamp": "2024-12-06T12:57:33.225670",
+        "step": "HubSpot POST API",
+        "latency_seconds": 6.9423,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:57:33.237773",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.005
+    },
+    {
+        "timestamp": "2024-12-06T12:57:33.250835",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 6.9675
+    },
+    {
+        "timestamp": "2024-12-06T12:57:34.008762",
+        "step": "Forecast API",
+        "latency_seconds": 0.3618,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:57:34.016903",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T12:57:34.030421",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3835
+    },
+    {
+        "timestamp": "2024-12-06T12:57:36.002177",
+        "step": "HubSpot POST API",
+        "latency_seconds": 1.965,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:57:36.013333",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.004
+    },
+    {
+        "timestamp": "2024-12-06T12:57:36.027137",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 1.99
+    },
+    {
+        "timestamp": "2024-12-06T12:57:36.576350",
+        "step": "Forecast API",
+        "latency_seconds": 0.2705,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:57:36.584584",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T12:57:36.598114",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.2923
+    },
+    {
+        "timestamp": "2024-12-06T12:57:39.582447",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.9775,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:57:39.593902",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0041
+    },
+    {
+        "timestamp": "2024-12-06T12:57:39.607483",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 3.0026
+    },
+    {
+        "timestamp": "2024-12-06T12:57:40.198042",
+        "step": "Forecast API",
+        "latency_seconds": 0.24,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:57:40.207615",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0018
+    },
+    {
+        "timestamp": "2024-12-06T12:57:40.221109",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.2631
+    },
+    {
+        "timestamp": "2024-12-06T12:57:42.163239",
+        "step": "HubSpot POST API",
+        "latency_seconds": 1.9347,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:57:42.175392",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0041
+    },
+    {
+        "timestamp": "2024-12-06T12:57:42.185470",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 1.9569
+    },
+    {
+        "timestamp": "2024-12-06T12:57:42.939681",
+        "step": "Forecast API",
+        "latency_seconds": 0.328,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:57:42.948656",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T12:57:42.956344",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3447
+    },
+    {
+        "timestamp": "2024-12-06T12:57:44.844530",
+        "step": "HubSpot POST API",
+        "latency_seconds": 1.8808,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:57:44.856102",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0037
+    },
+    {
+        "timestamp": "2024-12-06T12:57:44.869630",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 1.9059
+    },
+    {
+        "timestamp": "2024-12-06T12:57:46.920906",
+        "step": "Forecast API",
+        "latency_seconds": 1.6519,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:57:46.929956",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0012
+    },
+    {
+        "timestamp": "2024-12-06T12:57:46.944231",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 1.6754
+    },
+    {
+        "timestamp": "2024-12-06T12:57:48.870396",
+        "step": "HubSpot POST API",
+        "latency_seconds": 1.9185,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:57:48.882556",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.004
+    },
+    {
+        "timestamp": "2024-12-06T12:57:48.893010",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 1.9412
+    },
+    {
+        "timestamp": "2024-12-06T12:57:49.418409",
+        "step": "Forecast API",
+        "latency_seconds": 0.2749,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:57:49.428094",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T12:57:49.442400",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.2989
+    },
+    {
+        "timestamp": "2024-12-06T12:57:51.853703",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.4034,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:57:51.865893",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0039
+    },
+    {
+        "timestamp": "2024-12-06T12:57:51.875210",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.4249
+    },
+    {
+        "timestamp": "2024-12-06T12:57:52.578077",
+        "step": "Forecast API",
+        "latency_seconds": 0.2728,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:57:52.587847",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T12:57:52.596380",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.2912
+    },
+    {
+        "timestamp": "2024-12-06T12:57:54.666830",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.0618,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:57:54.680241",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0045
+    },
+    {
+        "timestamp": "2024-12-06T12:57:54.692537",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.0875
+    },
+    {
+        "timestamp": "2024-12-06T12:57:55.355408",
+        "step": "Forecast API",
+        "latency_seconds": 0.4091,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:57:55.365614",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0015
+    },
+    {
+        "timestamp": "2024-12-06T12:57:55.377293",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.431
+    },
+    {
+        "timestamp": "2024-12-06T12:57:57.753853",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.3721,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:57:57.765651",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0029
+    },
+    {
+        "timestamp": "2024-12-06T12:57:57.778433",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.3967
+    },
+    {
+        "timestamp": "2024-12-06T12:57:58.423689",
+        "step": "Forecast API",
+        "latency_seconds": 0.3228,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:57:58.434164",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T12:57:58.443253",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3424
+    },
+    {
+        "timestamp": "2024-12-06T12:58:00.470129",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.018,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:58:00.486530",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.006
+    },
+    {
+        "timestamp": "2024-12-06T12:58:00.502259",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.0501
+    },
+    {
+        "timestamp": "2024-12-06T12:58:01.169549",
+        "step": "Forecast API",
+        "latency_seconds": 0.4057,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:58:01.181335",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0019
+    },
+    {
+        "timestamp": "2024-12-06T12:58:01.195786",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.432
+    },
+    {
+        "timestamp": "2024-12-06T12:58:03.679087",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.4776,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:58:03.692826",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0041
+    },
+    {
+        "timestamp": "2024-12-06T12:58:03.704628",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.5032
+    },
+    {
+        "timestamp": "2024-12-06T12:58:04.236243",
+        "step": "Forecast API",
+        "latency_seconds": 0.3175,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:58:04.247135",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0012
+    },
+    {
+        "timestamp": "2024-12-06T12:58:04.256829",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3381
+    },
+    {
+        "timestamp": "2024-12-06T12:58:06.324032",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.0576,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:58:06.337473",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0038
+    },
+    {
+        "timestamp": "2024-12-06T12:58:06.352421",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.086
+    },
+    {
+        "timestamp": "2024-12-06T12:58:07.446173",
+        "step": "Forecast API",
+        "latency_seconds": 0.8782,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:58:07.457422",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0014
+    },
+    {
+        "timestamp": "2024-12-06T12:58:07.472508",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.9045
+    },
+    {
+        "timestamp": "2024-12-06T12:58:09.369916",
+        "step": "HubSpot POST API",
+        "latency_seconds": 1.8868,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:58:09.384839",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0049
+    },
+    {
+        "timestamp": "2024-12-06T12:58:09.399419",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 1.9163
+    },
+    {
+        "timestamp": "2024-12-06T12:58:10.019815",
+        "step": "Forecast API",
+        "latency_seconds": 0.2931,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:58:10.031404",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T12:58:10.046689",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.32
+    },
+    {
+        "timestamp": "2024-12-06T12:58:12.062194",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.0055,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:58:12.076598",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0041
+    },
+    {
+        "timestamp": "2024-12-06T12:58:12.088890",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.0322
+    },
+    {
+        "timestamp": "2024-12-06T12:58:12.728088",
+        "step": "Forecast API",
+        "latency_seconds": 0.3479,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:58:12.736161",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0008
+    },
+    {
+        "timestamp": "2024-12-06T12:58:12.750435",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3702
+    },
+    {
+        "timestamp": "2024-12-06T12:58:14.745796",
+        "step": "HubSpot POST API",
+        "latency_seconds": 1.9883,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:58:14.752542",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0015
+    },
+    {
+        "timestamp": "2024-12-06T12:58:14.763694",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.0063
+    },
+    {
+        "timestamp": "2024-12-06T12:58:15.303902",
+        "step": "Forecast API",
+        "latency_seconds": 0.2649,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:58:15.316603",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T12:58:15.332785",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.2938
+    },
+    {
+        "timestamp": "2024-12-06T12:58:17.385232",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.0415,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:58:17.401195",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0041
+    },
+    {
+        "timestamp": "2024-12-06T12:58:17.416960",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.0733
+    },
+    {
+        "timestamp": "2024-12-06T12:58:18.041634",
+        "step": "Forecast API",
+        "latency_seconds": 0.3502,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:58:18.053829",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T12:58:18.069477",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3781
+    },
+    {
+        "timestamp": "2024-12-06T12:58:21.188367",
+        "step": "HubSpot POST API",
+        "latency_seconds": 3.1077,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:58:21.203288",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0039
+    },
+    {
+        "timestamp": "2024-12-06T12:58:21.215194",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 3.1345
+    },
+    {
+        "timestamp": "2024-12-06T12:58:21.909785",
+        "step": "Forecast API",
+        "latency_seconds": 0.3434,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:58:21.923485",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T12:58:21.939044",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3726
+    },
+    {
+        "timestamp": "2024-12-06T12:58:24.974033",
+        "step": "HubSpot POST API",
+        "latency_seconds": 3.0239,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:58:24.989569",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0039
+    },
+    {
+        "timestamp": "2024-12-06T12:58:25.006053",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 3.0559
+    },
+    {
+        "timestamp": "2024-12-06T12:58:25.750959",
+        "step": "Forecast API",
+        "latency_seconds": 0.5304,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:58:25.763891",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T12:58:25.779437",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.5589
+    },
+    {
+        "timestamp": "2024-12-06T12:58:28.096608",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.3056,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:58:28.112253",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0027
+    },
+    {
+        "timestamp": "2024-12-06T12:58:28.120223",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.3293
+    },
+    {
+        "timestamp": "2024-12-06T12:58:28.827259",
+        "step": "Forecast API",
+        "latency_seconds": 0.4559,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:58:28.840617",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T12:58:28.856525",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.4852
+    },
+    {
+        "timestamp": "2024-12-06T12:58:30.748751",
+        "step": "HubSpot POST API",
+        "latency_seconds": 1.8815,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:58:30.764739",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0037
+    },
+    {
+        "timestamp": "2024-12-06T12:58:30.781251",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 1.9141
+    },
+    {
+        "timestamp": "2024-12-06T12:58:31.480688",
+        "step": "Forecast API",
+        "latency_seconds": 0.4544,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:58:31.494260",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0015
+    },
+    {
+        "timestamp": "2024-12-06T12:58:31.510688",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.4845
+    },
+    {
+        "timestamp": "2024-12-06T12:58:38.036558",
+        "step": "HubSpot POST API",
+        "latency_seconds": 6.5139,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:58:38.052967",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0036
+    },
+    {
+        "timestamp": "2024-12-06T12:58:38.065472",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 6.5428
+    },
+    {
+        "timestamp": "2024-12-06T12:58:38.532502",
+        "step": "Forecast API",
+        "latency_seconds": 0.3565,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:58:38.546165",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0012
+    },
+    {
+        "timestamp": "2024-12-06T12:58:38.563279",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3873
+    },
+    {
+        "timestamp": "2024-12-06T12:58:40.582281",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.0069,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:58:40.599255",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0046
+    },
+    {
+        "timestamp": "2024-12-06T12:58:40.611309",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.0359
+    },
+    {
+        "timestamp": "2024-12-06T12:58:41.117552",
+        "step": "Forecast API",
+        "latency_seconds": 0.2917,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:58:41.131516",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0012
+    },
+    {
+        "timestamp": "2024-12-06T12:58:41.148085",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3223
+    },
+    {
+        "timestamp": "2024-12-06T12:58:43.746837",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.5856,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:58:43.763756",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0037
+    },
+    {
+        "timestamp": "2024-12-06T12:58:43.778669",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.6175
+    },
+    {
+        "timestamp": "2024-12-06T12:58:44.239885",
+        "step": "Forecast API",
+        "latency_seconds": 0.2634,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:58:44.254646",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0016
+    },
+    {
+        "timestamp": "2024-12-06T12:58:44.271688",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.2952
+    },
+    {
+        "timestamp": "2024-12-06T12:58:46.174071",
+        "step": "HubSpot POST API",
+        "latency_seconds": 1.8932,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:58:46.190794",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0036
+    },
+    {
+        "timestamp": "2024-12-06T12:58:46.208415",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 1.9275
+    },
+    {
+        "timestamp": "2024-12-06T12:58:46.963176",
+        "step": "Forecast API",
+        "latency_seconds": 0.3295,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:58:46.977818",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T12:58:46.993903",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3603
+    },
+    {
+        "timestamp": "2024-12-06T12:58:49.726448",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.7247,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:58:49.744208",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0038
+    },
+    {
+        "timestamp": "2024-12-06T12:58:49.757922",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.7562
+    },
+    {
+        "timestamp": "2024-12-06T12:58:50.644044",
+        "step": "Forecast API",
+        "latency_seconds": 0.342,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:58:50.659617",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0015
+    },
+    {
+        "timestamp": "2024-12-06T12:58:50.676552",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3745
+    },
+    {
+        "timestamp": "2024-12-06T12:58:53.739104",
+        "step": "HubSpot POST API",
+        "latency_seconds": 3.0489,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:58:53.757601",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.004
+    },
+    {
+        "timestamp": "2024-12-06T12:58:53.775053",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 3.0849
+    },
+    {
+        "timestamp": "2024-12-06T12:58:54.283590",
+        "step": "Forecast API",
+        "latency_seconds": 0.2679,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:58:54.299649",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0017
+    },
+    {
+        "timestamp": "2024-12-06T12:58:54.314242",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.2986
+    },
+    {
+        "timestamp": "2024-12-06T12:58:56.240455",
+        "step": "HubSpot POST API",
+        "latency_seconds": 1.9167,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:58:56.260949",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0041
+    },
+    {
+        "timestamp": "2024-12-06T12:58:56.273706",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 1.95
+    },
+    {
+        "timestamp": "2024-12-06T12:58:57.011815",
+        "step": "Forecast API",
+        "latency_seconds": 0.3387,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:58:57.027504",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0014
+    },
+    {
+        "timestamp": "2024-12-06T12:58:57.044725",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3717
+    },
+    {
+        "timestamp": "2024-12-06T12:58:59.158052",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.0991,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:58:59.176137",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0038
+    },
+    {
+        "timestamp": "2024-12-06T12:58:59.188922",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.13
+    },
+    {
+        "timestamp": "2024-12-06T12:58:59.566816",
+        "step": "Forecast API",
+        "latency_seconds": 0.2492,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:58:59.582259",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T12:58:59.602155",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.2846
+    },
+    {
+        "timestamp": "2024-12-06T12:59:01.473087",
+        "step": "HubSpot POST API",
+        "latency_seconds": 1.8568,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:01.490654",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0039
+    },
+    {
+        "timestamp": "2024-12-06T12:59:01.505205",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 1.8889
+    },
+    {
+        "timestamp": "2024-12-06T12:59:02.218824",
+        "step": "Forecast API",
+        "latency_seconds": 0.243,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:02.226612",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0007
+    },
+    {
+        "timestamp": "2024-12-06T12:59:02.241160",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.2653
+    },
+    {
+        "timestamp": "2024-12-06T12:59:04.127647",
+        "step": "HubSpot POST API",
+        "latency_seconds": 1.8775,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:04.145824",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0036
+    },
+    {
+        "timestamp": "2024-12-06T12:59:04.163213",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 1.9131
+    },
+    {
+        "timestamp": "2024-12-06T12:59:04.960195",
+        "step": "Forecast API",
+        "latency_seconds": 0.3285,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:04.975854",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0015
+    },
+    {
+        "timestamp": "2024-12-06T12:59:04.990616",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.359
+    },
+    {
+        "timestamp": "2024-12-06T12:59:07.028185",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.0283,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:07.047090",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0037
+    },
+    {
+        "timestamp": "2024-12-06T12:59:07.065222",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.0654
+    },
+    {
+        "timestamp": "2024-12-06T12:59:07.540779",
+        "step": "Forecast API",
+        "latency_seconds": 0.2548,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:07.557241",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T12:59:07.572244",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.2863
+    },
+    {
+        "timestamp": "2024-12-06T12:59:09.869038",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.2831,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:09.888170",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0038
+    },
+    {
+        "timestamp": "2024-12-06T12:59:09.903089",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.3172
+    },
+    {
+        "timestamp": "2024-12-06T12:59:10.978973",
+        "step": "Forecast API",
+        "latency_seconds": 0.528,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:10.996061",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0014
+    },
+    {
+        "timestamp": "2024-12-06T12:59:11.013557",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.5626
+    },
+    {
+        "timestamp": "2024-12-06T12:59:13.004048",
+        "step": "HubSpot POST API",
+        "latency_seconds": 1.9752,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:13.023233",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0038
+    },
+    {
+        "timestamp": "2024-12-06T12:59:13.037196",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.0084
+    },
+    {
+        "timestamp": "2024-12-06T12:59:13.357631",
+        "step": "Forecast API",
+        "latency_seconds": 0.2768,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:13.375837",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0014
+    },
+    {
+        "timestamp": "2024-12-06T12:59:13.392165",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3114
+    },
+    {
+        "timestamp": "2024-12-06T12:59:15.447940",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.0465,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:15.464360",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0023
+    },
+    {
+        "timestamp": "2024-12-06T12:59:15.476715",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.0754
+    },
+    {
+        "timestamp": "2024-12-06T12:59:16.087401",
+        "step": "Forecast API",
+        "latency_seconds": 0.3461,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:16.104946",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0014
+    },
+    {
+        "timestamp": "2024-12-06T12:59:16.124467",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3832
+    },
+    {
+        "timestamp": "2024-12-06T12:59:18.195171",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.0546,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:18.215717",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0037
+    },
+    {
+        "timestamp": "2024-12-06T12:59:18.234833",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.0943
+    },
+    {
+        "timestamp": "2024-12-06T12:59:18.675182",
+        "step": "Forecast API",
+        "latency_seconds": 0.2765,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:18.693132",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T12:59:18.708388",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3098
+    },
+    {
+        "timestamp": "2024-12-06T12:59:20.767957",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.0497,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:20.788913",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.004
+    },
+    {
+        "timestamp": "2024-12-06T12:59:20.806042",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.0879
+    },
+    {
+        "timestamp": "2024-12-06T12:59:21.343475",
+        "step": "Forecast API",
+        "latency_seconds": 0.288,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:21.361434",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T12:59:21.375108",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3197
+    },
+    {
+        "timestamp": "2024-12-06T12:59:23.407116",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.0253,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:23.427861",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0045
+    },
+    {
+        "timestamp": "2024-12-06T12:59:23.441253",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.0595
+    },
+    {
+        "timestamp": "2024-12-06T12:59:24.050121",
+        "step": "Forecast API",
+        "latency_seconds": 0.3429,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:24.067351",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T12:59:24.084486",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3773
+    },
+    {
+        "timestamp": "2024-12-06T12:59:27.268466",
+        "step": "HubSpot POST API",
+        "latency_seconds": 3.1741,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:27.287459",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.003
+    },
+    {
+        "timestamp": "2024-12-06T12:59:27.302410",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 3.208
+    },
+    {
+        "timestamp": "2024-12-06T12:59:28.079499",
+        "step": "Forecast API",
+        "latency_seconds": 0.3433,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:28.099202",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0012
+    },
+    {
+        "timestamp": "2024-12-06T12:59:28.114537",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3783
+    },
+    {
+        "timestamp": "2024-12-06T12:59:30.147752",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.0259,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:30.169283",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0038
+    },
+    {
+        "timestamp": "2024-12-06T12:59:30.184684",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.0629
+    },
+    {
+        "timestamp": "2024-12-06T12:59:30.758741",
+        "step": "Forecast API",
+        "latency_seconds": 0.3573,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:30.776523",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0015
+    },
+    {
+        "timestamp": "2024-12-06T12:59:30.794246",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3928
+    },
+    {
+        "timestamp": "2024-12-06T12:59:32.764073",
+        "step": "HubSpot POST API",
+        "latency_seconds": 1.9552,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:32.787314",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0035
+    },
+    {
+        "timestamp": "2024-12-06T12:59:32.799330",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 1.9905
+    },
+    {
+        "timestamp": "2024-12-06T12:59:33.369135",
+        "step": "Forecast API",
+        "latency_seconds": 0.3056,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:33.387399",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0012
+    },
+    {
+        "timestamp": "2024-12-06T12:59:33.402735",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3393
+    },
+    {
+        "timestamp": "2024-12-06T12:59:35.086336",
+        "step": "HubSpot POST API",
+        "latency_seconds": 1.6756,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:35.106056",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0035
+    },
+    {
+        "timestamp": "2024-12-06T12:59:35.118510",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 1.7079
+    },
+    {
+        "timestamp": "2024-12-06T12:59:35.917679",
+        "step": "Forecast API",
+        "latency_seconds": 0.7109,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:35.943747",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0025
+    },
+    {
+        "timestamp": "2024-12-06T12:59:35.963280",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.7565
+    },
+    {
+        "timestamp": "2024-12-06T12:59:37.907745",
+        "step": "HubSpot POST API",
+        "latency_seconds": 1.9372,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:37.929367",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0039
+    },
+    {
+        "timestamp": "2024-12-06T12:59:37.945845",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 1.9754
+    },
+    {
+        "timestamp": "2024-12-06T12:59:40.262572",
+        "step": "Forecast API",
+        "latency_seconds": 1.8989,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:40.283319",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0015
+    },
+    {
+        "timestamp": "2024-12-06T12:59:40.299804",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 1.9361
+    },
+    {
+        "timestamp": "2024-12-06T12:59:42.389784",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.0778,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:42.414564",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0037
+    },
+    {
+        "timestamp": "2024-12-06T12:59:42.430704",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.1188
+    },
+    {
+        "timestamp": "2024-12-06T12:59:42.847590",
+        "step": "Forecast API",
+        "latency_seconds": 0.324,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:42.867428",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0012
+    },
+    {
+        "timestamp": "2024-12-06T12:59:42.881612",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.358
+    },
+    {
+        "timestamp": "2024-12-06T12:59:44.745339",
+        "step": "HubSpot POST API",
+        "latency_seconds": 1.8544,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:44.768144",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.004
+    },
+    {
+        "timestamp": "2024-12-06T12:59:44.783708",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 1.8928
+    },
+    {
+        "timestamp": "2024-12-06T12:59:45.472241",
+        "step": "Forecast API",
+        "latency_seconds": 0.2889,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:45.494488",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0018
+    },
+    {
+        "timestamp": "2024-12-06T12:59:45.510481",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3271
+    },
+    {
+        "timestamp": "2024-12-06T12:59:47.532858",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.0142,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:47.541633",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0014
+    },
+    {
+        "timestamp": "2024-12-06T12:59:47.554353",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.0358
+    },
+    {
+        "timestamp": "2024-12-06T12:59:48.381438",
+        "step": "Forecast API",
+        "latency_seconds": 0.5628,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:48.387036",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0003
+    },
+    {
+        "timestamp": "2024-12-06T12:59:48.392292",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.5737
+    },
+    {
+        "timestamp": "2024-12-06T12:59:50.492983",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.0956,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:50.515181",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0031
+    },
+    {
+        "timestamp": "2024-12-06T12:59:50.529103",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.1317
+    },
+    {
+        "timestamp": "2024-12-06T12:59:51.311215",
+        "step": "Forecast API",
+        "latency_seconds": 0.3268,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:51.333049",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0012
+    },
+    {
+        "timestamp": "2024-12-06T12:59:51.351329",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.367
+    },
+    {
+        "timestamp": "2024-12-06T12:59:53.286020",
+        "step": "HubSpot POST API",
+        "latency_seconds": 1.9236,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:53.309697",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0039
+    },
+    {
+        "timestamp": "2024-12-06T12:59:53.328790",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 1.9664
+    },
+    {
+        "timestamp": "2024-12-06T12:59:53.922969",
+        "step": "Forecast API",
+        "latency_seconds": 0.2784,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:53.944395",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T12:59:53.963316",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3188
+    },
+    {
+        "timestamp": "2024-12-06T12:59:56.133710",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.1563,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:56.158376",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.004
+    },
+    {
+        "timestamp": "2024-12-06T12:59:56.178472",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.2011
+    },
+    {
+        "timestamp": "2024-12-06T12:59:56.642924",
+        "step": "Forecast API",
+        "latency_seconds": 0.3598,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:56.664415",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0016
+    },
+    {
+        "timestamp": "2024-12-06T12:59:56.678760",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3957
+    },
+    {
+        "timestamp": "2024-12-06T12:59:59.129996",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.4421,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T12:59:59.154672",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.004
+    },
+    {
+        "timestamp": "2024-12-06T12:59:59.172901",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.485
+    },
+    {
+        "timestamp": "2024-12-06T13:00:01.334607",
+        "step": "Forecast API",
+        "latency_seconds": 0.2928,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:00:01.356626",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T13:00:01.371055",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3293
+    },
+    {
+        "timestamp": "2024-12-06T13:00:03.298865",
+        "step": "HubSpot POST API",
+        "latency_seconds": 1.9209,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:00:03.322815",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0038
+    },
+    {
+        "timestamp": "2024-12-06T13:00:03.334870",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 1.9569
+    },
+    {
+        "timestamp": "2024-12-06T13:00:04.186052",
+        "step": "Forecast API",
+        "latency_seconds": 0.489,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:00:04.208641",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T13:00:04.224556",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.5275
+    },
+    {
+        "timestamp": "2024-12-06T13:00:06.221943",
+        "step": "HubSpot POST API",
+        "latency_seconds": 1.9883,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:00:06.248587",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0049
+    },
+    {
+        "timestamp": "2024-12-06T13:00:06.268901",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.0353
+    },
+    {
+        "timestamp": "2024-12-06T13:00:06.808804",
+        "step": "Forecast API",
+        "latency_seconds": 0.4808,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:00:06.830873",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0012
+    },
+    {
+        "timestamp": "2024-12-06T13:00:06.846993",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.519
+    },
+    {
+        "timestamp": "2024-12-06T13:00:09.090051",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.2344,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:00:09.115588",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0029
+    },
+    {
+        "timestamp": "2024-12-06T13:00:09.129357",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.2737
+    },
+    {
+        "timestamp": "2024-12-06T13:00:09.955547",
+        "step": "Forecast API",
+        "latency_seconds": 0.458,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:00:09.977780",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0012
+    },
+    {
+        "timestamp": "2024-12-06T13:00:09.994833",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.4973
+    },
+    {
+        "timestamp": "2024-12-06T13:00:13.450352",
+        "step": "HubSpot POST API",
+        "latency_seconds": 3.4411,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:00:13.474754",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0031
+    },
+    {
+        "timestamp": "2024-12-06T13:00:13.489549",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 3.4803
+    },
+    {
+        "timestamp": "2024-12-06T13:00:14.085824",
+        "step": "Forecast API",
+        "latency_seconds": 0.4357,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:00:14.109625",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0014
+    },
+    {
+        "timestamp": "2024-12-06T13:00:14.124298",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.4742
+    },
+    {
+        "timestamp": "2024-12-06T13:00:16.160554",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.0284,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:00:16.183657",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0029
+    },
+    {
+        "timestamp": "2024-12-06T13:00:16.197230",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.0652
+    },
+    {
+        "timestamp": "2024-12-06T13:00:17.230834",
+        "step": "Forecast API",
+        "latency_seconds": 0.9321,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:00:17.253721",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0012
+    },
+    {
+        "timestamp": "2024-12-06T13:00:17.267997",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.9693
+    },
+    {
+        "timestamp": "2024-12-06T13:00:19.657000",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.3791,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:00:19.680906",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0026
+    },
+    {
+        "timestamp": "2024-12-06T13:00:19.696753",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.4189
+    },
+    {
+        "timestamp": "2024-12-06T13:00:20.416973",
+        "step": "Forecast API",
+        "latency_seconds": 0.4574,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:00:20.431525",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0006
+    },
+    {
+        "timestamp": "2024-12-06T13:00:20.446177",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.4866
+    },
+    {
+        "timestamp": "2024-12-06T13:00:22.428412",
+        "step": "HubSpot POST API",
+        "latency_seconds": 1.9735,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:00:22.450849",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0025
+    },
+    {
+        "timestamp": "2024-12-06T13:00:22.462758",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.0078
+    },
+    {
+        "timestamp": "2024-12-06T13:00:23.020753",
+        "step": "Forecast API",
+        "latency_seconds": 0.3975,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:00:23.044213",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0014
+    },
+    {
+        "timestamp": "2024-12-06T13:00:23.067479",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.4444
+    },
+    {
+        "timestamp": "2024-12-06T13:00:29.598554",
+        "step": "HubSpot POST API",
+        "latency_seconds": 6.51,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:00:29.625121",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0038
+    },
+    {
+        "timestamp": "2024-12-06T13:00:29.642281",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 6.5537
+    },
+    {
+        "timestamp": "2024-12-06T13:00:30.546614",
+        "step": "Forecast API",
+        "latency_seconds": 0.7526,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:00:30.563490",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0012
+    },
+    {
+        "timestamp": "2024-12-06T13:00:30.581122",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.7871
+    },
+    {
+        "timestamp": "2024-12-06T13:00:32.693107",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.0981,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:00:32.718097",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0026
+    },
+    {
+        "timestamp": "2024-12-06T13:00:32.733385",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.1385
+    },
+    {
+        "timestamp": "2024-12-06T13:00:34.871080",
+        "step": "Forecast API",
+        "latency_seconds": 1.9169,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:00:34.895143",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T13:00:34.913483",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 1.9594
+    },
+    {
+        "timestamp": "2024-12-06T13:00:36.953200",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.029,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:00:36.980711",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0038
+    },
+    {
+        "timestamp": "2024-12-06T13:00:36.999142",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.075
+    },
+    {
+        "timestamp": "2024-12-06T13:00:37.948553",
+        "step": "Forecast API",
+        "latency_seconds": 0.5502,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:00:37.972898",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T13:00:37.988109",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.5898
+    },
+    {
+        "timestamp": "2024-12-06T13:00:40.176151",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.1788,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:00:40.203950",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0043
+    },
+    {
+        "timestamp": "2024-12-06T13:00:40.219180",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.2219
+    },
+    {
+        "timestamp": "2024-12-06T13:00:41.261592",
+        "step": "Forecast API",
+        "latency_seconds": 0.7,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:00:41.286125",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T13:00:41.301951",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.7404
+    },
+    {
+        "timestamp": "2024-12-06T13:00:43.194702",
+        "step": "HubSpot POST API",
+        "latency_seconds": 1.8826,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:00:43.217504",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.002
+    },
+    {
+        "timestamp": "2024-12-06T13:00:43.234659",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 1.9226
+    },
+    {
+        "timestamp": "2024-12-06T13:00:44.068655",
+        "step": "Forecast API",
+        "latency_seconds": 0.3483,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:00:44.093832",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0012
+    },
+    {
+        "timestamp": "2024-12-06T13:00:44.113018",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3927
+    },
+    {
+        "timestamp": "2024-12-06T13:00:46.174528",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.051,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:00:46.193719",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0022
+    },
+    {
+        "timestamp": "2024-12-06T13:00:46.206123",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.0826
+    },
+    {
+        "timestamp": "2024-12-06T13:00:46.714846",
+        "step": "Forecast API",
+        "latency_seconds": 0.3178,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:00:46.740134",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.001
+    },
+    {
+        "timestamp": "2024-12-06T13:00:46.754126",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3571
+    },
+    {
+        "timestamp": "2024-12-06T13:00:48.706212",
+        "step": "HubSpot POST API",
+        "latency_seconds": 1.943,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:00:48.733866",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0033
+    },
+    {
+        "timestamp": "2024-12-06T13:00:48.749742",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 1.9866
+    },
+    {
+        "timestamp": "2024-12-06T13:00:50.037339",
+        "step": "Forecast API",
+        "latency_seconds": 0.9829,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:00:50.060103",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0009
+    },
+    {
+        "timestamp": "2024-12-06T13:00:50.076639",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 1.0222
+    },
+    {
+        "timestamp": "2024-12-06T13:00:52.175061",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.0863,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:00:52.203788",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.004
+    },
+    {
+        "timestamp": "2024-12-06T13:00:52.219627",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.1309
+    },
+    {
+        "timestamp": "2024-12-06T13:00:53.424363",
+        "step": "Forecast API",
+        "latency_seconds": 0.7065,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:00:53.450855",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0014
+    },
+    {
+        "timestamp": "2024-12-06T13:00:53.470434",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.7526
+    },
+    {
+        "timestamp": "2024-12-06T13:00:55.442366",
+        "step": "HubSpot POST API",
+        "latency_seconds": 1.9606,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:00:55.469648",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0031
+    },
+    {
+        "timestamp": "2024-12-06T13:00:55.483764",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.0021
+    },
+    {
+        "timestamp": "2024-12-06T13:00:56.178150",
+        "step": "Forecast API",
+        "latency_seconds": 0.3063,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:00:56.204103",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T13:00:56.219929",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3481
+    },
+    {
+        "timestamp": "2024-12-06T13:00:58.163069",
+        "step": "HubSpot POST API",
+        "latency_seconds": 1.933,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:00:58.193671",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0041
+    },
+    {
+        "timestamp": "2024-12-06T13:00:58.214383",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 1.9844
+    },
+    {
+        "timestamp": "2024-12-06T13:00:58.968459",
+        "step": "Forecast API",
+        "latency_seconds": 0.4321,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:00:58.995289",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T13:00:59.015525",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.4792
+    },
+    {
+        "timestamp": "2024-12-06T13:01:01.204167",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.1723,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:01:01.228185",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.002
+    },
+    {
+        "timestamp": "2024-12-06T13:01:01.239024",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.2072
+    },
+    {
+        "timestamp": "2024-12-06T13:01:02.148538",
+        "step": "Forecast API",
+        "latency_seconds": 0.4753,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:01:02.173073",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0011
+    },
+    {
+        "timestamp": "2024-12-06T13:01:02.187439",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.5143
+    },
+    {
+        "timestamp": "2024-12-06T13:01:04.190103",
+        "step": "HubSpot POST API",
+        "latency_seconds": 1.995,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:01:04.206645",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0023
+    },
+    {
+        "timestamp": "2024-12-06T13:01:04.215593",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.0205
+    },
+    {
+        "timestamp": "2024-12-06T13:01:04.572194",
+        "step": "Forecast API",
+        "latency_seconds": 0.2584,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:01:04.601033",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.001
+    },
+    {
+        "timestamp": "2024-12-06T13:01:04.615747",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.302
+    },
+    {
+        "timestamp": "2024-12-06T13:01:06.584723",
+        "step": "HubSpot POST API",
+        "latency_seconds": 1.9608,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:01:06.613665",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.002
+    },
+    {
+        "timestamp": "2024-12-06T13:01:06.628840",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.005
+    },
+    {
+        "timestamp": "2024-12-06T13:01:08.555923",
+        "step": "Forecast API",
+        "latency_seconds": 0.2651,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:01:08.583079",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T13:01:08.597945",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3071
+    },
+    {
+        "timestamp": "2024-12-06T13:01:10.829179",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.2219,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:01:10.859926",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.004
+    },
+    {
+        "timestamp": "2024-12-06T13:01:10.882301",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.275
+    },
+    {
+        "timestamp": "2024-12-06T13:01:11.177578",
+        "step": "Forecast API",
+        "latency_seconds": 0.2506,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:01:11.204964",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.001
+    },
+    {
+        "timestamp": "2024-12-06T13:01:11.220179",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.2932
+    },
+    {
+        "timestamp": "2024-12-06T13:01:13.172170",
+        "step": "HubSpot POST API",
+        "latency_seconds": 1.9418,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:01:13.203388",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0039
+    },
+    {
+        "timestamp": "2024-12-06T13:01:13.226359",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 1.996
+    },
+    {
+        "timestamp": "2024-12-06T13:01:13.932439",
+        "step": "Forecast API",
+        "latency_seconds": 0.3452,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:01:13.960329",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0012
+    },
+    {
+        "timestamp": "2024-12-06T13:01:13.977943",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3907
+    },
+    {
+        "timestamp": "2024-12-06T13:01:16.224911",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.2359,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:01:16.255492",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0037
+    },
+    {
+        "timestamp": "2024-12-06T13:01:16.272647",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.2837
+    },
+    {
+        "timestamp": "2024-12-06T13:01:17.001863",
+        "step": "Forecast API",
+        "latency_seconds": 0.2612,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:01:17.040589",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T13:01:17.060052",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3194
+    },
+    {
+        "timestamp": "2024-12-06T13:01:19.433484",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.3616,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:01:19.456213",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0019
+    },
+    {
+        "timestamp": "2024-12-06T13:01:19.471212",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.3993
+    },
+    {
+        "timestamp": "2024-12-06T13:01:20.327539",
+        "step": "Forecast API",
+        "latency_seconds": 0.4114,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:01:20.352927",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0007
+    },
+    {
+        "timestamp": "2024-12-06T13:01:20.365184",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.4491
+    },
+    {
+        "timestamp": "2024-12-06T13:01:22.564983",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.1903,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:01:22.596720",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0036
+    },
+    {
+        "timestamp": "2024-12-06T13:01:22.616718",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.242
+    },
+    {
+        "timestamp": "2024-12-06T13:01:23.498616",
+        "step": "Forecast API",
+        "latency_seconds": 0.4201,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:01:23.528584",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T13:01:23.549500",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.471
+    },
+    {
+        "timestamp": "2024-12-06T13:01:25.476160",
+        "step": "HubSpot POST API",
+        "latency_seconds": 1.9165,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:01:25.510566",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0043
+    },
+    {
+        "timestamp": "2024-12-06T13:01:25.539775",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 1.9801
+    },
+    {
+        "timestamp": "2024-12-06T13:01:26.008388",
+        "step": "Forecast API",
+        "latency_seconds": 0.2722,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:01:26.037006",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.001
+    },
+    {
+        "timestamp": "2024-12-06T13:01:26.052135",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3159
+    },
+    {
+        "timestamp": "2024-12-06T13:01:28.347059",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.2838,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:01:28.377269",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0026
+    },
+    {
+        "timestamp": "2024-12-06T13:01:28.393205",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.33
+    },
+    {
+        "timestamp": "2024-12-06T13:01:29.150741",
+        "step": "Forecast API",
+        "latency_seconds": 0.2576,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:01:29.179844",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0015
+    },
+    {
+        "timestamp": "2024-12-06T13:01:29.196961",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3038
+    },
+    {
+        "timestamp": "2024-12-06T13:01:31.391925",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.1812,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:01:31.421393",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0031
+    },
+    {
+        "timestamp": "2024-12-06T13:01:31.436475",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.2257
+    },
+    {
+        "timestamp": "2024-12-06T13:01:31.834441",
+        "step": "Forecast API",
+        "latency_seconds": 0.3035,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:01:31.864568",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T13:01:31.888990",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3581
+    },
+    {
+        "timestamp": "2024-12-06T13:01:34.003068",
+        "step": "HubSpot POST API",
+        "latency_seconds": 2.1017,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:01:34.035627",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0042
+    },
+    {
+        "timestamp": "2024-12-06T13:01:34.052671",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.1514
+    },
+    {
+        "timestamp": "2024-12-06T13:01:34.534319",
+        "step": "Forecast API",
+        "latency_seconds": 0.3532,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:01:34.562336",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0008
+    },
+    {
+        "timestamp": "2024-12-06T13:01:34.576396",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3953
+    },
+    {
+        "timestamp": "2024-12-06T13:01:36.386417",
+        "step": "HubSpot POST API",
+        "latency_seconds": 1.7998,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:01:36.418827",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0029
+    },
+    {
+        "timestamp": "2024-12-06T13:01:36.434250",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 1.8477
+    },
+    {
+        "timestamp": "2024-12-06T13:01:37.130252",
+        "step": "Forecast API",
+        "latency_seconds": 0.2854,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:01:37.160925",
+        "step": "Forecast Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0013
+    },
+    {
+        "timestamp": "2024-12-06T13:01:37.178208",
+        "step": "Forecast Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.3334
+    },
+    {
+        "timestamp": "2024-12-06T13:01:39.158189",
+        "step": "HubSpot POST API",
+        "latency_seconds": 1.9693,
+        "execution_time_seconds": null
+    },
+    {
+        "timestamp": "2024-12-06T13:01:39.191109",
+        "step": "HubSpot Query",
+        "latency_seconds": null,
+        "execution_time_seconds": 0.0038
+    },
+    {
+        "timestamp": "2024-12-06T13:01:39.211328",
+        "step": "HubSpot Entire Query Process",
+        "latency_seconds": null,
+        "execution_time_seconds": 2.0225
+    }
+]

@@ -1,0 +1,3994 @@
+[
+    {
+        "timestamp": "2024-12-06T12:56:22.090496",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.9602253030331791
+    },
+    {
+        "timestamp": "2024-12-06T12:56:22.590883",
+        "script": "post_queries.py",
+        "cpu_percent": 8.0,
+        "memory_percent": 0.9775586110575515
+    },
+    {
+        "timestamp": "2024-12-06T12:56:23.091629",
+        "script": "post_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 0.9874490865296719
+    },
+    {
+        "timestamp": "2024-12-06T12:56:23.592386",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.9907459116870453
+    },
+    {
+        "timestamp": "2024-12-06T12:56:24.093418",
+        "script": "post_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 0.9907459116870453
+    },
+    {
+        "timestamp": "2024-12-06T12:56:24.593984",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.9907459116870453
+    },
+    {
+        "timestamp": "2024-12-06T12:56:24.594101",
+        "script": "post_queries.py",
+        "total_execution_time": 3.0406394004821777
+    },
+    {
+        "timestamp": "2024-12-06T12:56:25.231997",
+        "script": "post_queries.py",
+        "cpu_percent": 10.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:25.732702",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:26.233158",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:26.733893",
+        "script": "post_queries.py",
+        "cpu_percent": 6.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:27.234696",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:27.735550",
+        "script": "post_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:28.236474",
+        "script": "post_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:28.236786",
+        "script": "post_queries.py",
+        "total_execution_time": 3.3953566551208496
+    },
+    {
+        "timestamp": "2024-12-06T12:56:28.869127",
+        "script": "post_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:29.369740",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:29.870738",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:30.371730",
+        "script": "post_queries.py",
+        "cpu_percent": 2.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:30.872725",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:31.373732",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:31.874748",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:32.375804",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:32.876777",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:33.377692",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:33.878545",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:34.379380",
+        "script": "post_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:34.880278",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:35.381256",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:35.381604",
+        "script": "post_queries.py",
+        "total_execution_time": 7.096673011779785
+    },
+    {
+        "timestamp": "2024-12-06T12:56:36.030996",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:36.531521",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:37.031914",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:37.532333",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:38.032931",
+        "script": "post_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:38.533652",
+        "script": "post_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:38.533971",
+        "script": "post_queries.py",
+        "total_execution_time": 2.8433098793029785
+    },
+    {
+        "timestamp": "2024-12-06T12:56:40.408366",
+        "script": "post_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:40.909166",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:41.409948",
+        "script": "post_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:41.910708",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:42.411769",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:42.412093",
+        "script": "post_queries.py",
+        "total_execution_time": 2.4172918796539307
+    },
+    {
+        "timestamp": "2024-12-06T12:56:43.065204",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:43.566109",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:44.066812",
+        "script": "post_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:44.567597",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:45.068221",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:45.568985",
+        "script": "post_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:46.069976",
+        "script": "post_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:46.570783",
+        "script": "post_queries.py",
+        "cpu_percent": 4.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:46.571181",
+        "script": "post_queries.py",
+        "total_execution_time": 3.7680203914642334
+    },
+    {
+        "timestamp": "2024-12-06T12:56:47.226207",
+        "script": "post_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:47.726720",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:48.227118",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:48.728064",
+        "script": "post_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:49.228863",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.9918948053024937
+    },
+    {
+        "timestamp": "2024-12-06T12:56:49.229188",
+        "script": "post_queries.py",
+        "total_execution_time": 2.3938329219818115
+    },
+    {
+        "timestamp": "2024-12-06T12:56:49.880239",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:56:50.381280",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:56:50.881940",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:56:51.382448",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:56:51.883034",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:56:51.883285",
+        "script": "post_queries.py",
+        "total_execution_time": 2.5729408264160156
+    },
+    {
+        "timestamp": "2024-12-06T12:56:52.519840",
+        "script": "post_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:56:53.020171",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:56:53.520792",
+        "script": "post_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:56:54.021525",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:56:54.522367",
+        "script": "post_queries.py",
+        "cpu_percent": 6.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:56:54.522676",
+        "script": "post_queries.py",
+        "total_execution_time": 2.2109594345092773
+    },
+    {
+        "timestamp": "2024-12-06T12:56:55.180582",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:56:55.684690",
+        "script": "post_queries.py",
+        "cpu_percent": 29.8,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:56:56.185416",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:56:56.686083",
+        "script": "post_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:56:57.186692",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:56:57.687098",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:56:58.187875",
+        "script": "post_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:56:58.188193",
+        "script": "post_queries.py",
+        "total_execution_time": 3.374713182449341
+    },
+    {
+        "timestamp": "2024-12-06T12:56:58.835359",
+        "script": "post_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:56:59.335951",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:56:59.836319",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:00.336968",
+        "script": "post_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:00.837708",
+        "script": "post_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:00.838031",
+        "script": "post_queries.py",
+        "total_execution_time": 2.3702328205108643
+    },
+    {
+        "timestamp": "2024-12-06T12:57:01.486971",
+        "script": "post_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:01.987821",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:02.488476",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:02.988981",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:03.489703",
+        "script": "post_queries.py",
+        "cpu_percent": 6.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:03.490023",
+        "script": "post_queries.py",
+        "total_execution_time": 2.3551764488220215
+    },
+    {
+        "timestamp": "2024-12-06T12:57:04.141334",
+        "script": "post_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:04.642371",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:05.142851",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:05.643571",
+        "script": "post_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:06.144467",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:06.144794",
+        "script": "post_queries.py",
+        "total_execution_time": 2.471223831176758
+    },
+    {
+        "timestamp": "2024-12-06T12:57:06.790810",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:07.291649",
+        "script": "post_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:07.792319",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:08.292697",
+        "script": "post_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:08.793454",
+        "script": "post_queries.py",
+        "cpu_percent": 6.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:08.793768",
+        "script": "post_queries.py",
+        "total_execution_time": 2.28825044631958
+    },
+    {
+        "timestamp": "2024-12-06T12:57:09.442374",
+        "script": "post_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:09.943163",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:10.443711",
+        "script": "post_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:10.944134",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:11.444931",
+        "script": "post_queries.py",
+        "cpu_percent": 6.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:11.445242",
+        "script": "post_queries.py",
+        "total_execution_time": 2.38348126411438
+    },
+    {
+        "timestamp": "2024-12-06T12:57:13.309057",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:13.809882",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:14.310765",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:14.811355",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:15.312201",
+        "script": "post_queries.py",
+        "cpu_percent": 12.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:15.312527",
+        "script": "post_queries.py",
+        "total_execution_time": 3.552593469619751
+    },
+    {
+        "timestamp": "2024-12-06T12:57:15.961574",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:16.462415",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:16.963368",
+        "script": "post_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:17.463910",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:17.964616",
+        "script": "post_queries.py",
+        "cpu_percent": 8.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:17.964973",
+        "script": "post_queries.py",
+        "total_execution_time": 2.3309524059295654
+    },
+    {
+        "timestamp": "2024-12-06T12:57:18.615031",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:19.115615",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:19.616369",
+        "script": "post_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:20.117250",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:20.618065",
+        "script": "post_queries.py",
+        "cpu_percent": 8.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:20.618459",
+        "script": "post_queries.py",
+        "total_execution_time": 2.232978582382202
+    },
+    {
+        "timestamp": "2024-12-06T12:57:21.274530",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:21.775054",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:22.275458",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:22.775928",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:23.276788",
+        "script": "post_queries.py",
+        "cpu_percent": 8.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:23.277134",
+        "script": "post_queries.py",
+        "total_execution_time": 2.2979023456573486
+    },
+    {
+        "timestamp": "2024-12-06T12:57:23.934578",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:24.435446",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:24.936377",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:25.437004",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:25.937650",
+        "script": "post_queries.py",
+        "cpu_percent": 12.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:25.937955",
+        "script": "post_queries.py",
+        "total_execution_time": 2.352165699005127
+    },
+    {
+        "timestamp": "2024-12-06T12:57:26.586658",
+        "script": "post_queries.py",
+        "cpu_percent": 6.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:27.087388",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:27.588491",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:28.089384",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:28.590405",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:29.091317",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:29.592196",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:30.093040",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:30.593891",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:31.094702",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:31.595336",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:32.095853",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:32.597103",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:33.097946",
+        "script": "post_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:33.598747",
+        "script": "post_queries.py",
+        "cpu_percent": 8.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:33.599064",
+        "script": "post_queries.py",
+        "total_execution_time": 7.272180557250977
+    },
+    {
+        "timestamp": "2024-12-06T12:57:34.248527",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:34.749472",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:35.249996",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:35.750385",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:36.251140",
+        "script": "post_queries.py",
+        "cpu_percent": 6.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:36.251466",
+        "script": "post_queries.py",
+        "total_execution_time": 2.387688636779785
+    },
+    {
+        "timestamp": "2024-12-06T12:57:36.907480",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:37.408539",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:37.909413",
+        "script": "post_queries.py",
+        "cpu_percent": 2.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:38.410411",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:38.910950",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:39.411296",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:39.912020",
+        "script": "post_queries.py",
+        "cpu_percent": 6.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:39.912341",
+        "script": "post_queries.py",
+        "total_execution_time": 3.3099398612976074
+    },
+    {
+        "timestamp": "2024-12-06T12:57:40.559467",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:41.059817",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:41.560550",
+        "script": "post_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:42.061364",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:42.562179",
+        "script": "post_queries.py",
+        "cpu_percent": 6.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:42.562500",
+        "script": "post_queries.py",
+        "total_execution_time": 2.233003854751587
+    },
+    {
+        "timestamp": "2024-12-06T12:57:43.213418",
+        "script": "post_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:43.714261",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:44.215248",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:44.715920",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:45.216752",
+        "script": "post_queries.py",
+        "cpu_percent": 6.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:45.217075",
+        "script": "post_queries.py",
+        "total_execution_time": 2.2651798725128174
+    },
+    {
+        "timestamp": "2024-12-06T12:57:47.085932",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:47.586290",
+        "script": "post_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:48.086737",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:48.596540",
+        "script": "post_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:49.097797",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:49.098121",
+        "script": "post_queries.py",
+        "total_execution_time": 3.630995512008667
+    },
+    {
+        "timestamp": "2024-12-06T12:57:49.745350",
+        "script": "post_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:50.245865",
+        "script": "post_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:50.752630",
+        "script": "post_queries.py",
+        "cpu_percent": 17.8,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:51.253664",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:51.754443",
+        "script": "post_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:52.255214",
+        "script": "post_queries.py",
+        "cpu_percent": 8.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:52.255533",
+        "script": "post_queries.py",
+        "total_execution_time": 2.7370951175689697
+    },
+    {
+        "timestamp": "2024-12-06T12:57:52.906660",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:53.407483",
+        "script": "post_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:53.908190",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:54.409029",
+        "script": "post_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:54.909982",
+        "script": "post_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:54.910329",
+        "script": "post_queries.py",
+        "total_execution_time": 2.393223285675049
+    },
+    {
+        "timestamp": "2024-12-06T12:57:55.547488",
+        "script": "post_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:56.048249",
+        "script": "post_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:56.548990",
+        "script": "post_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:57.049643",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:57.550138",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:58.051044",
+        "script": "post_queries.py",
+        "cpu_percent": 12.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:58.051363",
+        "script": "post_queries.py",
+        "total_execution_time": 2.8392250537872314
+    },
+    {
+        "timestamp": "2024-12-06T12:57:58.702482",
+        "script": "post_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:59.202976",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:57:59.703626",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:58:00.204452",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:58:00.705370",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:58:00.705683",
+        "script": "post_queries.py",
+        "total_execution_time": 2.4103870391845703
+    },
+    {
+        "timestamp": "2024-12-06T12:58:01.365586",
+        "script": "post_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:58:01.866250",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:58:02.366767",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:58:02.867522",
+        "script": "post_queries.py",
+        "cpu_percent": 4.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:58:03.368370",
+        "script": "post_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:58:03.869293",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:58:03.869589",
+        "script": "post_queries.py",
+        "total_execution_time": 2.9506442546844482
+    },
+    {
+        "timestamp": "2024-12-06T12:58:04.520253",
+        "script": "post_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:58:05.021249",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:58:05.521763",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:58:06.022598",
+        "script": "post_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:58:06.523519",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:58:06.523826",
+        "script": "post_queries.py",
+        "total_execution_time": 2.4447343349456787
+    },
+    {
+        "timestamp": "2024-12-06T12:58:07.169658",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:58:07.670571",
+        "script": "post_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:58:08.171621",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:58:08.672207",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:58:09.172534",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:58:09.673184",
+        "script": "post_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:58:09.673495",
+        "script": "post_queries.py",
+        "total_execution_time": 2.842060089111328
+    },
+    {
+        "timestamp": "2024-12-06T12:58:10.328220",
+        "script": "post_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:58:10.829133",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:58:11.329710",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:58:11.830196",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:58:12.331032",
+        "script": "post_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:58:12.331333",
+        "script": "post_queries.py",
+        "total_execution_time": 2.369173526763916
+    },
+    {
+        "timestamp": "2024-12-06T12:58:12.981751",
+        "script": "post_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:58:13.482454",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:58:13.983174",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:58:14.484068",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:58:14.985120",
+        "script": "post_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:58:14.985435",
+        "script": "post_queries.py",
+        "total_execution_time": 2.3873040676116943
+    },
+    {
+        "timestamp": "2024-12-06T12:58:15.639991",
+        "script": "post_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:58:16.140969",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:58:16.641754",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:58:17.142785",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:58:17.643643",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:58:17.643959",
+        "script": "post_queries.py",
+        "total_execution_time": 2.39064884185791
+    },
+    {
+        "timestamp": "2024-12-06T12:58:18.293334",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:58:18.794142",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.9951916304598671
+    },
+    {
+        "timestamp": "2024-12-06T12:58:20.513310",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0175700800129477
+    },
+    {
+        "timestamp": "2024-12-06T12:58:21.013755",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0175700800129477
+    },
+    {
+        "timestamp": "2024-12-06T12:58:21.514468",
+        "script": "post_queries.py",
+        "cpu_percent": 8.0,
+        "memory_percent": 1.0175700800129477
+    },
+    {
+        "timestamp": "2024-12-06T12:58:21.514773",
+        "script": "post_queries.py",
+        "total_execution_time": 3.5314078330993652
+    },
+    {
+        "timestamp": "2024-12-06T12:58:22.168117",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:22.669057",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:23.170118",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:23.670961",
+        "script": "post_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:24.171754",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:24.672268",
+        "script": "post_queries.py",
+        "cpu_percent": 10.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:25.173048",
+        "script": "post_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:25.173365",
+        "script": "post_queries.py",
+        "total_execution_time": 3.452852249145508
+    },
+    {
+        "timestamp": "2024-12-06T12:58:25.822343",
+        "script": "post_queries.py",
+        "cpu_percent": 10.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:26.323293",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:26.824072",
+        "script": "post_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:27.324938",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:27.825747",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:28.326470",
+        "script": "post_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:28.326867",
+        "script": "post_queries.py",
+        "total_execution_time": 2.905646800994873
+    },
+    {
+        "timestamp": "2024-12-06T12:58:28.972703",
+        "script": "post_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:29.473152",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:29.973789",
+        "script": "post_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:30.474594",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:30.975587",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:30.975910",
+        "script": "post_queries.py",
+        "total_execution_time": 2.421114921569824
+    },
+    {
+        "timestamp": "2024-12-06T12:58:31.627372",
+        "script": "post_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:32.127758",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:32.628585",
+        "script": "post_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:33.129085",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:33.629886",
+        "script": "post_queries.py",
+        "cpu_percent": 2.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:34.130817",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:34.631690",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:35.132535",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:35.633338",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:36.134193",
+        "script": "post_queries.py",
+        "cpu_percent": 2.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:36.635148",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:37.135988",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:37.636941",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:38.137470",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:38.137672",
+        "script": "post_queries.py",
+        "total_execution_time": 7.045162200927734
+    },
+    {
+        "timestamp": "2024-12-06T12:58:38.776757",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:39.277372",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:39.778085",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:40.278908",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:40.779939",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:40.780247",
+        "script": "post_queries.py",
+        "total_execution_time": 2.441673994064331
+    },
+    {
+        "timestamp": "2024-12-06T12:58:41.427414",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:41.927970",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:42.428310",
+        "script": "post_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:42.929027",
+        "script": "post_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:43.430058",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:43.930988",
+        "script": "post_queries.py",
+        "cpu_percent": 8.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:43.931313",
+        "script": "post_queries.py",
+        "total_execution_time": 2.961387872695923
+    },
+    {
+        "timestamp": "2024-12-06T12:58:44.577988",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:45.081242",
+        "script": "post_queries.py",
+        "cpu_percent": 27.8,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:45.582095",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:46.082977",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:46.583724",
+        "script": "post_queries.py",
+        "cpu_percent": 12.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:46.584050",
+        "script": "post_queries.py",
+        "total_execution_time": 2.2464280128479004
+    },
+    {
+        "timestamp": "2024-12-06T12:58:47.234877",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:47.735830",
+        "script": "post_queries.py",
+        "cpu_percent": 2.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:48.241845",
+        "script": "post_queries.py",
+        "cpu_percent": 31.7,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:48.742919",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:49.243877",
+        "script": "post_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:49.750694",
+        "script": "post_queries.py",
+        "cpu_percent": 21.7,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:50.251537",
+        "script": "post_queries.py",
+        "cpu_percent": 4.0,
+        "memory_percent": 0.9955912456304579
+    },
+    {
+        "timestamp": "2024-12-06T12:58:50.251862",
+        "script": "post_queries.py",
+        "total_execution_time": 3.134962558746338
+    },
+    {
+        "timestamp": "2024-12-06T12:58:50.903520",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:58:51.404252",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:58:51.904742",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:58:52.405465",
+        "script": "post_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:58:53.967262",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:58:53.967573",
+        "script": "post_queries.py",
+        "total_execution_time": 3.489393711090088
+    },
+    {
+        "timestamp": "2024-12-06T12:58:54.617077",
+        "script": "post_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:58:55.117825",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:58:55.618539",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:58:56.119301",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:58:56.620350",
+        "script": "post_queries.py",
+        "cpu_percent": 8.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:58:56.620668",
+        "script": "post_queries.py",
+        "total_execution_time": 2.265148639678955
+    },
+    {
+        "timestamp": "2024-12-06T12:58:57.274585",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:58:57.775505",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:58:58.276080",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:58:58.776317",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:58:59.276772",
+        "script": "post_queries.py",
+        "cpu_percent": 8.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:58:59.277024",
+        "script": "post_queries.py",
+        "total_execution_time": 2.523611068725586
+    },
+    {
+        "timestamp": "2024-12-06T12:58:59.918939",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:00.419342",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:00.920270",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:01.421222",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:01.922059",
+        "script": "post_queries.py",
+        "cpu_percent": 10.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:01.922367",
+        "script": "post_queries.py",
+        "total_execution_time": 2.19641375541687
+    },
+    {
+        "timestamp": "2024-12-06T12:59:02.577043",
+        "script": "post_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:03.077757",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:03.578548",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:04.079473",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:04.580415",
+        "script": "post_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:04.580719",
+        "script": "post_queries.py",
+        "total_execution_time": 2.197633743286133
+    },
+    {
+        "timestamp": "2024-12-06T12:59:05.232493",
+        "script": "post_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:05.732950",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:06.233602",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:06.735352",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:07.236334",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:07.236661",
+        "script": "post_queries.py",
+        "total_execution_time": 2.4491007328033447
+    },
+    {
+        "timestamp": "2024-12-06T12:59:07.887300",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:08.388029",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:08.888487",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:09.389137",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:09.900620",
+        "script": "post_queries.py",
+        "cpu_percent": 13.9,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:10.401548",
+        "script": "post_queries.py",
+        "cpu_percent": 4.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:10.401861",
+        "script": "post_queries.py",
+        "total_execution_time": 2.62459659576416
+    },
+    {
+        "timestamp": "2024-12-06T12:59:11.052362",
+        "script": "post_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:11.553063",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:12.054076",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:12.554793",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:13.055404",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:13.055520",
+        "script": "post_queries.py",
+        "total_execution_time": 2.593855381011963
+    },
+    {
+        "timestamp": "2024-12-06T12:59:13.682470",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:14.183307",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:14.684364",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:15.185271",
+        "script": "post_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:15.686233",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:15.686555",
+        "script": "post_queries.py",
+        "total_execution_time": 2.4012866020202637
+    },
+    {
+        "timestamp": "2024-12-06T12:59:16.342517",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:16.843199",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:17.344402",
+        "script": "post_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:17.845348",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:18.346258",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:18.346695",
+        "script": "post_queries.py",
+        "total_execution_time": 2.5029025077819824
+    },
+    {
+        "timestamp": "2024-12-06T12:59:19.000524",
+        "script": "post_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:19.501186",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:20.001719",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:20.503266",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:21.004200",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:21.004521",
+        "script": "post_queries.py",
+        "total_execution_time": 2.415175199508667
+    },
+    {
+        "timestamp": "2024-12-06T12:59:21.656927",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:22.157576",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:22.658408",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:23.159177",
+        "script": "post_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:23.660101",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:23.660396",
+        "script": "post_queries.py",
+        "total_execution_time": 2.394040822982788
+    },
+    {
+        "timestamp": "2024-12-06T12:59:24.308856",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:24.809607",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:25.310419",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:27.187062",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:27.687797",
+        "script": "post_queries.py",
+        "cpu_percent": 10.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:27.688089",
+        "script": "post_queries.py",
+        "total_execution_time": 3.6068274974823
+    },
+    {
+        "timestamp": "2024-12-06T12:59:28.337850",
+        "script": "post_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:28.838886",
+        "script": "post_queries.py",
+        "cpu_percent": 38.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:29.339806",
+        "script": "post_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:29.840650",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:30.341669",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:30.341998",
+        "script": "post_queries.py",
+        "total_execution_time": 2.4575555324554443
+    },
+    {
+        "timestamp": "2024-12-06T12:59:31.003089",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:31.503805",
+        "script": "post_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:32.004217",
+        "script": "post_queries.py",
+        "cpu_percent": 38.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:32.512068",
+        "script": "post_queries.py",
+        "cpu_percent": 21.7,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:33.012874",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:33.013170",
+        "script": "post_queries.py",
+        "total_execution_time": 2.4049835205078125
+    },
+    {
+        "timestamp": "2024-12-06T12:59:33.664958",
+        "script": "post_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:34.165510",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:34.665900",
+        "script": "post_queries.py",
+        "cpu_percent": 38.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:35.166494",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:35.166725",
+        "script": "post_queries.py",
+        "total_execution_time": 2.062520742416382
+    },
+    {
+        "timestamp": "2024-12-06T12:59:35.808202",
+        "script": "post_queries.py",
+        "cpu_percent": 2.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:36.308756",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:36.809089",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:37.309709",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:37.810194",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:38.311064",
+        "script": "post_queries.py",
+        "cpu_percent": 12.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:38.311380",
+        "script": "post_queries.py",
+        "total_execution_time": 2.748102903366089
+    },
+    {
+        "timestamp": "2024-12-06T12:59:38.965025",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:39.466036",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:39.966757",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:40.467307",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:40.967997",
+        "script": "post_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:41.468769",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:41.969482",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:42.470303",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:42.470685",
+        "script": "post_queries.py",
+        "total_execution_time": 4.076672792434692
+    },
+    {
+        "timestamp": "2024-12-06T12:59:43.125184",
+        "script": "post_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:43.626015",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:44.127030",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:44.627818",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:45.128744",
+        "script": "post_queries.py",
+        "cpu_percent": 10.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:45.129061",
+        "script": "post_queries.py",
+        "total_execution_time": 2.270371437072754
+    },
+    {
+        "timestamp": "2024-12-06T12:59:45.785095",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:46.285800",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:46.786243",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:47.286854",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:47.787416",
+        "script": "post_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:47.787547",
+        "script": "post_queries.py",
+        "total_execution_time": 2.376728057861328
+    },
+    {
+        "timestamp": "2024-12-06T12:59:48.419627",
+        "script": "post_queries.py",
+        "cpu_percent": 6.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:48.920251",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:49.420770",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:49.921520",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:50.422357",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:50.923186",
+        "script": "post_queries.py",
+        "cpu_percent": 10.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:50.923494",
+        "script": "post_queries.py",
+        "total_execution_time": 2.717378854751587
+    },
+    {
+        "timestamp": "2024-12-06T12:59:51.585864",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:52.086732",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:52.587765",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:53.088190",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:53.588947",
+        "script": "post_queries.py",
+        "cpu_percent": 12.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:53.589264",
+        "script": "post_queries.py",
+        "total_execution_time": 2.3552536964416504
+    },
+    {
+        "timestamp": "2024-12-06T12:59:54.246200",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:54.747179",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:55.248031",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:55.749003",
+        "script": "post_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:56.249485",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:56.249648",
+        "script": "post_queries.py",
+        "total_execution_time": 2.5415847301483154
+    },
+    {
+        "timestamp": "2024-12-06T12:59:56.884903",
+        "script": "post_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:57.385885",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:57.886773",
+        "script": "post_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:58.387656",
+        "script": "post_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T12:59:58.888528",
+        "script": "post_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:00.979136",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:00.979448",
+        "script": "post_queries.py",
+        "total_execution_time": 2.8988547325134277
+    },
+    {
+        "timestamp": "2024-12-06T13:00:01.643226",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:02.144084",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:02.644887",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:03.145582",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:03.646348",
+        "script": "post_queries.py",
+        "cpu_percent": 10.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:03.646745",
+        "script": "post_queries.py",
+        "total_execution_time": 2.301459550857544
+    },
+    {
+        "timestamp": "2024-12-06T13:00:04.298402",
+        "script": "post_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:04.798903",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:05.299665",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:05.800553",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:06.301126",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:06.301281",
+        "script": "post_queries.py",
+        "total_execution_time": 2.5872459411621094
+    },
+    {
+        "timestamp": "2024-12-06T13:00:06.929207",
+        "script": "post_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:07.429941",
+        "script": "post_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:07.930707",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:08.434866",
+        "script": "post_queries.py",
+        "cpu_percent": 19.9,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:08.935542",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:09.436252",
+        "script": "post_queries.py",
+        "cpu_percent": 12.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:09.436598",
+        "script": "post_queries.py",
+        "total_execution_time": 2.8107175827026367
+    },
+    {
+        "timestamp": "2024-12-06T13:00:10.098775",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:10.599470",
+        "script": "post_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:11.100263",
+        "script": "post_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:11.601099",
+        "script": "post_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:12.102034",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:12.602779",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:13.106080",
+        "script": "post_queries.py",
+        "cpu_percent": 15.9,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:13.607130",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:13.607431",
+        "script": "post_queries.py",
+        "total_execution_time": 4.003610610961914
+    },
+    {
+        "timestamp": "2024-12-06T13:00:14.251785",
+        "script": "post_queries.py",
+        "cpu_percent": 10.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:14.752574",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:15.253393",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:15.753872",
+        "script": "post_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:16.254361",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:16.254510",
+        "script": "post_queries.py",
+        "total_execution_time": 2.5551645755767822
+    },
+    {
+        "timestamp": "2024-12-06T13:00:16.900159",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:17.400895",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:17.901583",
+        "script": "post_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:18.401977",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:18.902579",
+        "script": "post_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:19.403310",
+        "script": "post_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:19.904059",
+        "script": "post_queries.py",
+        "cpu_percent": 10.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:19.904375",
+        "script": "post_queries.py",
+        "total_execution_time": 3.4071998596191406
+    },
+    {
+        "timestamp": "2024-12-06T13:00:20.560987",
+        "script": "post_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:21.061809",
+        "script": "post_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:21.562366",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:22.063105",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:22.563981",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:22.564302",
+        "script": "post_queries.py",
+        "total_execution_time": 2.5118138790130615
+    },
+    {
+        "timestamp": "2024-12-06T13:00:23.225057",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:23.725998",
+        "script": "post_queries.py",
+        "cpu_percent": 2.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:24.227034",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:24.727976",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:25.228963",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:25.729849",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:26.230790",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:26.731809",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:27.232803",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:27.733801",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:28.234700",
+        "script": "post_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:28.735699",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:29.236694",
+        "script": "post_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:29.737612",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:29.737922",
+        "script": "post_queries.py",
+        "total_execution_time": 7.0297136306762695
+    },
+    {
+        "timestamp": "2024-12-06T13:00:30.395743",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:30.896702",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:31.397547",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:31.898307",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:32.399130",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:32.899992",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:32.900306",
+        "script": "post_queries.py",
+        "total_execution_time": 2.948577404022217
+    },
+    {
+        "timestamp": "2024-12-06T13:00:34.832597",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:35.333117",
+        "script": "post_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:35.833565",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:36.334297",
+        "script": "post_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:36.834868",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:37.335583",
+        "script": "post_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:37.335896",
+        "script": "post_queries.py",
+        "total_execution_time": 4.055953502655029
+    },
+    {
+        "timestamp": "2024-12-06T13:00:37.999637",
+        "script": "post_queries.py",
+        "cpu_percent": 10.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:38.500372",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:39.001187",
+        "script": "post_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:39.502365",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:40.003183",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:40.503921",
+        "script": "post_queries.py",
+        "cpu_percent": 12.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:40.504229",
+        "script": "post_queries.py",
+        "total_execution_time": 2.8296639919281006
+    },
+    {
+        "timestamp": "2024-12-06T13:00:41.162837",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:41.663241",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:42.164173",
+        "script": "post_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:42.665828",
+        "script": "post_queries.py",
+        "cpu_percent": 29.9,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:43.166734",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:43.667609",
+        "script": "post_queries.py",
+        "cpu_percent": 12.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:43.667977",
+        "script": "post_queries.py",
+        "total_execution_time": 2.6858675479888916
+    },
+    {
+        "timestamp": "2024-12-06T13:00:44.322172",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:44.823030",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:45.324055",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:45.824976",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:46.325869",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:46.326159",
+        "script": "post_queries.py",
+        "total_execution_time": 2.49204158782959
+    },
+    {
+        "timestamp": "2024-12-06T13:00:46.998796",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:47.499736",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:48.000526",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:48.501226",
+        "script": "post_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:49.002333",
+        "script": "post_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:49.002603",
+        "script": "post_queries.py",
+        "total_execution_time": 2.365835666656494
+    },
+    {
+        "timestamp": "2024-12-06T13:00:49.656071",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:50.156643",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:50.657297",
+        "script": "post_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:51.157694",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:51.658291",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:52.159091",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:52.659916",
+        "script": "post_queries.py",
+        "cpu_percent": 12.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:52.660230",
+        "script": "post_queries.py",
+        "total_execution_time": 3.1746888160705566
+    },
+    {
+        "timestamp": "2024-12-06T13:00:53.319496",
+        "script": "post_queries.py",
+        "cpu_percent": 0.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:53.820075",
+        "script": "post_queries.py",
+        "cpu_percent": 38.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:54.320671",
+        "script": "post_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:54.821610",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:55.322292",
+        "script": "post_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:55.823053",
+        "script": "post_queries.py",
+        "cpu_percent": 12.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:55.823410",
+        "script": "post_queries.py",
+        "total_execution_time": 2.7756049633026123
+    },
+    {
+        "timestamp": "2024-12-06T13:00:56.473371",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:56.974191",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:57.474835",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:57.975212",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:58.475868",
+        "script": "post_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:58.476182",
+        "script": "post_queries.py",
+        "total_execution_time": 2.3537724018096924
+    },
+    {
+        "timestamp": "2024-12-06T13:00:59.137662",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:00:59.638216",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:00.138885",
+        "script": "post_queries.py",
+        "cpu_percent": 2.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:00.639745",
+        "script": "post_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:01.140760",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:01.641461",
+        "script": "post_queries.py",
+        "cpu_percent": 10.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:01.641614",
+        "script": "post_queries.py",
+        "total_execution_time": 2.7100830078125
+    },
+    {
+        "timestamp": "2024-12-06T13:01:02.274714",
+        "script": "post_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:02.775811",
+        "script": "post_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:03.276709",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:03.777177",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:04.277733",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:04.277885",
+        "script": "post_queries.py",
+        "total_execution_time": 2.5491292476654053
+    },
+    {
+        "timestamp": "2024-12-06T13:01:04.915401",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:05.417450",
+        "script": "post_queries.py",
+        "cpu_percent": 31.9,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:05.918275",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:06.418679",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:08.230452",
+        "script": "post_queries.py",
+        "cpu_percent": 12.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:08.230776",
+        "script": "post_queries.py",
+        "total_execution_time": 2.3259918689727783
+    },
+    {
+        "timestamp": "2024-12-06T13:01:08.892537",
+        "script": "post_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:09.393177",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:09.894023",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:10.394882",
+        "script": "post_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:10.895377",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:10.895472",
+        "script": "post_queries.py",
+        "total_execution_time": 2.6039845943450928
+    },
+    {
+        "timestamp": "2024-12-06T13:01:11.528378",
+        "script": "post_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:12.029104",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:12.529830",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:13.030330",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:13.531117",
+        "script": "post_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:13.531445",
+        "script": "post_queries.py",
+        "total_execution_time": 2.3116281032562256
+    },
+    {
+        "timestamp": "2024-12-06T13:01:14.188893",
+        "script": "post_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:14.689739",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:15.190291",
+        "script": "post_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:15.690879",
+        "script": "post_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:16.191713",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:16.692557",
+        "script": "post_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:16.692947",
+        "script": "post_queries.py",
+        "total_execution_time": 2.6956582069396973
+    },
+    {
+        "timestamp": "2024-12-06T13:01:17.342196",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:17.843218",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:18.343900",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:18.844600",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:19.345558",
+        "script": "post_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:19.846409",
+        "script": "post_queries.py",
+        "cpu_percent": 10.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:19.846738",
+        "script": "post_queries.py",
+        "total_execution_time": 2.739529848098755
+    },
+    {
+        "timestamp": "2024-12-06T13:01:20.517866",
+        "script": "post_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:21.018406",
+        "script": "post_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:21.519111",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:22.019976",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:22.520855",
+        "script": "post_queries.py",
+        "cpu_percent": 18.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:23.021611",
+        "script": "post_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:23.021924",
+        "script": "post_queries.py",
+        "total_execution_time": 2.711927652359009
+    },
+    {
+        "timestamp": "2024-12-06T13:01:23.679941",
+        "script": "post_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:24.180724",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:24.681496",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:25.182209",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:25.683095",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:25.683392",
+        "script": "post_queries.py",
+        "total_execution_time": 2.4807746410369873
+    },
+    {
+        "timestamp": "2024-12-06T13:01:26.337667",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:26.838197",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:27.338894",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:27.839626",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:28.340492",
+        "script": "post_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 0.998688263202536
+    },
+    {
+        "timestamp": "2024-12-06T13:01:28.841323",
+        "script": "post_queries.py",
+        "cpu_percent": 12.0,
+        "memory_percent": 1.0019850883599093
+    },
+    {
+        "timestamp": "2024-12-06T13:01:28.841636",
+        "script": "post_queries.py",
+        "total_execution_time": 2.6667802333831787
+    },
+    {
+        "timestamp": "2024-12-06T13:01:29.494622",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0019850883599093
+    },
+    {
+        "timestamp": "2024-12-06T13:01:29.995442",
+        "script": "post_queries.py",
+        "cpu_percent": 26.0,
+        "memory_percent": 1.0019850883599093
+    },
+    {
+        "timestamp": "2024-12-06T13:01:30.496121",
+        "script": "post_queries.py",
+        "cpu_percent": 36.0,
+        "memory_percent": 1.0019850883599093
+    },
+    {
+        "timestamp": "2024-12-06T13:01:30.996898",
+        "script": "post_queries.py",
+        "cpu_percent": 16.0,
+        "memory_percent": 1.0019850883599093
+    },
+    {
+        "timestamp": "2024-12-06T13:01:31.497492",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0019850883599093
+    },
+    {
+        "timestamp": "2024-12-06T13:01:31.497642",
+        "script": "post_queries.py",
+        "total_execution_time": 2.5537736415863037
+    },
+    {
+        "timestamp": "2024-12-06T13:01:32.131973",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.0019850883599093
+    },
+    {
+        "timestamp": "2024-12-06T13:01:32.632743",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0019850883599093
+    },
+    {
+        "timestamp": "2024-12-06T13:01:33.133201",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0019850883599093
+    },
+    {
+        "timestamp": "2024-12-06T13:01:33.634106",
+        "script": "post_queries.py",
+        "cpu_percent": 14.0,
+        "memory_percent": 1.0019850883599093
+    },
+    {
+        "timestamp": "2024-12-06T13:01:34.134769",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0019850883599093
+    },
+    {
+        "timestamp": "2024-12-06T13:01:34.134987",
+        "script": "post_queries.py",
+        "total_execution_time": 2.5326459407806396
+    },
+    {
+        "timestamp": "2024-12-06T13:01:34.782393",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0019850883599093
+    },
+    {
+        "timestamp": "2024-12-06T13:01:35.283299",
+        "script": "post_queries.py",
+        "cpu_percent": 32.0,
+        "memory_percent": 1.0019850883599093
+    },
+    {
+        "timestamp": "2024-12-06T13:01:35.784187",
+        "script": "post_queries.py",
+        "cpu_percent": 30.0,
+        "memory_percent": 1.0019850883599093
+    },
+    {
+        "timestamp": "2024-12-06T13:01:36.284939",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0019850883599093
+    },
+    {
+        "timestamp": "2024-12-06T13:01:36.785841",
+        "script": "post_queries.py",
+        "cpu_percent": 12.0,
+        "memory_percent": 1.0019850883599093
+    },
+    {
+        "timestamp": "2024-12-06T13:01:36.786162",
+        "script": "post_queries.py",
+        "total_execution_time": 2.2632205486297607
+    },
+    {
+        "timestamp": "2024-12-06T13:01:37.445812",
+        "script": "post_queries.py",
+        "cpu_percent": 22.0,
+        "memory_percent": 1.0019850883599093
+    },
+    {
+        "timestamp": "2024-12-06T13:01:37.946654",
+        "script": "post_queries.py",
+        "cpu_percent": 24.0,
+        "memory_percent": 1.0019850883599093
+    },
+    {
+        "timestamp": "2024-12-06T13:01:38.447104",
+        "script": "post_queries.py",
+        "cpu_percent": 34.0,
+        "memory_percent": 1.0019850883599093
+    },
+    {
+        "timestamp": "2024-12-06T13:01:38.947479",
+        "script": "post_queries.py",
+        "cpu_percent": 28.0,
+        "memory_percent": 1.0019850883599093
+    },
+    {
+        "timestamp": "2024-12-06T13:01:39.448459",
+        "script": "post_queries.py",
+        "cpu_percent": 20.0,
+        "memory_percent": 1.0019850883599093
+    },
+    {
+        "timestamp": "2024-12-06T13:01:39.448817",
+        "script": "post_queries.py",
+        "total_execution_time": 2.376870632171631
+    }
+]
