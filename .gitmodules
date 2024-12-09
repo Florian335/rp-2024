@@ -1,0 +1,3 @@
+[submodule "incubator-wayang"]
+	path = incubator-wayang
+	url = git@github.com:Florian335/incubator-wayang.git
