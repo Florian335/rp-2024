@@ -22,6 +22,50 @@ Explore all performance results in the `Results` folder.
 
 ---
 
+# **How to Run Your Apache Wayang Fork and Test the Custom Operator `RestAPISource`**
+
+Follow the steps below to clone, build, and test your custom Apache Wayang fork.
+
+---
+
+## **Prerequisites**
+Ensure the following tools are installed and configured on your system:
+- **Java 11**: Installed and added to your system's `PATH`.
+- **Apache Maven**: Installed and added to your system's `PATH`.
+- **Ubuntu WSL**: If you are on Windows, it is significantly easier to run Apache Wayang in the Ubuntu subsystem.
+---
+
+## **Step-by-Step Instructions**
+
+### **1. Clone the Repository**
+Use the following command to clone the repository with all submodules:
+```zsh
+git clone --recurse-submodules <repository-url>
 ```
-mvn clean install
+### **2. Check submodules**
+Check if the submodules are initialzed correctly:
+```zsh
+git submodule update --init --recursive
+```
+### **3.Navigate to incubator-wayang**
+```zsh
+cd incubator-wayang
+```
+### **4.Compile Apache Wayang**
+```zsh
+mvn clean install -DskipTests
+```
+### **5.Navigate to wayang-benchmark**
+```zsh
+cd wayang-benchmark
+```
+### **6. Recompile the module**
+```zsh
+mvn clean
+mvn compile
+```
+### **7. Run the custom test**
+Run my simple test file which utilizes the JSONPlaceholder API and outputs the word counts:
+```
+mvn exec:java -Dexec.mainClass="org.apache.wayang.apps.wordcount.WordCountREST"
 ```
