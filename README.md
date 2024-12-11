@@ -22,3 +22,6 @@ Explore all performance results in the `Results` folder.
 
 ---
 
+```
+mvn clean install
+```
