@@ -22,7 +22,7 @@ Explore all performance results in the `Results` folder.
 
 ---
 
-# **How to run my Apache Wayang fork and test the custom operator `RestAPISource`**
+### **How to run my Apache Wayang fork and test the custom RestAPISource operator**
 
 Follow the steps below to clone, build, and test your custom Apache Wayang fork.
 
