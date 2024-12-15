@@ -1,6 +1,6 @@
 # Research Project
 
-Welcome to my research project! Below, you'll find a guide to explore the key components and results of this work.
+Welcome to my research project! Below, I've included a guide to explore my work and results.
 
 ---
 
